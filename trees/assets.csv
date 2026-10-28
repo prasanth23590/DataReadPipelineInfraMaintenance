@@ -1,0 +1,1182 @@
+tree_id,source,source_tree_id,latitude,longitude,scientific_name,common_name,family,height_m,crown_width_m,dbh_mm,year_established,protected_area_ids,in_significant_landscape_tree_overlay
+SHW-0001,Sherwood Arboretum,1,-27.52919753,152.9735889,Agathis robusta,Queensland kauri pine,Araucariaceae,26,20,890,1925,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-0002,Sherwood Arboretum,2,-27.52922079,152.9734639,Agathis robusta,Queensland kauri pine,Araucariaceae,26,14,780,1925,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-0003,Sherwood Arboretum,3,-27.52930499,152.9736012,Agathis robusta,Queensland kauri pine,Araucariaceae,27,11,570,1925,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-0004,Sherwood Arboretum,4,-27.52932675,152.9734889,Agathis robusta,Queensland kauri pine,Araucariaceae,25,15,800,1925,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-0005,Sherwood Arboretum,5,-27.52940888,152.9736241,Agathis robusta,Queensland kauri pine,Araucariaceae,20,16,620,1925,NALL-CV-2257;NALL-SNV-881,No
+SHW-0006,Sherwood Arboretum,6,-27.52943286,152.9735073,Agathis robusta,Queensland kauri pine,Araucariaceae,22,15,370,1925,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-0007,Sherwood Arboretum,7,-27.52950503,152.9736552,Agathis robusta,Queensland kauri pine,Araucariaceae,21,10,650,1925,NALL-CV-2257;NALL-SNV-881,No
+SHW-0008,Sherwood Arboretum,8,-27.52954199,152.9735355,Agathis robusta,Queensland kauri pine,Araucariaceae,23,10,540,1925,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-0009,Sherwood Arboretum,9,-27.52963312,152.9736657,Agathis robusta,Queensland kauri pine,Araucariaceae,24,16,670,1925,NALL-CV-2257;NALL-SNV-881,No
+SHW-0010,Sherwood Arboretum,10,-27.52964977,152.9735534,Agathis robusta,Queensland kauri pine,Araucariaceae,24,13,570,1925,NALL-CV-2257;NALL-SNV-881,No
+SHW-0011,Sherwood Arboretum,11,-27.52973549,152.9736854,Agathis robusta,Queensland kauri pine,Araucariaceae,25,15,680,1925,NALL-CV-2257;NALL-SNV-881,No
+SHW-0012,Sherwood Arboretum,12,-27.52976177,152.9735744,Agathis robusta,Queensland kauri pine,Araucariaceae,22,15,770,1925,NALL-CV-2257;NALL-SNV-881,No
+SHW-0013,Sherwood Arboretum,13,-27.52984024,152.9737168,Agathis robusta,Queensland kauri pine,Araucariaceae,20,17,610,1925,NALL-CV-2257;NALL-SNV-881,No
+SHW-0014,Sherwood Arboretum,14,-27.52986748,152.9735995,Agathis robusta,Queensland kauri pine,Araucariaceae,20,14,620,1925,NALL-CV-2257;NALL-SNV-881,No
+SHW-0015,Sherwood Arboretum,15,-27.52995775,152.973729,Agathis robusta,Queensland kauri pine,Araucariaceae,20,13,570,1925,NALL-CV-2257;NALL-SNV-881,No
+SHW-0016,Sherwood Arboretum,16,-27.5299763,152.9736125,Agathis robusta,Queensland kauri pine,Araucariaceae,16,7,360,1925,NALL-CV-2257;NALL-SNV-881,No
+SHW-0017,Sherwood Arboretum,17,-27.53006283,152.9737474,Agathis robusta,Queensland kauri pine,Araucariaceae,18,14,630,1925,NALL-CV-2257;NALL-SNV-881,No
+SHW-0018,Sherwood Arboretum,18,-27.53008472,152.9736322,Agathis robusta,Queensland kauri pine,Araucariaceae,16,7,380,1925,NALL-CV-2257;NALL-SNV-881,No
+SHW-0019,Sherwood Arboretum,19,-27.5301679,152.9737692,Agathis robusta,Queensland kauri pine,Araucariaceae,18,8,570,1925,NALL-CV-2257;NALL-SNV-881,No
+SHW-0020,Sherwood Arboretum,20,-27.53018925,152.9736477,Agathis robusta,Queensland kauri pine,Araucariaceae,20,14,790,1925,NALL-CV-2257;NALL-SNV-881,No
+SHW-0021,Sherwood Arboretum,21,-27.53027528,152.9737977,Agathis robusta,Queensland kauri pine,Araucariaceae,22,9,570,1925,NALL-CV-2257;NALL-SNV-881,No
+SHW-0022,Sherwood Arboretum,22,-27.5302999,152.9736668,Agathis robusta,Queensland kauri pine,Araucariaceae,15,6,390,1925,NALL-CV-2257;NALL-SNV-881,No
+SHW-0023,Sherwood Arboretum,23,-27.53038449,152.9738211,Agathis robusta,Queensland kauri pine,Araucariaceae,20,11,560,1925,NALL-CV-2257;NALL-SNV-881,No
+SHW-0024,Sherwood Arboretum,24,-27.53040831,152.9737031,Agathis robusta,Queensland kauri pine,Araucariaceae,18,13,600,1925,NALL-CV-2257;NALL-SNV-881,No
+SHW-0025,Sherwood Arboretum,25,-27.53049299,152.9738257,Agathis robusta,Queensland kauri pine,Araucariaceae,22,12,750,1925,NALL-CV-2257;NALL-SNV-881,No
+SHW-0026,Sherwood Arboretum,26,-27.53051689,152.9737096,Agathis robusta,Queensland kauri pine,Araucariaceae,19,11,600,1925,NALL-CV-2257;NALL-SNV-881,No
+SHW-0027,Sherwood Arboretum,27,-27.53060435,152.9738461,Agathis robusta,Queensland kauri pine,Araucariaceae,22,15,670,1925,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-0028,Sherwood Arboretum,28,-27.53062666,152.9737306,Agathis robusta,Queensland kauri pine,Araucariaceae,17,12,620,1925,NALL-CV-2257;NALL-SNV-881,No
+SHW-0029,Sherwood Arboretum,29,-27.53070617,152.9738747,Agathis robusta,Queensland kauri pine,Araucariaceae,20,11,660,1925,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-0030,Sherwood Arboretum,30,-27.53073381,152.9737504,Agathis robusta,Queensland kauri pine,Araucariaceae,18,13,640,1925,NALL-CV-2257;NALL-SNV-881,No
+SHW-0031,Sherwood Arboretum,31,-27.53081443,152.9738985,Agathis robusta,Queensland kauri pine,Araucariaceae,18,10,460,1925,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-0032,Sherwood Arboretum,32,-27.53084334,152.9737724,Agathis robusta,Queensland kauri pine,Araucariaceae,17,10,640,1925,NALL-CV-2257;NALL-SNV-881,No
+SHW-0033,Sherwood Arboretum,33,-27.53093782,152.9739108,Agathis robusta,Queensland kauri pine,Araucariaceae,10,3,180,2013,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-0034,Sherwood Arboretum,34,-27.53095271,152.9738017,Agathis robusta,Queensland kauri pine,Araucariaceae,16,10,552,1925,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-0035,Sherwood Arboretum,35,-27.53104066,152.9739285,Agathis robusta,Queensland kauri pine,Araucariaceae,10,2,160,2018,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-0036,Sherwood Arboretum,36,-27.53106089,152.9738182,Agathis robusta,Queensland kauri pine,Araucariaceae,13,7,510,1925,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-0037,Sherwood Arboretum,37,-27.53115911,152.9739495,Agathis robusta,Queensland kauri pine,Araucariaceae,7,2,120,2014,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-0038,Sherwood Arboretum,38,-27.53117018,152.9738343,Agathis robusta,Queensland kauri pine,Araucariaceae,16,8,540,1925,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-0039,Sherwood Arboretum,39,-27.53126553,152.973979,Agathis robusta,Queensland kauri pine,Araucariaceae,8,2,170,2014,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-0040,Sherwood Arboretum,40,-27.53128505,152.9738528,Agathis robusta,Queensland kauri pine,Araucariaceae,18,12,640,1925,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-0041,Sherwood Arboretum,41,-27.53135563,152.9740027,Agathis robusta,Queensland kauri pine,Araucariaceae,17,11,770,,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-0042,Sherwood Arboretum,42,-27.53138495,152.9738726,Agathis robusta,Queensland kauri pine,Araucariaceae,20,15,650,1925,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-0043,Sherwood Arboretum,43,-27.53147377,152.9740143,Agathis robusta,Queensland kauri pine,Araucariaceae,8,4,140,2014,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-0044,Sherwood Arboretum,44,-27.5314858,152.9738961,Agathis robusta,Queensland kauri pine,Araucariaceae,10,4,290,1925,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-0045,Sherwood Arboretum,45,-27.5315833,152.9740308,Agathis robusta,Queensland kauri pine,Araucariaceae,9,2,170,2014,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-0046,Sherwood Arboretum,46,-27.53159772,152.9739184,Agathis robusta,Queensland kauri pine,Araucariaceae,9,2,180,2014,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-0047,Sherwood Arboretum,47,-27.53170701,152.9740504,Agathis robusta,Queensland kauri pine,Araucariaceae,9,2,170,2014,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-0048,Sherwood Arboretum,48,-27.53171594,152.9739387,Agathis robusta,Queensland kauri pine,Araucariaceae,9,2,180,2014,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-0049,Sherwood Arboretum,49,-27.5318085,152.9740653,Agathis robusta,Queensland kauri pine,Araucariaceae,11,5,350,,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-0050,Sherwood Arboretum,50,-27.53182458,152.9739543,Agathis robusta,Queensland kauri pine,Araucariaceae,10,3,230,2012,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-0051,Sherwood Arboretum,51,-27.53189708,152.974091,Agathis robusta,Queensland kauri pine,Araucariaceae,11,3,250,,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-0052,Sherwood Arboretum,52,-27.53193077,152.9739704,Agathis robusta,Queensland kauri pine,Araucariaceae,18,5,550,,NALL-CV-2257;NALL-SNV-881,No
+SHW-0053,Sherwood Arboretum,53,-27.53200438,152.9741171,Agathis robusta,Queensland kauri pine,Araucariaceae,9,3,180,2012,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-0054,Sherwood Arboretum,54,-27.53203904,152.9739947,Agathis robusta,Queensland kauri pine,Araucariaceae,18,11,550,,NALL-CV-2257;NALL-SNV-881,No
+SHW-0055,Sherwood Arboretum,55,-27.53212158,152.9741486,Agathis robusta,Queensland kauri pine,Araucariaceae,13,6,330,,NALL-CV-2257;NALL-SNV-881,No
+SHW-0056,Sherwood Arboretum,56,-27.53214355,152.9740205,Agathis robusta,Queensland kauri pine,Araucariaceae,14,4,480,,NALL-CV-2257;NALL-SNV-881,No
+SHW-0057,Sherwood Arboretum,57,-27.53223397,152.9741501,Agathis robusta,Queensland kauri pine,Araucariaceae,7,2,130,,NALL-CV-2257;NALL-SNV-881,No
+SHW-0058,Sherwood Arboretum,58,-27.53225874,152.9740442,Agathis robusta,Queensland kauri pine,Araucariaceae,14,10,441,,NALL-CV-2257;NALL-SNV-881,No
+SHW-0059,Sherwood Arboretum,59,-27.53231998,152.974177,Agathis robusta,Queensland kauri pine,Araucariaceae,12,7,330,,NALL-CV-2257;NALL-SNV-881,No
+SHW-0060,Sherwood Arboretum,60,-27.53236492,152.9740574,Agathis robusta,Queensland kauri pine,Araucariaceae,14,8,440,,NALL-CV-2257;NALL-SNV-881,No
+SHW-0061,Sherwood Arboretum,61,-27.53244658,152.9741891,Agathis robusta,Queensland kauri pine,Araucariaceae,16,8,460,,NALL-CV-2257;NALL-SNV-881,No
+SHW-0062,Sherwood Arboretum,62,-27.53247534,152.974071,Agathis robusta,Queensland kauri pine,Araucariaceae,16,6,440,,NALL-CV-2257;NALL-SNV-881,No
+SHW-0063,Sherwood Arboretum,63,-27.53255014,152.9742109,Agathis robusta,Queensland kauri pine,Araucariaceae,18,11,530,,NALL-CV-2257;NALL-SNV-881,No
+SHW-0064,Sherwood Arboretum,64,-27.53258009,152.9740913,Agathis robusta,Queensland kauri pine,Araucariaceae,17,8,440,,NALL-CV-2257;NALL-SNV-881,No
+SHW-0065,Sherwood Arboretum,65,-27.53265831,152.9742372,Agathis robusta,Queensland kauri pine,Araucariaceae,15,9,410,,NALL-CV-2257;NALL-SNV-881,No
+SHW-0066,Sherwood Arboretum,66,-27.53268954,152.9741122,Agathis robusta,Queensland kauri pine,Araucariaceae,12,4,280,,NALL-CV-2257;NALL-SNV-881,No
+SHW-0067,Sherwood Arboretum,67,-27.53277335,152.9742517,Agathis robusta,Queensland kauri pine,Araucariaceae,16,8,380,,NALL-CV-2257;NALL-SNV-881,No
+SHW-0068,Sherwood Arboretum,68,-27.53279645,152.9741385,Agathis robusta,Queensland kauri pine,Araucariaceae,14,10,430,,NALL-CV-2257;NALL-SNV-881,No
+SHW-0069,Sherwood Arboretum,69,-27.53286535,152.9742682,Agathis robusta,Queensland kauri pine,Araucariaceae,9,4,220,,NALL-CV-2257;NALL-SNV-881,No
+SHW-0070,Sherwood Arboretum,70,-27.53290757,152.9741538,Agathis robusta,Queensland kauri pine,Araucariaceae,11,5,340,,NALL-CV-2257;NALL-SNV-881,No
+SHW-0071,Sherwood Arboretum,71,-27.53296158,152.974293,Agathis robusta,Queensland kauri pine,Araucariaceae,9,2,200,,NALL-CV-2257;NALL-SNV-881,No
+SHW-0072,Sherwood Arboretum,72,-27.53301352,152.9741699,Agathis robusta,Queensland kauri pine,Araucariaceae,17,12,380,,NALL-CV-2257;NALL-SNV-881,No
+SHW-0073,Sherwood Arboretum,73,-27.53323345,152.9750693,Waterhousea floribunda,Weeping Lillypilly,Myrtaceae,3,4,220,,,No
+SHW-0074,Sherwood Arboretum,74,-27.5332317,152.9750376,Waterhousea floribunda,Weeping Lillypilly,Myrtaceae,6,5,130,,,No
+SHW-0075,Sherwood Arboretum,75,-27.53321816,152.9750128,Waterhousea floribunda,Weeping Lillypilly,Myrtaceae,5,4,200,,,No
+SHW-0076,Sherwood Arboretum,76,-27.53321729,152.9752813,Syzygium hemilamprum,Broad-leaved lilly pilly,Myrtaceae,3,3,170,,,No
+SHW-0078,Sherwood Arboretum,78,-27.53319698,152.9751752,Ficus virens var. sublanceolata,White Fig,Moraceae,14,22,1200,,NALL-WWV-2529,No
+SHW-0079,Sherwood Arboretum,79,-27.53319164,152.9752885,Syzygium hemilamprum,Broad-leaved lilly pilly,Myrtaceae,0.5,1,20,,,No
+SHW-0080,Sherwood Arboretum,80,-27.53318414,152.9747256,Syzygium luehmannii,Small-leaved lilly pilly,Myrtaceae,7,5,230,,,No
+SHW-0081,Sherwood Arboretum,81,-27.53318127,152.9746869,Syzygium luehmannii,Small-leaved lilly pilly,Myrtaceae,6,5,230,,,No
+SHW-0082,Sherwood Arboretum,82,-27.53317745,152.9746412,Syzygium luehmannii,Small-leaved lilly pilly,Myrtaceae,7,4,240,,,No
+SHW-0083,Sherwood Arboretum,83,-27.53317036,152.9746018,Syzygium luehmannii,Small-leaved lilly pilly,Myrtaceae,8,6,310,,,No
+SHW-0084,Sherwood Arboretum,84,-27.53315412,152.9751514,Jacaranda mimosifolia,Jacaranda,Bignoniaceae	,12,15,520,,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-0085,Sherwood Arboretum,85,-27.53304363,152.9746567,Podocarpus elatus,Brown Pine,Podocarpaceae	,11,6,330,,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-0086,Sherwood Arboretum,86,-27.53302809,152.9745224,Harpullia pendula,Tulipwood,Sapindaceae,5,5,150,,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-0087,Sherwood Arboretum,87,-27.53302467,152.9741165,Melaleuca viminalis subsp. viminalis,Weeping bottlebrush,Myrtaceae,6,5,200,,NALL-CV-2257;NALL-SNV-881,No
+SHW-0088,Sherwood Arboretum,88,-27.53302045,152.9741582,Melaleuca viminalis subsp. viminalis,Weeping bottlebrush,Myrtaceae,7,6,260,,NALL-CV-2257;NALL-SNV-881,No
+SHW-0089,Sherwood Arboretum,89,-27.53300459,152.9752399,Barklya syringifolia,Crown of gold,Fabaceae,5,3,140,,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-0092,Sherwood Arboretum,92,-27.53299288,152.9740493,Eucalyptus longirostrata,Grey gum,Myrtaceae,20,16,890,,NALL-CV-2257;NALL-SNV-881,No
+SHW-0093,Sherwood Arboretum,93,-27.53298524,152.9747495,Eucalyptus tereticornis subsp. tereticornis,Forest red gum,Myrtaceae,9,3,170,,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-0094,Sherwood Arboretum,94,-27.53298254,152.9753089,Tipuana tipu,"Rosewood, tipuana tree",Fabaceae,14,18,680,,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-0095,Sherwood Arboretum,95,-27.53298014,152.9738385,Melaleuca viminalis subsp. viminalis,Weeping bottlebrush,Myrtaceae,8,6,410,,NALL-CV-2257;NALL-SNV-881,No
+SHW-0096,Sherwood Arboretum,96,-27.53297918,152.9738047,Melaleuca viminalis subsp. viminalis,Weeping bottlebrush,Myrtaceae,7,5,160,,NALL-CV-2257;NALL-SNV-881,No
+SHW-0097,Sherwood Arboretum,97,-27.53297711,152.9748515,Melaleuca viminalis subsp. viminalis,Weeping bottlebrush,Myrtaceae,7,4,200,,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-0098,Sherwood Arboretum,98,-27.53297464,152.9737652,Melaleuca viminalis subsp. viminalis,Weeping bottlebrush,Myrtaceae,7,4,260,,NALL-CV-2257;NALL-SNV-881,No
+SHW-0099,Sherwood Arboretum,99,-27.5329717,152.9745076,Harpullia pendula,Tulipwood,Sapindaceae,4,4,110,,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-0100,Sherwood Arboretum,100,-27.53296961,152.9737295,Syzygium luehmannii,Small-leaved lilly pilly,Myrtaceae,6,4,270,,NALL-CV-2257;NALL-SNV-881,No
+SHW-0101,Sherwood Arboretum,101,-27.53296803,152.9749649,Eucalyptus tereticornis subsp. tereticornis,Forest red gum,Myrtaceae,18,12,390,,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-0102,Sherwood Arboretum,102,-27.53296692,152.9746467,Harpullia pendula,Tulipwood,Sapindaceae,8,8,430,,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-0103,Sherwood Arboretum,103,-27.5329666,152.9749005,Grevillea robusta,Silky oak,Proteaceae,12,9,380,,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-0105,Sherwood Arboretum,105,-27.5329556,152.974365,Harpullia pendula,Tulipwood,Sapindaceae,5,4,180,,NALL-CV-2257;NALL-SNV-881,No
+SHW-0107,Sherwood Arboretum,107,-27.53295257,152.9735622,Melaleuca viminalis subsp. viminalis,Weeping bottlebrush,Myrtaceae,8,9,200,,NALL-CV-2257;NALL-SNV-881,No
+SHW-0112,Sherwood Arboretum,112,-27.5329423,152.974639,Harpullia pendula,Tulipwood,Sapindaceae,5,4,90,,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-0113,Sherwood Arboretum,113,-27.53294086,152.9734877,Melaleuca viminalis subsp. viminalis,Weeping bottlebrush,Myrtaceae,5,5,150,,NALL-CV-2257;NALL-SNV-881,No
+SHW-0114,Sherwood Arboretum,114,-27.5329352,152.9734538,Corymbia intermedia,Pink bloodwood,Myrtaceae,15,6,400,,NALL-CV-2257;NALL-SNV-881,No
+SHW-0115,Sherwood Arboretum,115,-27.53292788,152.9744989,Harpullia pendula,Tulipwood,Sapindaceae,5,4,140,,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-0116,Sherwood Arboretum,116,-27.53292191,152.9747516,Harpullia pendula,Tulipwood,Sapindaceae,6,6,280,,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-0117,Sherwood Arboretum,117,-27.53292094,152.9735756,Eucalyptus crebra,Narrow-leaved ironbark,Myrtaceae,14,14,520,,NALL-CV-2257;NALL-SNV-881,No
+SHW-0118,Sherwood Arboretum,118,-27.5329196,152.9746342,Lophostemon confertus,Brush Box,Myrtaceae,16,8,450,,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-0119,Sherwood Arboretum,119,-27.53291792,152.9733494,Melaleuca viminalis subsp. viminalis,Weeping bottlebrush,Myrtaceae,10,8,350,,NALL-CV-2257;NALL-SNV-881,No
+SHW-0120,Sherwood Arboretum,120,-27.53291768,152.9733252,Melaleuca viminalis subsp. viminalis,Weeping bottlebrush,Myrtaceae,4,5,260,,NALL-CV-2257;NALL-SNV-881,No
+SHW-0121,Sherwood Arboretum,121,-27.53291713,152.9752453,Grevillea robusta,Silky oak,Proteaceae,12,11,380,,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-0122,Sherwood Arboretum,122,-27.53291672,152.9733769,Melaleuca viminalis subsp. viminalis,Weeping bottlebrush,Myrtaceae,8,8,380,,NALL-CV-2257;NALL-SNV-881,No
+SHW-0123,Sherwood Arboretum,123,-27.53291505,152.9736782,Eucalyptus major,Small-fruited grey gum,Myrtaceae,11,6,420,1929,NALL-CV-2257;NALL-SNV-881,No
+SHW-0124,Sherwood Arboretum,124,-27.53291274,152.9732894,Eucalyptus camaldulensis,River red gum,Myrtaceae,18,11,660,,NALL-CV-2257;NALL-SNV-881,No
+SHW-0125,Sherwood Arboretum,125,-27.5329102,152.9744508,Harpullia pendula,Tulipwood,Sapindaceae,5,4,140,,NALL-CV-2257;NALL-SNV-881,No
+SHW-0126,Sherwood Arboretum,126,-27.53290477,152.9732417,Eucalyptus microcorys,Tallowwood,Myrtaceae,20,13,500,,NALL-CV-2257;NALL-SNV-881,No
+SHW-0127,Sherwood Arboretum,127,-27.53289243,152.9730972,Eucalyptus microcorys,Tallowwood,Myrtaceae,16,14,410,,NALL-CV-2257;NALL-SNV-881,No
+SHW-0128,Sherwood Arboretum,128,-27.53290776,152.9731979,Eucalyptus microcorys,Tallowwood,Myrtaceae,19,14,510,,NALL-CV-2257;NALL-SNV-881,No
+SHW-0129,Sherwood Arboretum,129,-27.53290854,152.973155,Eucalyptus microcorys,Tallowwood,Myrtaceae,20,7,310,,NALL-CV-2257;NALL-SNV-881,No
+SHW-0130,Sherwood Arboretum,130,-27.5328879,152.974635,Melaleuca styphelioides,Prickly paperbark,Myrtaceae,10,10,800,,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-0131,Sherwood Arboretum,131,-27.53288272,152.975101,Grevillea robusta,Silky oak,Proteaceae,13,12,410,,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-0132,Sherwood Arboretum,132,-27.53287731,152.9753528,Flindersia schottiana,"Bumpy ash, cudgerie",Rutaceae	,12,7,260,,NALL-WWV-2529,No
+SHW-0133,Sherwood Arboretum,133,-27.53287698,152.9749134,Melaleuca sp., ,Myrtaceae,7,2,140,,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-0134,Sherwood Arboretum,134,-27.53287404,152.9745418,Harpullia pendula,Tulipwood,Sapindaceae,6,6,200,,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-0135,Sherwood Arboretum,135,-27.53287156,152.9730248,Eucalyptus microcorys,Tallowwood,Myrtaceae,16,14,610,,NALL-CV-2257;NALL-SNV-881,No
+SHW-0136,Sherwood Arboretum,136,-27.53286575,152.9749508,Syzygium sp.,Syzygium sp.,Myrtaceae,7,5,150,,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-0137,Sherwood Arboretum,137,-27.53286097,152.9749428,Melaleuca sp., ,Myrtaceae,2,1,50,,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-0138,Sherwood Arboretum,138,-27.53286049,152.974925,Melaleuca sp., ,Myrtaceae,8,2,170,,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-0139,Sherwood Arboretum,139,-27.53285986,152.9744929,Harpullia pendula,Tulipwood,Sapindaceae,5,4,150,,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-0140,Sherwood Arboretum,140,-27.53285794,152.9749184,Melaleuca sp., ,Myrtaceae,9,3,120,,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-0141,Sherwood Arboretum,141,-27.53285403,152.9731659,Acacia disparrima subsp. disparrima,Hickory wattle,Mimosaceae,11,6,200,,NALL-CV-2257;NALL-SNV-881,No
+SHW-0142,Sherwood Arboretum,142,-27.53285316,152.9737988,Grevillea robusta,Silky oak,Proteaceae,9,5,240,2015,NALL-CV-2257;NALL-SNV-881,No
+SHW-0143,Sherwood Arboretum,143,-27.53285237,152.9748721,Melaleuca sp., ,Myrtaceae,4,2,0,,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-0144,Sherwood Arboretum,144,-27.53285014,152.9749201,Melaleuca sp., ,Myrtaceae,8,2,550,,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-0145,Sherwood Arboretum,145,-27.53283883,152.975232,Delonix regia,Poinciana,Fabaceae,9,22,750,,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-0146,Sherwood Arboretum,146,-27.53283492,152.9732307,Acacia disparrima subsp. disparrima,Hickory wattle,Mimosaceae,9,6,210,,NALL-CV-2257;NALL-SNV-881,No
+SHW-0147,Sherwood Arboretum,147,-27.53283309,152.9746183,Harpullia pendula,Tulipwood,Sapindaceae,8,8,310,,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-0148,Sherwood Arboretum,148,-27.53283221,152.9731921,Eucalyptus microcorys,Tallowwood,Myrtaceae,19,15,600,,NALL-CV-2257;NALL-SNV-881,No
+SHW-0149,Sherwood Arboretum,149,-27.53283061,152.9732004,Acacia disparrima subsp. disparrima,Hickory wattle,Mimosaceae,8,6,160,,NALL-CV-2257;NALL-SNV-881,No
+SHW-0150,Sherwood Arboretum,150,-27.53282736,152.974891,Banksia sp., ,Proteaceae,1,1,0,,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-0151,Sherwood Arboretum,151,-27.53282512,152.9731264,Acacia disparrima subsp. disparrima,Hickory wattle,Mimosaceae,10,6,230,,NALL-CV-2257;NALL-SNV-881,No
+SHW-0153,Sherwood Arboretum,153,-27.5301104,152.9735146,Grevillea baileyana,White oak,Proteaceae,7,4,90,2015,NALL-CV-2257;NALL-SNV-881,No
+SHW-0154,Sherwood Arboretum,154,-27.53281413,152.9744794,Harpullia pendula,Tulipwood,Sapindaceae,5,5,220,,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-0155,Sherwood Arboretum,155,-27.53281165,152.9730062,Eucalyptus microcorys,Tallowwood,Myrtaceae,22,10,440,,NALL-CV-2257;NALL-SNV-881,No
+SHW-0156,Sherwood Arboretum,156,-27.53280571,152.9746846,Harpullia pendula,Tulipwood,Sapindaceae,5,3,120,2015,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-0157,Sherwood Arboretum,157,-27.53280839,152.9738169,Brachychiton acerifolius,Illawarra flame tree,Sterculiaceae,9,5,280,2015,NALL-CV-2257;NALL-SNV-881,No
+SHW-0158,Sherwood Arboretum,158,-27.5303022,152.9732723,Elaeocarpus eumundi,Eumundi quandong,Elaeocarpaceae,4.5,2,90,2015,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-0163,Sherwood Arboretum,163,-27.53022754,152.9732989,Atractocarpus fitzalanii,Native gardenia,Rubiaceae,2.5,3,35,2015,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-0164,Sherwood Arboretum,164,-27.53052071,152.9731039,Brachychiton bidwillii,Little kurrajong,Sterculiaceae,5,2,85,2015,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-0165,Sherwood Arboretum,165,-27.5327978,152.974953,Casuarina cunninghamiana,River she-oak,Casuarinaceae,12,5,0,,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-0166,Sherwood Arboretum,166,-27.53279732,152.9748752,Macaranga tanarius,Bullocks heart,Euphorbiaceae,0,1,0,,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-0167,Sherwood Arboretum,167,-27.53279406,152.9744282,Harpullia pendula,Tulipwood,Sapindaceae,5,5,180,,NALL-CV-2257;NALL-SNV-881,No
+SHW-0169,Sherwood Arboretum,169,-27.53279118,152.9731985,Acacia disparrima subsp. disparrima,Hickory wattle,Mimosaceae,9,6,210,,NALL-CV-2257;NALL-SNV-881,No
+SHW-0170,Sherwood Arboretum,170,-27.53275212,152.9733772,Eucalyptus propinqua,Small-fruited grey gum,Myrtaceae,24,10,1000,1929,NALL-CV-2257;NALL-SNV-881,No
+SHW-0171,Sherwood Arboretum,171,-27.53046089,152.973124,Brachychiton bidwillii,Little kurrajong,Sterculiaceae,5,1,40,2015,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-0172,Sherwood Arboretum,172,-27.53040411,152.9732238,Stenocarpus sinuatus,Firewheel tree,Proteaceae,6,2,110,2015,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-0173,Sherwood Arboretum,173,-27.5327774,152.9737684,Grevillea robusta,Silky oak,Proteaceae,12,5,260,2015,NALL-CV-2257;NALL-SNV-881,No
+SHW-0174,Sherwood Arboretum,174,-27.53277685,152.9746113,Lophostemon confertus,Brush Box,Myrtaceae,15,10,400,,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-0175,Sherwood Arboretum,175,-27.53277112,152.9747693,Macaranga tanarius,Bullocks heart,Euphorbiaceae,8,10,0,,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-0176,Sherwood Arboretum,176,-27.53277039,152.973857,Grevillea robusta,Silky oak,Proteaceae,10,6,260,2015,NALL-CV-2257;NALL-SNV-881,No
+SHW-0177,Sherwood Arboretum,177,-27.53276697,152.9725401,Ficus microcarpa var. microcarpa,Small-fruited fig,Moraceae,15,24,1170,,NALL-CV-2257;NALL-SNV-881,No
+SHW-0178,Sherwood Arboretum,178,-27.53276514,152.9749044,Macaranga tanarius,Bullocks heart,Euphorbiaceae,0,1,0,,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-0179,Sherwood Arboretum,179,-27.53275677,152.9728786,Corymbia tessellaris,Moreton Bay ash,Myrtaceae,22,18,650,,NALL-CV-2257;NALL-SNV-881,No
+SHW-0180,Sherwood Arboretum,180,-27.53275112,152.9744693,Harpullia pendula,Tulipwood,Sapindaceae,5,6,210,,NALL-CV-2257;NALL-SNV-881,No
+SHW-0181,Sherwood Arboretum,181,-27.53273747,152.9721246,Ficus microcarpa,Small-fruited fig,Moraceae,24,32,1930,,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-0182,Sherwood Arboretum,182,-27.53273621,152.9729493,Melia azedarach,White cedar,Meliaceae,9,9,190,,NALL-CV-2257;NALL-SNV-881,No
+SHW-0183,Sherwood Arboretum,183,-27.53273366,152.9729832,Lophostemon confertus,Brush Box,Myrtaceae,6,5,100,,NALL-CV-2257;NALL-SNV-881,No
+SHW-0184,Sherwood Arboretum,184,-27.53272857,152.9749091,Macaranga tanarius,Bullocks heart,Euphorbiaceae,0,1,0,,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-0185,Sherwood Arboretum,185,-27.53272521,152.9727247,Diploglottis campbellii,Small-leaved tamarind,Sapindaceae,9,8,320,,NALL-CV-2257;NALL-SNV-881,No
+SHW-0186,Sherwood Arboretum,186,-27.53272268,152.9745967,Harpullia pendula,Tulipwood,Sapindaceae,7,6,180,,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-0187,Sherwood Arboretum,187,-27.5327205,152.9724122,Ficus rubiginosa forma glabrescens,"Port Jackson fig, rusty fig",Moraceae,17,10,500,,NALL-CV-2257;NALL-SNV-881,No
+SHW-0188,Sherwood Arboretum,188,-27.53271542,152.9729462,Acacia disparrima subsp. disparrima,Hickory wattle,Mimosaceae,9,7,180,,NALL-CV-2257;NALL-SNV-881,No
+SHW-0189,Sherwood Arboretum,189,-27.5327123,152.9723078,Ficus microcarpa,Small-fruited fig,Moraceae,26,35,1800,,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-0190,Sherwood Arboretum,190,-27.53271007,152.971562,Casuarina cunninghamiana,River she-oak,Casuarinaceae,17,10,490,,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-0191,Sherwood Arboretum,191,-27.53270833,152.9729381,Acacia disparrima subsp. disparrima,Hickory wattle,Mimosaceae,9,6,110,,NALL-CV-2257;NALL-SNV-881,No
+SHW-0192,Sherwood Arboretum,192,-27.53270555,152.9752494,Grevillea robusta,Silky oak,Proteaceae,16,6,290,,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-0193,Sherwood Arboretum,193,-27.53269838,152.9747063,Harpullia pendula,Tulipwood,Sapindaceae,8,7,200,,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-0194,Sherwood Arboretum,194,-27.53269806,152.9744611,Harpullia pendula,Tulipwood,Sapindaceae,6,7,210,,NALL-CV-2257;NALL-SNV-881,No
+SHW-0195,Sherwood Arboretum,195,-27.53269695,152.9745938,Lophostemon confertus,Brush Box,Myrtaceae,11,8,300,,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-0196,Sherwood Arboretum,196,-27.53269663,152.9747841,Acacia disparrima subsp. disparrima,Hickory wattle,Mimosaceae,10,5,190,,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-0197,Sherwood Arboretum,197,-27.53267717,152.9714821,Casuarina cunninghamiana,River she-oak,Casuarinaceae,18,8,490,,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-0198,Sherwood Arboretum,198,-27.53266267,152.9714779,Casuarina cunninghamiana,River she-oak,Casuarinaceae,18,8,440,,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-0199,Sherwood Arboretum,199,-27.53266245,152.974593,Harpullia pendula,Tulipwood,Sapindaceae,5,5,110,,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-0200,Sherwood Arboretum,200,-27.53266029,152.9730099,Acacia disparrima subsp. disparrima,Hickory wattle,Mimosaceae,11,5,140,,NALL-CV-2257;NALL-SNV-881,No
+SHW-0201,Sherwood Arboretum,201,-27.53265927,152.974918,Glochidion ferdinandi,Cheese tree,Phyllanthaceae,6,4,0,,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-0202,Sherwood Arboretum,202,-27.53265399,152.9721978,Ficus microcarpa var. hilli,Small-fruited fig,Moraceae,24,30,2250,,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-0203,Sherwood Arboretum,203,-27.53265122,152.9750412,Casuarina cunninghamiana,River she-oak,Casuarinaceae,14,6,0,,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-0204,Sherwood Arboretum,204,-27.53264684,152.9744469,Harpullia pendula,Tulipwood,Sapindaceae,6,6,190,,NALL-CV-2257;NALL-SNV-881,No
+SHW-0205,Sherwood Arboretum,205,-27.53264642,152.9714782,Casuarina cunninghamiana,River she-oak,Casuarinaceae,18,9,530,,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-0206,Sherwood Arboretum,206,-27.53264326,152.97501,Casuarina cunninghamiana,River she-oak,Casuarinaceae,13,3,0,,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-0207,Sherwood Arboretum,207,-27.53264302,152.9746961,Harpullia pendula,Tulipwood,Sapindaceae,9,7,260,,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-0208,Sherwood Arboretum,208,-27.5326211,152.9732937,Waterhousea floribunda,Weeping Lillypilly,Myrtaceae,5,5,130,2013,NALL-CV-2257;NALL-SNV-881,No
+SHW-0209,Sherwood Arboretum,209,-27.53264046,152.9730355,Corymbia citriodora subsp. variegata,Spotted gum,Myrtaceae,17,8,380,,NALL-CV-2257;NALL-SNV-881,No
+SHW-0210,Sherwood Arboretum,210,-27.53263983,152.9745881,Pleiogynium timoriense,Burdekin plum,Ancardiaceae,9,10,400,,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-0211,Sherwood Arboretum,211,-27.53263121,152.9720464,Ficus microcarpa var. hilli,Small-fruited fig,Moraceae,20,30,2500,,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-0212,Sherwood Arboretum,212,-27.53262732,152.9729912,Corymbia eximia,Yellow bloodwood,Myrtaceae,13,15,370,,NALL-CV-2257;NALL-SNV-881,No
+SHW-0214,Sherwood Arboretum,214,-27.53262541,152.9750207,Casuarina cunninghamiana,River she-oak,Casuarinaceae,6,2,0,,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-0215,Sherwood Arboretum,215,-27.53262437,152.9727196,Eucalyptus deanei,Mountain blue gum,Myrtaceae,20,20,1150,,NALL-CV-2257;NALL-SNV-881,No
+SHW-0216,Sherwood Arboretum,216,-27.5326235,152.9750642,Casuarina cunninghamiana,River she-oak,Casuarinaceae,16,5,0,,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-0217,Sherwood Arboretum,217,-27.5326168,152.9730887,Eucalyptus sp.,Eucalyptus sp.,Myrtaceae,16,7,370,,NALL-CV-2257;NALL-SNV-881,No
+SHW-0218,Sherwood Arboretum,218,-27.5326157,152.9745792,Harpullia pendula,Tulipwood,Sapindaceae,4,3,80,,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-0219,Sherwood Arboretum,219,-27.53261306,152.973366,Backhousia citriodora,Lemon-Scented Myrtle,Myrtaceae,3,2,40,2019,NALL-CV-2257;NALL-SNV-881,No
+SHW-0221,Sherwood Arboretum,221,-27.53260542,152.9750875,Alectryon tomentosus,Woolly Rambutan,Sapindaceae,12,6,0,,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-0225,Sherwood Arboretum,225,-27.53260096,152.9744386,Harpullia pendula,Tulipwood,Sapindaceae,6,6,195,,NALL-CV-2257;NALL-SNV-881,No
+SHW-0226,Sherwood Arboretum,226,-27.53259609,152.9725092,Brachychiton populneus subsp. trilobus,Small-fruited fig,Moraceae,19,15,70,,NALL-CV-2257;NALL-SNV-881,No
+SHW-0227,Sherwood Arboretum,227,-27.53258244,152.9727947,Brachychiton populneus,Kurrajong,Sterculiaceae,2,1,50,,NALL-CV-2257;NALL-SNV-881,No
+SHW-0229,Sherwood Arboretum,229,-27.53259489,152.9729304,Acacia disparrima subsp. disparrima,Hickory wattle,Mimosaceae,9,6,190,,NALL-CV-2257;NALL-SNV-881,No
+SHW-0230,Sherwood Arboretum,230,-27.53259435,152.9743878,Harpullia pendula,Tulipwood,Sapindaceae,4,4,170,,NALL-CV-2257;NALL-SNV-881,No
+SHW-0231,Sherwood Arboretum,231,-27.53259306,152.9729829,Acacia disparrima subsp. disparrima,Hickory wattle,Mimosaceae,10,7,250,,NALL-CV-2257;NALL-SNV-881,No
+SHW-0233,Sherwood Arboretum,233,-27.53259019,152.9736068,Waterhousia floribunda,Weeping Lillypilly,Myrtaceae,13,9,440,2000,NALL-CV-2257;NALL-SNV-881,No
+SHW-0234,Sherwood Arboretum,234,-27.53258988,152.9729505,Corymbia henryii,Large-leaved spotted gum,Myrtaceae,15,8,270,,NALL-CV-2257;NALL-SNV-881,No
+SHW-0235,Sherwood Arboretum,235,-27.5325855,152.9742879,Cupaniopsis anacardioides,Tuckeroo,Sapindaceae,,,,2015,NALL-CV-2257;NALL-SNV-881,No
+SHW-0236,Sherwood Arboretum,236,-27.53258127,152.9729028,Cupaniopsis anacardioides,Tuckeroo,Sapindaceae,8,4,80,,NALL-CV-2257;NALL-SNV-881,No
+SHW-0237,Sherwood Arboretum,237,-27.53258064,152.9729082,Eucalyptus argophloia,Chinchilla white gum,Myrtaceae,27,10,700,,NALL-CV-2257;NALL-SNV-881,No
+SHW-0238,Sherwood Arboretum,238,-27.53257843,152.972911,Cupaniopsis anacardioides,Tuckeroo,Sapindaceae,8,6,120,,NALL-CV-2257;NALL-SNV-881,No
+SHW-0239,Sherwood Arboretum,239,-27.53257594,152.9729152,Melia azedarach,White cedar,Meliaceae,8,7,120,,NALL-CV-2257;NALL-SNV-881,No
+SHW-0240,Sherwood Arboretum,240,-27.53257402,152.97295,Corymbia citriodora subsp. variegata,Spotted gum,Myrtaceae,10,3,110,,NALL-CV-2257;NALL-SNV-881,No
+SHW-0241,Sherwood Arboretum,241,-27.5325635,152.971608,Casuarina cunninghamiana,River she-oak,Casuarinaceae,12,6,260,,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-0242,Sherwood Arboretum,242,-27.53255977,152.9726503,Alstonia constricta,Quinine bush,Apocynaceae,4,2,80,,NALL-CV-2257;NALL-SNV-881,No
+SHW-0243,Sherwood Arboretum,243,-27.53255816,152.9721379,Ficus virens,White Fig,Moraceae,8,10,860,,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-0244,Sherwood Arboretum,244,-27.5325565,152.9735705,Waterhousea floribunda,Weeping Lillypilly,Myrtaceae,14,11,310,2000,NALL-CV-2257;NALL-SNV-881,No
+SHW-0245,Sherwood Arboretum,245,-27.53252904,152.9727029,Corymbia tessellaris,Moreton Bay ash,Myrtaceae,14,5,200,,NALL-CV-2257;NALL-SNV-881,No
+SHW-0246,Sherwood Arboretum,246,-27.53255084,152.9728742,Lophostemon confertus,Brush Box,Myrtaceae,5,2,50,,NALL-CV-2257;NALL-SNV-881,No
+SHW-0247,Sherwood Arboretum,247,-27.53254693,152.9719825,Ficus virens var. virens,White Fig,Moraceae,17,30,1810,,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-0248,Sherwood Arboretum,248,-27.53254623,152.9744789,Harpullia pendula,Tulipwood,Sapindaceae,5,5,200,,NALL-CV-2257;NALL-SNV-881,No
+SHW-0249,Sherwood Arboretum,249,-27.53254398,152.9724528,Ficus microcarpa,Small-fruited fig,Moraceae,19,16,670,,NALL-CV-2257;NALL-SNV-881,No
+SHW-0250,Sherwood Arboretum,250,-27.53254185,152.9747037,Harpullia pendula,Tulipwood,Sapindaceae,4.5,4,110,2015,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-0251,Sherwood Arboretum,251,-27.53254136,152.9732453,Waterhousea floribunda,Weeping Lillypilly,Myrtaceae,6,4,80,2019,NALL-CV-2257;NALL-SNV-881,No
+SHW-0252,Sherwood Arboretum,252,-27.53254042,152.9744286,Harpullia pendula,Tulipwood,Sapindaceae,6,4,160,,NALL-CV-2257;NALL-SNV-881,No
+SHW-0253,Sherwood Arboretum,253,-27.53253725,152.9774073,Elaeocarpus reticulatus,Blueberry ash,Elaeocarpaceae,6.5,7,150,,NALL-CV-2257,No
+SHW-0255,Sherwood Arboretum,255,-27.53253491,152.9731239,Corymbia citriodora subsp. variegata,Spotted gum,Myrtaceae,20,12,590,,NALL-CV-2257;NALL-SNV-881,No
+SHW-0256,Sherwood Arboretum,256,-27.53253452,152.9747927,Eucalyptus tereticornis subsp. tereticornis,Forest red gum,Myrtaceae,19,10,500,,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-0257,Sherwood Arboretum,257,-27.53252965,152.9733176,Backhousia citriodora,Lemon-Scented Myrtle,Myrtaceae,3.5,2,30,2019,NALL-CV-2257;NALL-SNV-881,No
+SHW-0258,Sherwood Arboretum,258,-27.53252167,152.9727746,Brachychiton populneus subsp. populneus,Kurrajong,Sterculiaceae,4,3,140,,NALL-CV-2257;NALL-SNV-881,No
+SHW-0259,Sherwood Arboretum,259,-27.53252719,152.9736008,Waterhousea floribunda,Weeping Lillypilly,Myrtaceae,14,10,340,2000,NALL-CV-2257;NALL-SNV-881,No
+SHW-0260,Sherwood Arboretum,260,-27.53252491,152.9773371,Elaeocarpus reticulatus,Blueberry ash,Elaeocarpaceae,6,6,110,,NALL-CV-2257,No
+SHW-0261,Sherwood Arboretum,261,-27.53252352,152.9726515,Alphitonia excelsa,Red Ash,Rhamnaceae,11,8,200,,NALL-CV-2257;NALL-SNV-881,No
+SHW-0262,Sherwood Arboretum,262,-27.5325206,152.9771849,Xanthostemon chrysanthus,Golden Penda,Myrtaceae,9,8,220,,NALL-CV-2257,No
+SHW-0263,Sherwood Arboretum,263,-27.53251588,152.9742717,Harpullia pendula,Tulipwood,Sapindaceae,3,2,60,2015,NALL-CV-2257;NALL-SNV-881,No
+SHW-0264,Sherwood Arboretum,264,-27.5325138,152.9729737,Corymbia henryi,Large-leaved spotted gum,Myrtaceae,20,10,420,,NALL-CV-2257;NALL-SNV-881,No
+SHW-0265,Sherwood Arboretum,265,-27.53251077,152.9715798,Casuarina cunninghamiana,River she-oak,Casuarinaceae,21,11,420,,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-0266,Sherwood Arboretum,266,-27.53250974,152.9725706,Corymbia tessellaris,Moreton Bay ash,Myrtaceae,5,3,60,,NALL-CV-2257;NALL-SNV-881,No
+SHW-0267,Sherwood Arboretum,267,-27.53250695,152.9727197,Eucalyptus argophloia,Chinchilla white gum,Myrtaceae,18,8,260,,NALL-CV-2257;NALL-SNV-881,No
+SHW-0268,Sherwood Arboretum,268,-27.53250528,152.9732229,Waterhousea floribunda,Weeping Lillypilly,Myrtaceae,7,6,170,2013,NALL-CV-2257;NALL-SNV-881,No
+SHW-0269,Sherwood Arboretum,269,-27.53250483,152.9770259,Stenocarpus sinuatus,Firewheel tree,Proteaceae,7,1,60,,NALL-CV-2257,No
+SHW-0270,Sherwood Arboretum,270,-27.53250465,152.974558,Lophostemon confertus,Brush Box,Myrtaceae,7,6,330,,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-0271,Sherwood Arboretum,271,-27.53250448,152.9726038,Corymbia citriodora subsp. variegata,Spotted gum,Myrtaceae,13,5,180,2018,NALL-CV-2257;NALL-SNV-881,No
+SHW-0272,Sherwood Arboretum,272,-27.53250424,152.9729534,Eucalyptus curtisii,Plunkett mallee,Myrtaceae,4.5,5,180,,NALL-CV-2257;NALL-SNV-881,No
+SHW-0274,Sherwood Arboretum,274,-27.53249516,152.9730087,Angophora floribunda,Rough-barked apple,Myrtaceae,7,2,70,,NALL-CV-2257;NALL-SNV-881,No
+SHW-0275,Sherwood Arboretum,275,-27.53249368,152.9769533,Syzygium francisii,Giant water gum,Myrtaceae,6,6,100,,NALL-CV-2257,No
+SHW-0276,Sherwood Arboretum,276,-27.53249296,152.9773951,Albizia lebbeck,Lebbeck,Fabaceae,19,16,1020,,NALL-CV-2257,No
+SHW-0277,Sherwood Arboretum,277,-27.53249285,152.9730207,Eucalyptus propinqua,Small-fruited grey gum,Myrtaceae,11,8,210,,NALL-CV-2257;NALL-SNV-881,No
+SHW-0278,Sherwood Arboretum,278,-27.53249013,152.9725333,Eucalyptus argophloia,Chinchilla white gum,Myrtaceae,11,5,100,,NALL-CV-2257;NALL-SNV-881,No
+SHW-0279,Sherwood Arboretum,279,-27.53248976,152.9744185,Harpullia pendula,Tulipwood,Sapindaceae,6,5,260,,NALL-CV-2257;NALL-SNV-881,No
+SHW-0280,Sherwood Arboretum,280,-27.53248767,152.9734517,Waterhousea floribunda,Weeping Lillypilly,Myrtaceae,12,10,300,2000,NALL-CV-2257;NALL-SNV-881,No
+SHW-0281,Sherwood Arboretum,281,-27.53248261,152.9769149,Syzygium tierneyanum,"River cherry, Bamaga satinash",Myrtaceae,7,8,300,,NALL-CV-2257,No
+SHW-0282,Sherwood Arboretum,282,-27.53248077,152.9773365,Albizia lebbeck,Lebbeck,Fabaceae,12,9,520,,NALL-CV-2257,No
+SHW-0283,Sherwood Arboretum,283,-27.53247923,152.9731791,Corymbia citriodora subsp. variegata,Spotted gum,Myrtaceae,17,9,390,,NALL-CV-2257;NALL-SNV-881,No
+SHW-0284,Sherwood Arboretum,284,-27.53247791,152.9771406,Xanthostemon chrysanthus,Golden Penda,Myrtaceae,9,8,300,,NALL-CV-2257,No
+SHW-0285,Sherwood Arboretum,285,-27.53247732,152.9727778,Eucalyptus argophloia,Chinchilla white gum,Myrtaceae,18,6,230,,NALL-CV-2257;NALL-SNV-881,No
+SHW-0286,Sherwood Arboretum,286,-27.53229784,152.9731505,Eucalyptus sp.,Eucalyptus sp.,Myrtaceae,6,2,30,,NALL-CV-2257;NALL-SNV-881,No
+SHW-0287,Sherwood Arboretum,287,-27.53247198,152.9730975,Corymbia citriodora subsp. variegata,Spotted gum,Myrtaceae,8,5,150,,NALL-CV-2257;NALL-SNV-881,No
+SHW-0288,Sherwood Arboretum,288,-27.5324707,152.9720807,Ficus superba var. henneana,Deciduous fig,Moraceae,14,12,690,,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-0289,Sherwood Arboretum,289,-27.5324697,152.9770212,Stenocarpus sinuatus,Firewheel tree,Proteaceae,8,2,75,,NALL-CV-2257,No
+SHW-0290,Sherwood Arboretum,290,-27.53246799,152.9725612,Angophora subvelutina,Broad-leaved Apple,Myrtaceae,15,8,290,2018,NALL-CV-2257;NALL-SNV-881,No
+SHW-0291,Sherwood Arboretum,291,-27.53246689,152.9748658,Melaleuca viminalis subsp. viminalis,Weeping bottlebrush,Myrtaceae,6,5,150,,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-0292,Sherwood Arboretum,292,-27.53246691,152.9773303,Albizia lebbeck,Lebbeck,Fabaceae,11,8,430,,NALL-CV-2257,No
+SHW-0293,Sherwood Arboretum,293,-27.53246139,152.9727909,Eucalyptus argophloia,Chinchilla white gum,Myrtaceae,19,4,5,,NALL-CV-2257;NALL-SNV-881,No
+SHW-0294,Sherwood Arboretum,294,-27.53246052,152.9742631,Harpullia pendula,Tulipwood,Sapindaceae,3,2,60,2015,NALL-CV-2257;NALL-SNV-881,No
+SHW-0295,Sherwood Arboretum,295,-27.53245924,152.9727586,Eucalyptus argophloia,Chinchilla white gum,Myrtaceae,19,5,200,,NALL-CV-2257;NALL-SNV-881,No
+SHW-0296,Sherwood Arboretum,296,-27.53245772,152.9730345,Corymbia intermedia,Pink bloodwood,Myrtaceae,12,8,250,,NALL-CV-2257;NALL-SNV-881,No
+SHW-0297,Sherwood Arboretum,297,-27.53245701,152.973596,Waterhousea floribunda,Weeping Lillypilly,Myrtaceae,15,11,390,2000,NALL-CV-2257;NALL-SNV-881,No
+SHW-0298,Sherwood Arboretum,298,-27.53245661,152.9732169,Waterhousea floribunda,Weeping Lillypilly,Myrtaceae,6,5,175,2013,NALL-CV-2257;NALL-SNV-881,No
+SHW-0299,Sherwood Arboretum,299,-27.53245559,152.9767358,Syzygium francisii,Giant water gum,Myrtaceae,9,8,280,,NALL-CV-2257,No
+SHW-0300,Sherwood Arboretum,300,-27.53245551,152.9765567,Syzygium sp.,Syzygium sp.,Myrtaceae,9,9,280,,NALL-CV-2257,No
+SHW-0301,Sherwood Arboretum,301,-27.53245544,152.9769722,Stenocarpus sinuatus,Firewheel tree,Proteaceae,11,6,190,,NALL-CV-2257,No
+SHW-0302,Sherwood Arboretum,302,-27.53245528,152.9773326,Albizia lebbeck,Lebbeck,Fabaceae,11,9,400,,NALL-CV-2257,No
+SHW-0303,Sherwood Arboretum,303,-27.53244273,152.9770743,Brachychiton acerifolius,Illawarra flame tree,Sterculiaceae,8,6,400,,NALL-CV-2257,No
+SHW-0304,Sherwood Arboretum,304,-27.53245294,152.973077,Eucalyptus propinqua,Small-fruited grey gum,Myrtaceae,16,8,210,,NALL-CV-2257;NALL-SNV-881,No
+SHW-0305,Sherwood Arboretum,305,-27.53245105,152.9766383,Syzygium smithii,Lilly pilly,Myrtaceae,6,10,280,,NALL-CV-2257,No
+SHW-0306,Sherwood Arboretum,306,-27.5324469,152.9750187,Macaranga tanarius,Bullocks heart,Euphorbiaceae,7,3,0,,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-0307,Sherwood Arboretum,307,-27.53244466,152.9730535,Eucalyptus propinqua,Small-fruited grey gum,Myrtaceae,15,8,230,,NALL-CV-2257;NALL-SNV-881,No
+SHW-0308,Sherwood Arboretum,308,-27.53244347,152.9751755,Macaranga tanarius,Bullocks heart,Euphorbiaceae,4,2,0,,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-0309,Sherwood Arboretum,309,-27.53244293,152.9764157,Guioa semiglauca,Guioa or wild quince,Sapindaceae,14,10,420,,NALL-CV-2257,No
+SHW-0311,Sherwood Arboretum,311,-27.53243995,152.9719335,Chionanthus ramiflora,Northern native olive,Oleaceae	,11,12,670,,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-0312,Sherwood Arboretum,312,-27.53243529,152.9768925,Podocarpus elatus,Brown Pine,Podocarpaceae	,15,10,320,,NALL-CV-2257,No
+SHW-0313,Sherwood Arboretum,313,-27.53243526,152.9732965,Backhousia citriodora,Lemon-Scented Myrtle,Myrtaceae,3,1,35,2019,NALL-CV-2257;NALL-SNV-881,No
+SHW-0314,Sherwood Arboretum,314,-27.5324352,152.976514,Harpullia pendula,Tulipwood,Sapindaceae,10,8,220,,NALL-CV-2257,No
+SHW-0315,Sherwood Arboretum,315,-27.53243504,152.9762108,Cupaniopsis parvifolia,Small-leaved tuckeroo,Sapindaceae,7,5,140,,NALL-CV-2257,No
+SHW-0316,Sherwood Arboretum,316,-27.53242354,152.9769946,Flindersia australis,Crows Ash,Rutaceae	,15,7,280,,NALL-CV-2257,No
+SHW-0317,Sherwood Arboretum,317,-27.53243407,152.9744106,Harpullia pendula,Tulipwood,Sapindaceae,5,4,200,,NALL-CV-2257;NALL-SNV-881,No
+SHW-0318,Sherwood Arboretum,318,-27.53243384,152.9750966,Casuarina cunninghamiana,River she-oak,Casuarinaceae,17,5,0,,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-0319,Sherwood Arboretum,319,-27.53243258,152.9773011,Melicope elleryana,"Pink euodia, Pink doughwood",Rutaceae	,8,5,120,,NALL-CV-2257,No
+SHW-0320,Sherwood Arboretum,320,-27.53243042,152.9763434,Brachychiton discolor,Lacebark tree,Sterculiaceae,15,11,530,,NALL-CV-2257,No
+SHW-0321,Sherwood Arboretum,321,-27.53242884,152.9772292,Lophostemon confertus,Brush Box,Myrtaceae,11,11,480,,NALL-CV-2257,No
+SHW-0322,Sherwood Arboretum,322,-27.53242801,152.972955,Eucalyptus curtisii,Plunkett mallee,Myrtaceae,13,5,200,,NALL-CV-2257;NALL-SNV-881,No
+SHW-0323,Sherwood Arboretum,323,-27.53242253,152.9762712,Auranticarpa rhombifolia,Diamond leaf pittosporum,Pittosporaceae,8,6,190,,NALL-CV-2257,No
+SHW-0324,Sherwood Arboretum,324,-27.53242102,152.9761072,Streblus brunonianus,Whalebone tree,Moraceae,5,5,100,,NALL-CV-2257,No
+SHW-0326,Sherwood Arboretum,326,-27.53241789,152.9730998,Acacia concurrens,"Black wattle, Curracabah",Mimosaceae,10,6,170,,NALL-CV-2257;NALL-SNV-881,No
+SHW-0327,Sherwood Arboretum,327,-27.53241696,152.9767349,Castanospermum australe,Black Bean,Fabaceae,10,6,90,,NALL-CV-2257,No
+SHW-0328,Sherwood Arboretum,328,-27.5324163,152.9729062,Eucalyptus propinqua,Small-fruited grey gum,Myrtaceae,16,7,290,,NALL-CV-2257;NALL-SNV-881,No
+SHW-0329,Sherwood Arboretum,329,-27.53240577,152.9770496,Brachychiton acerifolius,Illawarra flame tree,Sterculiaceae,5,4,180,,NALL-CV-2257,No
+SHW-0330,Sherwood Arboretum,330,-27.53241257,152.9745479,Harpullia pendula,Tulipwood,Sapindaceae,3,1,50,2015,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-0331,Sherwood Arboretum,331,-27.53241249,152.9742532,Harpullia pendula,Tulipwood,Sapindaceae,3,1,50,2015,NALL-CV-2257;NALL-SNV-881,No
+SHW-0332,Sherwood Arboretum,332,-27.53240923,152.976163,Corymbia citriodora subsp. variegata/camaldulensis,Spotted gum,Myrtaceae,17,9,530,,NALL-CV-2257,No
+SHW-0334,Sherwood Arboretum,334,-27.53240334,152.9765995,Brachychiton rupestris,Narrow-leaved bottle tree,Sterculiaceae,10,9,800,,NALL-CV-2257,No
+SHW-0335,Sherwood Arboretum,335,-27.53239686,152.9727178,Eucalyptus bancroftii,Bancroft's red gum,Myrtaceae,8,5,190,,NALL-CV-2257;NALL-SNV-881,No
+SHW-0336,Sherwood Arboretum,336,-27.5323824,152.9769214,Podocarpus elatus,Brown Pine,Podocarpaceae	,14,9,200,,NALL-CV-2257,No
+SHW-0337,Sherwood Arboretum,337,-27.53239521,152.9764902,Flindersia australis,Crows Ash,Rutaceae	,11,8,180,,NALL-CV-2257,No
+SHW-0338,Sherwood Arboretum,338,-27.53240335,152.9748013,Araucaria bidwillii,Bunya Pine,Araucariaceae,18,10,600,,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-0339,Sherwood Arboretum,339,-27.53239344,152.9735694,Waterhousea floribunda,Weeping Lillypilly,Myrtaceae,11,10,380,2000,NALL-CV-2257;NALL-SNV-881,No
+SHW-0341,Sherwood Arboretum,341,-27.53241788,152.9726018,Eucalyptus propinqua,Small-fruited grey gum,Myrtaceae,8,9,190,,NALL-CV-2257;NALL-SNV-881,No
+SHW-0342,Sherwood Arboretum,342,-27.53239139,152.9768609,Podocarpus elatus,Brown Pine,Podocarpaceae	,14,8,210,,NALL-CV-2257,No
+SHW-0343,Sherwood Arboretum,343,-27.53239075,152.9766913,Alphitonia excelsa,Red Ash,Rhamnaceae,17,14,420,,NALL-CV-2257,No
+SHW-0344,Sherwood Arboretum,344,-27.53239057,152.9729007,Eucalyptus moluccana,Gum-topped box,Myrtaceae,16,8,310,,NALL-CV-2257;NALL-SNV-881,No
+SHW-0346,Sherwood Arboretum,346,-27.53238801,152.9726787,Lysiphyllum carronii,Red bauhinia,Caesalpiniaceae,4,3,50,,NALL-CV-2257;NALL-SNV-881,No
+SHW-0348,Sherwood Arboretum,348,-27.53240281,152.975955,Delonix regia,Poinciana,Fabaceae,9,18,900,,NALL-CV-2257,No
+SHW-0349,Sherwood Arboretum,349,-27.5323851,152.9758347,Cupaniopsis parvifolia,Small-leaved tuckeroo,Sapindaceae,9,6,160,,NALL-CV-2257,No
+SHW-0350,Sherwood Arboretum,350,-27.53238071,152.9768025,Castanospermum australe,Black Bean,Fabaceae,10,6,140,,NALL-CV-2257,No
+SHW-0351,Sherwood Arboretum,351,-27.53237909,152.9725749,Corymbia citriodora subsp. variegata,Spotted gum,Myrtaceae,15,8,230,,NALL-CV-2257;NALL-SNV-881,No
+SHW-0352,Sherwood Arboretum,352,-27.53237491,152.9774044,Ficus benjamina var. benjamina,Weeping fig,Moraceae,9,15,620,,NALL-CV-2257,No
+SHW-0353,Sherwood Arboretum,353,-27.53237456,152.9729632,Eucalyptus propinqua,Small-fruited grey gum,Myrtaceae,15,6,290,,NALL-CV-2257;NALL-SNV-881,No
+SHW-0354,Sherwood Arboretum,354,-27.53237515,152.9731246,Corymbia intermedia,Pink bloodwood,Myrtaceae,9,4,110,,NALL-CV-2257;NALL-SNV-881,No
+SHW-0355,Sherwood Arboretum,355,-27.53237033,152.9724997,Eucalyptus carnea,White mahogany,Myrtaceae,8,4,140,,NALL-CV-2257;NALL-SNV-881,No
+SHW-0356,Sherwood Arboretum,356,-27.53236929,152.9720331,Ficus racemosa var. racemosa,Cluster fig,Moraceae,16,25,1220,,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-0357,Sherwood Arboretum,357,-27.53236338,152.9731255,Corymbia intermedia,Pink bloodwood,Myrtaceae,8,4,100,,NALL-CV-2257;NALL-SNV-881,No
+SHW-0358,Sherwood Arboretum,358,-27.53236731,152.9726455,Eucalyptus saligna/grandis,Eucalyptus sp.,Myrtaceae,9,8,190,,NALL-CV-2257;NALL-SNV-881,No
+SHW-0359,Sherwood Arboretum,359,-27.53235143,152.9763401,Owenia venosa,Crows apple,Meliaceae,7,5,160,,NALL-CV-2257,No
+SHW-0360,Sherwood Arboretum,360,-27.53236686,152.977291,Acacia disparrima subsp. disparrima,Hickory wattle,Mimosaceae,6.5,5,110,,NALL-CV-2257,No
+SHW-0361,Sherwood Arboretum,361,-27.52906434,152.9732342,Agathis robusta,Queensland kauri pine,Araucariaceae,26,12,620,,NALL-SUV-1118,No
+SHW-0362,Sherwood Arboretum,362,-27.53235693,152.9745351,Melaleuca styphelioides,Prickly paperbark,Myrtaceae,7,6,330,,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-0364,Sherwood Arboretum,364,-27.53236397,152.973018,Corymbia intermedia,Pink bloodwood,Myrtaceae,14,8,280,,NALL-CV-2257;NALL-SNV-881,No
+SHW-0365,Sherwood Arboretum,365,-27.53236287,152.975723,Delonix regia,Poinciana,Fabaceae,10,22,510,,NALL-CV-2257,No
+SHW-0367,Sherwood Arboretum,367,-27.53236087,152.9750765,Chionanthus ramiflora,Northern native olive,Oleaceae	,5,4,0,,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-0368,Sherwood Arboretum,368,-27.53236019,152.9769721,Xanthostemon chrysanthus,Golden Penda,Myrtaceae,8,7,300,,NALL-CV-2257,No
+SHW-0370,Sherwood Arboretum,370,-27.53235799,152.9731245,Corymbia intermedia,Pink bloodwood,Myrtaceae,8,4,110,,NALL-CV-2257;NALL-SNV-881,No
+SHW-0371,Sherwood Arboretum,371,-27.53235735,152.9731801,Acacia disparrima subsp. disparrima,Hickory wattle,Mimosaceae,9,8,260,,NALL-CV-2257;NALL-SNV-881,No
+SHW-0372,Sherwood Arboretum,372,-27.53235642,152.9761392,Streblus brunonianus,Whalebone tree,Moraceae,5,5,160,,NALL-CV-2257,No
+SHW-0373,Sherwood Arboretum,373,-27.53235583,152.9726176,Eucalyptus thozetiana,None recorded,Myrtaceae,2,1,10,,NALL-CV-2257;NALL-SNV-881,No
+SHW-0374,Sherwood Arboretum,374,-27.53235307,152.9766425,Brachychiton rupestris,Narrow-leaved bottle tree,Sterculiaceae,4,2,70,,NALL-CV-2257,No
+SHW-0375,Sherwood Arboretum,375,-27.53235244,152.976444,Commersonia bartramia,Brown Kurrajong,Malvaceae,10,10,950,,NALL-CV-2257,No
+SHW-0376,Sherwood Arboretum,376,-27.53234955,152.9729327,Eucalyptus curtisii,Plunkett mallee,Myrtaceae,5,8,300,,NALL-CV-2257;NALL-SNV-881,No
+SHW-0377,Sherwood Arboretum,377,-27.53233496,152.9769085,Podocarpus elatus,Brown Pine,Podocarpaceae	,11,10,200,,NALL-CV-2257,No
+SHW-0378,Sherwood Arboretum,378,-27.53234845,152.9756746,Tabebuia sp.,Tabebuia sp.,Bignoniaceae	,10,10,350,,NALL-CV-2257;NALL-WWV-2529,No
+SHW-0379,Sherwood Arboretum,379,-27.53234821,152.9757896,Maytenus bilocularis,Orange bark,Celastraceae,6,6,190,,NALL-CV-2257,No
+SHW-0380,Sherwood Arboretum,380,-27.53234724,152.9730577,Eucalyptus moluccana,Gum-topped box,Myrtaceae,14,9,300,,NALL-CV-2257;NALL-SNV-881,No
+SHW-0381,Sherwood Arboretum,381,-27.53234221,152.972481,Eucalyptus seeana,Narrow-leaved red gum,Myrtaceae,10,7,260,,NALL-CV-2257;NALL-SNV-881,No
+SHW-0382,Sherwood Arboretum,382,-27.53234047,152.9732484,Waterhousea floribunda,Weeping Lillypilly,Myrtaceae,5,3,50,2019,NALL-CV-2257;NALL-SNV-881,No
+SHW-0383,Sherwood Arboretum,383,-27.53233658,152.9767106,Lophostemon suaveolens,Swamp Box,Myrtaceae,14,10,260,,NALL-CV-2257,No
+SHW-0385,Sherwood Arboretum,385,-27.53236999,152.9747775,Corymbia tessellaris,Moreton Bay ash,Myrtaceae,14,6,240,,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-0387,Sherwood Arboretum,387,-27.53231108,152.9768359,Podocarpus elatus,Brown Pine,Podocarpaceae	,14,10,280,,NALL-CV-2257,No
+SHW-0388,Sherwood Arboretum,388,-27.53238616,152.9758948,Delonix regia,Poinciana,Fabaceae,8,17,350,,NALL-CV-2257,No
+SHW-0389,Sherwood Arboretum,389,-27.53233458,152.9743684,Lophostemon confertus,Brush Box,Myrtaceae,10,8,520,,NALL-CV-2257;NALL-SNV-881,No
+SHW-0391,Sherwood Arboretum,391,-27.53233194,152.9735067,Waterhousea floribunda,Weeping Lillypilly,Myrtaceae,8,6,410,2000,NALL-CV-2257;NALL-SNV-881,No
+SHW-0392,Sherwood Arboretum,392,-27.53232981,152.9756361,Araucaria cunninghamii var. cunninghamii,Hoop Pine,Araucariaceae,12,6,180,,NALL-CV-2257;NALL-WWV-2529,No
+SHW-0393,Sherwood Arboretum,393,-27.53235254,152.9730214,Xanthorrhoea glauca,Grass tree,Xanthorrhoeaceae,1.5,1,0,,NALL-CV-2257;NALL-SNV-881,No
+SHW-0394,Sherwood Arboretum,394,-27.5323228,152.9762714,Eucalyptus robusta,"Swamp mahogany, swamp messmate",Myrtaceae,9,3,240,,NALL-CV-2257,No
+SHW-0395,Sherwood Arboretum,395,-27.53231874,152.9767615,Melaleuca leucadendra,Weeping paperbark,Myrtaceae,19,10,540,,NALL-CV-2257,No
+SHW-0396,Sherwood Arboretum,396,-27.53231682,152.9750396,Chionanthus ramiflora,Northern native olive,Oleaceae	,5,4,0,,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-0397,Sherwood Arboretum,397,-27.53231585,152.9728461,Eucalyptus sp.,Eucalyptus sp.,Myrtaceae,10,6,120,,NALL-CV-2257;NALL-SNV-881,No
+SHW-0398,Sherwood Arboretum,398,-27.53231468,152.9762751,Acacia disparrima subsp. disparrima,Hickory wattle,Mimosaceae,11,15,650,,NALL-CV-2257,No
+SHW-0399,Sherwood Arboretum,399,-27.53231114,152.9715641,Eucalyptus tereticornis subsp. tereticornis,Forest red gum,Myrtaceae,22,18,550,,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-0400,Sherwood Arboretum,400,-27.53230966,152.9757346,Eucalyptus saligna subsp. saligna,Sydney blue gum,Myrtaceae,18,12,560,,NALL-CV-2257;NALL-WWV-2529,No
+SHW-0401,Sherwood Arboretum,401,-27.53230765,152.9734231,Waterhousea floribunda,Weeping Lillypilly,Myrtaceae,11,12,450,2000,NALL-CV-2257;NALL-SNV-881,No
+SHW-0402,Sherwood Arboretum,402,-27.53230709,152.9727348,Lysiphyllum hookeri,Pegunny,Caesalpiniaceae,10,12,300,,NALL-CV-2257;NALL-SNV-881,No
+SHW-0403,Sherwood Arboretum,403,-27.53230663,152.9760221,Maytenus bilocularis,Orange bark,Celastraceae,4,4,170,,NALL-CV-2257,No
+SHW-0404,Sherwood Arboretum,404,-27.5323055,152.9728755,Corymbia intermedia,Pink bloodwood,Myrtaceae,8,3,200,,NALL-CV-2257;NALL-SNV-881,No
+SHW-0406,Sherwood Arboretum,406,-27.53230456,152.9765549,Lophostemon confertus,Brush Box,Myrtaceae,14,12,470,,NALL-CV-2257,No
+SHW-0407,Sherwood Arboretum,407,-27.53230066,152.976178,Eucalyptus microcorys,Tallowwood,Myrtaceae,17,10,540,,NALL-CV-2257,No
+SHW-0408,Sherwood Arboretum,408,-27.53229636,152.9766131,Brachychiton rupestris,Narrow-leaved bottle tree,Sterculiaceae,4,2,110,,NALL-CV-2257,No
+SHW-0409,Sherwood Arboretum,409,-27.53229556,152.9764766,Lophostemon confertus,Brush Box,Myrtaceae,12,11,330,,NALL-CV-2257,No
+SHW-0411,Sherwood Arboretum,411,-27.53229317,152.9767297,Melaleuca leucadendra,Weeping paperbark,Myrtaceae,15,8,380,,NALL-CV-2257,No
+SHW-0412,Sherwood Arboretum,412,-27.53229195,152.9729985,Corymbia intermedia,Pink bloodwood,Myrtaceae,8,6,170,,NALL-CV-2257;NALL-SNV-881,No
+SHW-0413,Sherwood Arboretum,413,-27.53228304,152.974722,Eucalyptus tereticornis subsp. tereticornis,Forest red gum,Myrtaceae,20,11,560,,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-0415,Sherwood Arboretum,415,-27.53228096,152.9728512,Callitris rhomboidea,Oyster Bay pine,Cupressaceae,5,1,75,2018,NALL-CV-2257;NALL-SNV-881,No
+SHW-0416,Sherwood Arboretum,416,-27.53228017,152.97288,Eucalyptus tereticornis subsp. tereticornis,Forest red gum,Myrtaceae,6,5,150,,NALL-CV-2257;NALL-SNV-881,No
+SHW-0417,Sherwood Arboretum,417,-27.53227819,152.9766864,Corymbia tessellaris,Moreton Bay ash,Myrtaceae,28,16,540,,NALL-CV-2257,No
+SHW-0418,Sherwood Arboretum,418,-27.53227772,152.9756913,Eucalyptus propinqua,Small-fruited grey gum,Myrtaceae,18,9,330,,NALL-CV-2257;NALL-WWV-2529,No
+SHW-0419,Sherwood Arboretum,419,-27.53227324,152.9729161,Eucalyptus siderophloia,Northern grey ironbark,Myrtaceae,14,6,190,,NALL-CV-2257;NALL-SNV-881,No
+SHW-0420,Sherwood Arboretum,420,-27.53227572,152.9757946,Eucalyptus propinqua,Small-fruited grey gum,Myrtaceae,16,10,320,,NALL-CV-2257,No
+SHW-0421,Sherwood Arboretum,421,-27.53227276,152.9732259,Eucalyptus cloeziana,Gympie messmate,Myrtaceae,35,14,830,1929,NALL-CV-2257;NALL-SNV-881,No
+SHW-0422,Sherwood Arboretum,422,-27.5322768,152.9730126,Acacia concurrens,"Black wattle, Curracabah",Mimosaceae,10,5,170,,NALL-CV-2257;NALL-SNV-881,No
+SHW-0423,Sherwood Arboretum,423,-27.53226623,152.9730184,Eucalyptus siderophloia,Northern grey ironbark,Myrtaceae,9,4,110,,NALL-CV-2257;NALL-SNV-881,No
+SHW-0424,Sherwood Arboretum,424,-27.53225316,152.9760422,Alectryon tomentosus,Woolly Rambutan,Sapindaceae,7,7,240,,NALL-CV-2257,No
+SHW-0425,Sherwood Arboretum,425,-27.53226394,152.9765056,Lophostemon confertus,Brush Box,Myrtaceae,11,6,220,,NALL-CV-2257,No
+SHW-0426,Sherwood Arboretum,426,-27.53226279,152.9720137,Ficus microcarpa var. hilli,Small-fruited fig,Moraceae,18,35,1800,,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-0427,Sherwood Arboretum,427,-27.53225581,152.9729195,Eucalyptus crebra,Narrow-leaved ironbark,Myrtaceae,11,7,190,,NALL-CV-2257;NALL-SNV-881,No
+SHW-0428,Sherwood Arboretum,428,-27.53225952,152.9726456,Eucalyptus saligna/grandis,Eucalyptus sp.,Myrtaceae,12,10,260,,NALL-CV-2257;NALL-SNV-881,No
+SHW-0430,Sherwood Arboretum,430,-27.53225525,152.976739,Melaleuca leucadendra broadleaf form,Weeping paperbark,Myrtaceae,13,7,290,,NALL-CV-2257,No
+SHW-0432,Sherwood Arboretum,432,-27.53225366,152.9764396,Alphitonia excelsa,Red Ash,Rhamnaceae,11,9,390,,NALL-CV-2257,No
+SHW-0433,Sherwood Arboretum,433,-27.53225278,152.9765721,Brachychiton rupestris,Narrow-leaved bottle tree,Sterculiaceae,5,2,180,,NALL-CV-2257,No
+SHW-0434,Sherwood Arboretum,434,-27.53225188,152.9718757,Ficus microcarpa var. hilli,Small-fruited fig,Moraceae,19,45,3910,,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-0435,Sherwood Arboretum,435,-27.53225061,152.9730605,Eucalyptus siderophloia,Northern grey ironbark,Myrtaceae,20,10,330,,NALL-CV-2257;NALL-SNV-881,No
+SHW-0436,Sherwood Arboretum,436,-27.5322383,152.9760877,Eucalyptus siderophloia,Northern grey ironbark,Myrtaceae,9,3,130,,NALL-CV-2257,No
+SHW-0437,Sherwood Arboretum,437,-27.53224751,152.9729862,Eucalyptus seeana,Narrow-leaved red gum,Myrtaceae,19,10,440,,NALL-CV-2257;NALL-SNV-881,No
+SHW-0438,Sherwood Arboretum,438,-27.53224695,152.9727639,Corymbia leichhardtii,Leichhardt's rustyjacket,Myrtaceae,4.5,4,100,,NALL-CV-2257;NALL-SNV-881,No
+SHW-0439,Sherwood Arboretum,439,-27.53224179,152.9761982,Eucalyptus siderophloia,Northern grey ironbark,Myrtaceae,6,3,110,,NALL-CV-2257,No
+SHW-0440,Sherwood Arboretum,440,-27.53224292,152.9759784,Alectryon tomentosus,Woolly Rambutan,Sapindaceae,7,9,230,,NALL-CV-2257,No
+SHW-0441,Sherwood Arboretum,441,-27.53223977,152.9727181,Eucalyptus saligna/grandis,Eucalyptus sp.,Myrtaceae,9,6,160,,NALL-CV-2257;NALL-SNV-881,No
+SHW-0442,Sherwood Arboretum,442,-27.53222719,152.9724949,Eucalyptus siderophloia,Northern grey ironbark,Myrtaceae,25,15,740,,NALL-CV-2257;NALL-SNV-881,No
+SHW-0443,Sherwood Arboretum,443,-27.53222337,152.9763375,Stenocarpus sinuatus,Firewheel tree,Proteaceae,5,3,150,,NALL-CV-2257,No
+SHW-0444,Sherwood Arboretum,444,-27.53223629,152.976255,Stenocarpus sinuatus,Firewheel tree,Proteaceae,11,4,230,,NALL-CV-2257,No
+SHW-0445,Sherwood Arboretum,445,-27.53223627,152.9730392,Euroschinus falcatus var. falcatus,Ribbonwood,Ancardiaceae,6,4,90,,NALL-CV-2257;NALL-SNV-881,No
+SHW-0446,Sherwood Arboretum,446,-27.53222902,152.9731074,Eucalyptus microcorys,Tallowwood,Myrtaceae,7,4,100,,NALL-CV-2257;NALL-SNV-881,No
+SHW-0447,Sherwood Arboretum,447,-27.53222895,152.9730238,Eucalyptus microcorys,Tallowwood,Myrtaceae,10,6,110,,NALL-CV-2257;NALL-SNV-881,No
+SHW-0448,Sherwood Arboretum,448,-27.53222825,152.9766353,Cupaniopsis anacardioides,Tuckeroo,Sapindaceae,10,8,280,,NALL-CV-2257,No
+SHW-0450,Sherwood Arboretum,450,-27.53221909,152.9765371,Acacia disparrima subsp. disparrima,Hickory wattle,Mimosaceae,8,7,110,,NALL-CV-2257,No
+SHW-0451,Sherwood Arboretum,451,-27.53221803,152.9731603,Acacia maidenii,Maiden's wattle,Mimosaceae,9,8,380,,NALL-CV-2257;NALL-SNV-881,No
+SHW-0452,Sherwood Arboretum,452,-27.53221732,152.9728587,Eucalyptus microcorys,Tallowwood,Myrtaceae,5,5,100,2016,NALL-CV-2257;NALL-SNV-881,No
+SHW-0453,Sherwood Arboretum,453,-27.53221085,152.9726481,Eucalyptus raveretiana,Black ironbox,Myrtaceae,8,6,140,2018,NALL-CV-2257;NALL-SNV-881,No
+SHW-0454,Sherwood Arboretum,454,-27.53220838,152.9727229,Lophostemon confertus,Brush Box,Myrtaceae,6,4,65,,NALL-CV-2257;NALL-SNV-881,No
+SHW-0455,Sherwood Arboretum,455,-27.53219569,152.9762625,Cupaniopsis parvifolia,Small-leaved tuckeroo,Sapindaceae,10,5,250,,NALL-CV-2257,No
+SHW-0456,Sherwood Arboretum,456,-27.53219929,152.9762729,Cupaniopsis parvifolia,Small-leaved tuckeroo,Sapindaceae,10,6,250,,NALL-CV-2257,No
+SHW-0457,Sherwood Arboretum,457,-27.53220315,152.9725915,Angophora subvelutina,Broad-leaved Apple,Myrtaceae,9,5,190,2018,NALL-CV-2257;NALL-SNV-881,No
+SHW-0458,Sherwood Arboretum,458,-27.53219406,152.9742975,Flindersia australis,Crows Ash,Rutaceae	,10,9,550,,NALL-CV-2257;NALL-SNV-881,No
+SHW-0459,Sherwood Arboretum,459,-27.53218826,152.9765402,Acacia disparrima subsp. disparrima,Hickory wattle,Mimosaceae,9,7,190,,NALL-CV-2257,No
+SHW-0460,Sherwood Arboretum,460,-27.53218786,152.9764052,Brachychiton australis,Broad-leaved Bottle Tree,Sterculiaceae,8,6,400,,NALL-CV-2257,No
+SHW-0461,Sherwood Arboretum,461,-27.5321605,152.9764688,Eucalyptus tereticornis subsp. tereticornis,Forest red gum,Myrtaceae,10,4,190,,NALL-CV-2257,No
+SHW-0462,Sherwood Arboretum,462,-27.53217941,152.9753079,Macaranga tanarius,Bullocks heart,Euphorbiaceae,5,5,0,,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-0463,Sherwood Arboretum,463,-27.532177,152.9726693,Eucalyptus melliodora,Yellow box,Myrtaceae,14,9,720,,NALL-CV-2257;NALL-SNV-881,No
+SHW-0464,Sherwood Arboretum,464,-27.53217638,152.9752535,Acacia sp.,Acacia sp.,Mimosaceae,6,3,0,,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-0465,Sherwood Arboretum,465,-27.53217142,152.9727415,Eucalyptus argophloia,Chinchilla white gum,Myrtaceae,17,9,270,,NALL-CV-2257;NALL-SNV-881,No
+SHW-0466,Sherwood Arboretum,466,-27.53217065,152.9745113,Flindersia australis,Crows Ash,Rutaceae	,7,6,300,,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-0467,Sherwood Arboretum,467,-27.53215701,152.9727686,Acacia concurrens,"Black wattle, Curracabah",Mimosaceae,8,8,200,,NALL-CV-2257;NALL-SNV-881,No
+SHW-0468,Sherwood Arboretum,468,-27.53215034,152.9760484,Melaleuca leucadendra,Weeping paperbark,Myrtaceae,18,7,570,,NALL-CV-2257,No
+SHW-0469,Sherwood Arboretum,469,-27.53215002,152.9759169,Melaleuca styphelioides,Prickly paperbark,Myrtaceae,11,7,570,,NALL-CV-2257,No
+SHW-0470,Sherwood Arboretum,470,-27.53214962,152.9753234,Macaranga tanarius,Bullocks heart,Euphorbiaceae,4,2,0,,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-0471,Sherwood Arboretum,471,-27.53214851,152.9760293,Melaleuca leucadendra,Weeping paperbark,Myrtaceae,18,8,690,,NALL-CV-2257,No
+SHW-0472,Sherwood Arboretum,472,-27.5321482,152.977214,Acacia disparrima subsp. disparrima,Hickory wattle,Mimosaceae,14,6,210,,NALL-CV-2257,No
+SHW-0474,Sherwood Arboretum,474,-27.53214414,152.9773036,Acacia leiocalyx,"Blackwattle, Early flowering black wattle",Mimosaceae,9,7,120,,NALL-CV-2257,No
+SHW-0475,Sherwood Arboretum,475,-27.53214387,152.972998,Eucalyptus propinqua,Small-fruited grey gum,Myrtaceae,22,16,420,,NALL-CV-2257;NALL-SNV-881,No
+SHW-0476,Sherwood Arboretum,476,-27.53214293,152.9759797,Melaleuca leucadendra,Weeping paperbark,Myrtaceae,18,6,760,,NALL-CV-2257,No
+SHW-0477,Sherwood Arboretum,477,-27.53214134,152.9759987,Melaleuca leucadendra,Weeping paperbark,Myrtaceae,18,6,380,,NALL-CV-2257,No
+SHW-0478,Sherwood Arboretum,478,-27.53214078,152.9758918,Melaleuca styphelioides,Prickly paperbark,Myrtaceae,9,6,650,,NALL-CV-2257,No
+SHW-0479,Sherwood Arboretum,479,-27.53213943,152.9765934,Brachychiton discolor,Lacebark tree,Sterculiaceae,10,9,400,,NALL-CV-2257,No
+SHW-0480,Sherwood Arboretum,480,-27.53213679,152.974437,Flindersia australis,Crows Ash,Rutaceae	,8,6,240,,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-0481,Sherwood Arboretum,481,-27.53213457,152.9758798,Melaleuca linariifolia,Snow in Summer,Myrtaceae,10,7,320,,NALL-CV-2257,No
+SHW-0482,Sherwood Arboretum,482,-27.53213274,152.9758503,Melaleuca linariifolia,Snow in Summer,Myrtaceae,9,9,390,,NALL-CV-2257,No
+SHW-0483,Sherwood Arboretum,483,-27.53215957,152.9726829,Pleiogynium timoriense,Burdekin plum,Ancardiaceae,8,8,250,,NALL-CV-2257;NALL-SNV-881,No
+SHW-0484,Sherwood Arboretum,484,-27.5321293,152.9753491,Macaranga tanarius,Bullocks heart,Euphorbiaceae,9,5,0,,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-0485,Sherwood Arboretum,485,-27.53212748,152.9758317,Melaleuca linariifolia,Snow in Summer,Myrtaceae,10,7,350,,NALL-CV-2257,No
+SHW-0486,Sherwood Arboretum,486,-27.532127,152.9757891,Melaleuca linariifolia,Snow in Summer,Myrtaceae,8,5,70,,NALL-CV-2257,No
+SHW-0488,Sherwood Arboretum,488,-27.53212612,152.9752756,Hibiscus heterophyllus,Native rosella,Malvaceae,3.5,3,0,,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-0489,Sherwood Arboretum,489,-27.5321148,152.9765172,Brachychiton discolor,Lacebark tree,Sterculiaceae,10,7,400,,NALL-CV-2257,No
+SHW-0490,Sherwood Arboretum,490,-27.53212143,152.9757357,Melaleuca quinquenervia,Broad-leaved paperbark,Myrtaceae,12,7,430,,NALL-CV-2257;NALL-WWV-2529,No
+SHW-0491,Sherwood Arboretum,491,-27.53211933,152.9716526,Chionanthus ramiflora,Northern native olive,Oleaceae	,12,13,450,,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-0492,Sherwood Arboretum,492,-27.53211736,152.9756949,Melaleuca quinquenervia,Broad-leaved paperbark,Myrtaceae,12,8,430,,NALL-CV-2257;NALL-WWV-2529,No
+SHW-0494,Sherwood Arboretum,494,-27.53211256,152.9727717,Eucalyptus argophloia,Chinchilla white gum,Myrtaceae,9,6,200,,NALL-CV-2257;NALL-SNV-881,No
+SHW-0497,Sherwood Arboretum,497,-27.53210913,152.9727328,Euroschinus falcatus var. falcatus,Ribbonwood,Ancardiaceae,7,5,190,,NALL-CV-2257;NALL-SNV-881,No
+SHW-0498,Sherwood Arboretum,498,-27.53210508,152.9729036,Corymbia citriodora subsp. variegata,Spotted gum,Myrtaceae,20,9,420,,NALL-CV-2257;NALL-SNV-881,No
+SHW-0499,Sherwood Arboretum,499,-27.53210835,152.9727426,Euroschinus falcatus var. falcatus,Ribbonwood,Ancardiaceae,2,1,20,,NALL-CV-2257;NALL-SNV-881,No
+SHW-0500,Sherwood Arboretum,500,-27.53210435,152.9719504,Melia azedarach,White cedar,Meliaceae,16,11,450,,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-0502,Sherwood Arboretum,502,-27.53210092,152.9727186,Euroschinus falcatus var. falcatus,Ribbonwood,Ancardiaceae,7,5,120,,NALL-CV-2257;NALL-SNV-881,No
+SHW-0503,Sherwood Arboretum,503,-27.53209848,152.9752608,Hibiscus heterophyllus,Native rosella,Malvaceae,2,2,0,,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-0504,Sherwood Arboretum,504,-27.53209415,152.9727864,Corymbia citriodora subsp. variegata,Spotted gum,Myrtaceae,14,7,200,,NALL-CV-2257;NALL-SNV-881,No
+SHW-0505,Sherwood Arboretum,505,-27.53208568,152.9726777,Pleiogynium timoriense,Burdekin plum,Ancardiaceae,7,6,190,,NALL-CV-2257;NALL-SNV-881,No
+SHW-0506,Sherwood Arboretum,506,-27.53208874,152.9726253,Eucalyptus raveretiana,Black ironbox,Myrtaceae,8,6,190,2018,NALL-CV-2257;NALL-SNV-881,No
+SHW-0507,Sherwood Arboretum,507,-27.53208699,152.9729985,Eucalyptus microcorys,Tallowwood,Myrtaceae,12,8,290,,NALL-CV-2257;NALL-SNV-881,No
+SHW-0508,Sherwood Arboretum,508,-27.53208616,152.9727273,Corymbia citriodora subsp. variegata,Spotted gum,Myrtaceae,14,7,250,,NALL-CV-2257;NALL-SNV-881,No
+SHW-0509,Sherwood Arboretum,509,-27.53206283,152.9727078,Corymbia citriodora subsp. variegata,Spotted gum,Myrtaceae,15,5,220,,NALL-CV-2257;NALL-SNV-881,No
+SHW-0510,Sherwood Arboretum,510,-27.53204755,152.9731436,Harpullia pendula,Tulipwood,Sapindaceae,9,7,250,,NALL-CV-2257;NALL-SNV-881,No
+SHW-0511,Sherwood Arboretum,511,-27.53206102,152.9717439,Melia azedarach,White cedar,Meliaceae,14,8,190,,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-0512,Sherwood Arboretum,512,-27.53205719,152.9716954,Melia azedarach,White cedar,Meliaceae,13,9,331,,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-0513,Sherwood Arboretum,513,-27.53205641,152.9742763,Millettia pinnata,Pongamia,Fabaceae,5,10,1040,,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-0514,Sherwood Arboretum,514,-27.53205338,152.9729375,Acacia harpophylla,Brigalow,Mimosaceae,2.4,3,50,2019,NALL-CV-2257;NALL-SNV-881,No
+SHW-0515,Sherwood Arboretum,515,-27.53205629,152.9718308,Melia azedarach,White cedar,Meliaceae,14,8,280,,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-0516,Sherwood Arboretum,516,-27.53204843,152.9718217,Mallotus philippensis,Red kamala,Euphorbiaceae,8,5,150,,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-0517,Sherwood Arboretum,517,-27.5320478,152.97285,Callitris rhomboidea,Oyster Bay pine,Cupressaceae,6,3,200,2018,NALL-CV-2257;NALL-SNV-881,No
+SHW-0518,Sherwood Arboretum,518,-27.53204762,152.9717214,Melia azedarach,White cedar,Meliaceae,12,7,260,,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-0519,Sherwood Arboretum,519,-27.53204756,152.9743776,Flindersia australis,Crows Ash,Rutaceae	,14,10,515,,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-0520,Sherwood Arboretum,520,-27.53204746,152.9727336,Eucalyptus curtisii,Plunkett mallee,Myrtaceae,2,2,20,2018,NALL-CV-2257;NALL-SNV-881,No
+SHW-0521,Sherwood Arboretum,521,-27.53204205,152.9725064,Eucalyptus raveretiana,Black ironbox,Myrtaceae,10,6,190,2018,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-0523,Sherwood Arboretum,523,-27.53203137,152.9717398,Melia azedarach,White cedar,Meliaceae,11,7,240,,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-0525,Sherwood Arboretum,525,-27.53202346,152.9728804,Acacia harpophylla,Brigalow,Mimosaceae,3,3,70,2019,NALL-CV-2257;NALL-SNV-881,No
+SHW-0526,Sherwood Arboretum,526,-27.53202699,152.9727111,Eucalyptus curtisii,Plunkett mallee,Myrtaceae,3,3,80,2018,NALL-CV-2257;NALL-SNV-881,No
+SHW-0527,Sherwood Arboretum,527,-27.53202516,152.9718723,Melia azedarach,White cedar,Meliaceae,12,8,280,,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-0528,Sherwood Arboretum,528,-27.53202173,152.9718759,Cupaniopsis anacardioides,Tuckeroo,Sapindaceae,10,7,290,,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-0529,Sherwood Arboretum,529,-27.53201935,152.9729355,Xanthostemon chrysanthus,Golden Penda,Myrtaceae,3,3,350,,NALL-CV-2257;NALL-SNV-881,No
+SHW-0530,Sherwood Arboretum,530,-27.53204277,152.9718453,Auranticarpa rhombifolia,Diamond leaf pittosporum,Pittosporaceae,11,6,200,,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-0531,Sherwood Arboretum,531,-27.5320162,152.971874,Acacia maidenii,Maiden's wattle,Mimosaceae,11,7,180,,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-0532,Sherwood Arboretum,532,-27.53199943,152.9725208,Eucalyptus argophloia,Chinchilla white gum,Myrtaceae,13,6,210,2013,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-0533,Sherwood Arboretum,533,-27.53199165,152.9760491,Leptospermum sp.,Tea tree,Myrtaceae,7,9,280,,NALL-CV-2257,No
+SHW-0534,Sherwood Arboretum,534,-27.53198796,152.9725286,Eucalyptus argophloia,Chinchilla white gum,Myrtaceae,10,6,170,2013,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-0535,Sherwood Arboretum,535,-27.53198841,152.9728809,Callitris rhomboidea,Oyster Bay pine,Cupressaceae,5,2,110,2018,NALL-CV-2257;NALL-SNV-881,No
+SHW-0536,Sherwood Arboretum,536,-27.53196809,152.9729143,Acacia harpophylla,Brigalow,Mimosaceae,4,4,100,2019,NALL-CV-2257;NALL-SNV-881,No
+SHW-0537,Sherwood Arboretum,537,-27.53197816,152.9719488,Ficus nodosa,"Cape Fig; Fig, Cape; Fig, Rocky River; Rocky River Fig",Moraceae,6,1,45,2018,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-0538,Sherwood Arboretum,538,-27.53200055,152.9758404,Grevillea robusta,Silky oak,Proteaceae,17,7,320,,NALL-CV-2257,No
+SHW-0539,Sherwood Arboretum,539,-27.53197705,152.971652,Chionanthus ramiflora,Northern native olive,Oleaceae	,11,12,350,,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-0540,Sherwood Arboretum,540,-27.53197322,152.972663,Eucalyptus melanophloia,Silver leaf iron bark,Myrtaceae,9,4,150,2015,NALL-CV-2257;NALL-SNV-881,No
+SHW-0541,Sherwood Arboretum,541,-27.53197124,152.9727647,Eucalyptus melanophloia,Silver leaf iron bark,Myrtaceae,8,3,130,2015,NALL-CV-2257;NALL-SNV-881,No
+SHW-0542,Sherwood Arboretum,542,-27.53195299,152.9718129,Grevillea robusta,Silky oak,Proteaceae,9,4,140,,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-0543,Sherwood Arboretum,543,-27.53194924,152.9721211,Ficus rubiginosa forma glabrescens,"Port Jackson fig, rusty fig",Moraceae,16,19,800,,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-0544,Sherwood Arboretum,544,-27.53194019,152.976174,Melaleuca leucadendra,Weeping paperbark,Myrtaceae,18,9,670,,NALL-CV-2257,No
+SHW-0545,Sherwood Arboretum,545,-27.5319306,152.9725946,Allocasuarina torulosa,Forest Oak,Casuarinaceae,7,5,160,2015,NALL-CV-2257;NALL-SNV-881,No
+SHW-0546,Sherwood Arboretum,546,-27.53192591,152.9720026,Casuarina cunninghamiana,River she-oak,Casuarinaceae,17,6,270,2013,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-0547,Sherwood Arboretum,547,-27.53192355,152.9762316,Melaleuca salicina,"Willow bottlebrush, White bottlebrush",Myrtaceae,15,9,490,,NALL-CV-2257,No
+SHW-0548,Sherwood Arboretum,548,-27.53191396,152.9727102,Corymbia tessellaris,Moreton Bay ash,Myrtaceae,8,4,130,,NALL-CV-2257;NALL-SNV-881,No
+SHW-0549,Sherwood Arboretum,549,-27.53191029,152.9726972,Jagera pseudorhus var. pseudorhus,Foambark,Sapindaceae,4,3,100,,NALL-CV-2257;NALL-SNV-881,No
+SHW-0550,Sherwood Arboretum,550,-27.53190057,152.9726948,Corymbia tessellaris,Moreton Bay ash,Myrtaceae,17,13,490,,NALL-CV-2257;NALL-SNV-881,No
+SHW-0552,Sherwood Arboretum,552,-27.53189205,152.9718134,Ficus nodosa,"Cape Fig; Fig, Cape; Fig, Rocky River; Rocky River Fig",Moraceae,5,5,120,2019,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-0553,Sherwood Arboretum,553,-27.53188984,152.9743113,Macaranga tanarius,Bullocks heart,Euphorbiaceae,5,5,140,,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-0554,Sherwood Arboretum,554,-27.53188584,152.9717371,Hibiscus heterophyllus,Native rosella,Malvaceae,8,6,140,,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-0555,Sherwood Arboretum,555,-27.53188435,152.975834,Melaleuca viminalis subsp. viminalis,Weeping bottlebrush,Myrtaceae,5,3,90,,NALL-CV-2257,No
+SHW-0556,Sherwood Arboretum,556,-27.53188345,152.9719117,Ficus racemosa,Cluster fig,Moraceae,4,3,50,2018,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-0557,Sherwood Arboretum,557,-27.5318821,152.9731095,Ficus microcarpa var. hilli,Small-fruited fig,Moraceae,22,22,740,,NALL-CV-2257;NALL-SNV-881,No
+SHW-0558,Sherwood Arboretum,558,-27.53188061,152.9757975,Melaleuca viminalis subsp. viminalis,Weeping bottlebrush,Myrtaceae,10,12,300,,NALL-CV-2257;NALL-WWV-2529,No
+SHW-0560,Sherwood Arboretum,560,-27.53187891,152.9726163,Eucalyptus argophloia,Chinchilla white gum,Myrtaceae,,,,,NALL-CV-2257;NALL-SNV-881,No
+SHW-0561,Sherwood Arboretum,561,-27.53187589,152.9732555,Ficus microcarpa,Small-fruited fig,Moraceae,24,24,1100,,NALL-CV-2257;NALL-SNV-881,No
+SHW-0562,Sherwood Arboretum,562,-27.53187272,152.9758405,Melaleuca viminalis subsp. viminalis,Weeping bottlebrush,Myrtaceae,4,2,50,,NALL-CV-2257,No
+SHW-0563,Sherwood Arboretum,563,-27.53187272,152.9757613,Melaleuca viminalis subsp. viminalis,Weeping bottlebrush,Myrtaceae,12,5,280,,NALL-CV-2257;NALL-WWV-2529,No
+SHW-0564,Sherwood Arboretum,564,-27.53187159,152.9731957,Corymbia tessellaris,Moreton Bay ash,Myrtaceae,24,10,375,,NALL-CV-2257;NALL-SNV-881,No
+SHW-0565,Sherwood Arboretum,565,-27.53186943,152.9728223,Corymbia tessellaris,Moreton Bay ash,Myrtaceae,20,14,500,,NALL-CV-2257;NALL-SNV-881,No
+SHW-0566,Sherwood Arboretum,566,-27.53186234,152.972228,Ficus macrophylla,Moreton Bay fig,Moraceae,4,2,55,2018,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-0569,Sherwood Arboretum,569,-27.53186277,152.976183,Melaleuca quinquenervia,Broad-leaved paperbark,Myrtaceae,9,6,270,,NALL-CV-2257,No
+SHW-0570,Sherwood Arboretum,570,-27.53185485,152.9716859,Eucalyptus tereticornis subsp. tereticornis,Forest red gum,Myrtaceae,25,14,420,,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-0571,Sherwood Arboretum,571,-27.53185392,152.9761223,Melaleuca leucadendra fine leaf form,Weeping paperbark,Myrtaceae,12,9,490,,NALL-CV-2257,No
+SHW-0572,Sherwood Arboretum,572,-27.53185321,152.975738,Melaleuca salicina,"Willow bottlebrush, White bottlebrush",Myrtaceae,13,5,240,,NALL-CV-2257;NALL-WWV-2529,No
+SHW-0573,Sherwood Arboretum,573,-27.53185143,152.9729661,Corymbia tessellaris,Moreton Bay ash,Myrtaceae,20,13,350,,NALL-CV-2257;NALL-SNV-881,No
+SHW-0574,Sherwood Arboretum,574,-27.53185107,152.9775609,Flindersia bennettii,Bennett's ash,Rutaceae	,15,7,290,,NALL-CV-2257,No
+SHW-0575,Sherwood Arboretum,575,-27.53184968,152.9742445,Macaranga tanarius,Bullocks heart,Euphorbiaceae,5,6,200,,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-0576,Sherwood Arboretum,576,-27.53185089,152.9756846,Melaleuca salicina,"Willow bottlebrush, White bottlebrush",Myrtaceae,14,4,300,,NALL-CV-2257;NALL-WWV-2529,No
+SHW-0577,Sherwood Arboretum,577,-27.5318337,152.9776802,Delonix regia,Poinciana,Fabaceae,9,15,760,,,No
+SHW-0579,Sherwood Arboretum,579,-27.53182915,152.9760044,Melaleuca quinquenervia,Broad-leaved paperbark,Myrtaceae,9,10,320,,NALL-CV-2257,No
+SHW-0580,Sherwood Arboretum,580,-27.53182849,152.9728924,Eucalyptus seeana,Narrow-leaved red gum,Myrtaceae,15,8,320,,NALL-CV-2257;NALL-SNV-881,No
+SHW-0581,Sherwood Arboretum,581,-27.5318378,152.9742219,Glochidion ferdinandi,Cheese tree,Phyllanthaceae,5,4,90,,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-0582,Sherwood Arboretum,582,-27.53181765,152.9718542,Eucalyptus tereticornis subsp. tereticornis,Forest red gum,Myrtaceae,32,20,990,,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-0583,Sherwood Arboretum,583,-27.53181394,152.9765579,Syzygium australe,Brush cherry,Myrtaceae,6,5,260,,NALL-CV-2257,No
+SHW-0584,Sherwood Arboretum,584,-27.53181044,152.9773473,Brachychiton discolor,Lacebark tree,Sterculiaceae,11,5,310,,NALL-CV-2257,No
+SHW-0585,Sherwood Arboretum,585,-27.53181011,152.975949,Melaleuca leucadendra,Weeping paperbark,Myrtaceae,15,8,490,,NALL-CV-2257,No
+SHW-0586,Sherwood Arboretum,586,-27.53180936,152.9728451,Corymbia tessellaris,Moreton Bay ash,Myrtaceae,15,8,290,,NALL-CV-2257;NALL-SNV-881,No
+SHW-0587,Sherwood Arboretum,587,-27.53180825,152.9725506,Eucalyptus propinqua,Small-fruited grey gum,Myrtaceae,6,5,130,2018,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-0588,Sherwood Arboretum,588,-27.53180318,152.9771693,Corymbia tessellaris,Moreton Bay ash,Myrtaceae,24,10,510,,NALL-CV-2257,No
+SHW-0589,Sherwood Arboretum,589,-27.53180238,152.9766062,Syzygium australe,Brush cherry,Myrtaceae,7,3,100,,NALL-CV-2257,No
+SHW-0590,Sherwood Arboretum,590,-27.53180184,152.9774186,Brachychiton discolor,Lacebark tree,Sterculiaceae,5,3,110,,NALL-CV-2257,No
+SHW-0591,Sherwood Arboretum,591,-27.53180079,152.9758907,Melaleuca leucadendra,Weeping paperbark,Myrtaceae,16,8,550,,NALL-CV-2257,No
+SHW-0592,Sherwood Arboretum,592,-27.53178921,152.9726689,Eucalyptus microcorys,Tallowwood,Myrtaceae,6,5,110,2015,NALL-CV-2257;NALL-SNV-881,No
+SHW-0593,Sherwood Arboretum,593,-27.53179928,152.976671,Syzygium moorei,Coolamon,Myrtaceae,11,9,340,,NALL-CV-2257,No
+SHW-0594,Sherwood Arboretum,594,-27.53179909,152.9728471,Corymbia tessellaris,Moreton Bay ash,Myrtaceae,19,11,360,,NALL-CV-2257;NALL-SNV-881,No
+SHW-0595,Sherwood Arboretum,595,-27.5317984,152.9763287,Araucaria cunninghamii var. cunninghamii,Hoop Pine,Araucariaceae,20,9,330,,NALL-CV-2257,No
+SHW-0596,Sherwood Arboretum,596,-27.53179475,152.9774783,Brachychiton rupestris,Narrow-leaved bottle tree,Sterculiaceae,8,5,390,,NALL-CV-2257,No
+SHW-0598,Sherwood Arboretum,598,-27.53178693,152.9758333,Melaleuca quinquenervia,Broad-leaved paperbark,Myrtaceae,13,8,400,,NALL-CV-2257,No
+SHW-0599,Sherwood Arboretum,599,-27.53178024,152.9757678,Eucalyptus robusta,"Swamp mahogany, swamp messmate",Myrtaceae,13,5,340,,NALL-CV-2257;NALL-WWV-2529,No
+SHW-0600,Sherwood Arboretum,600,-27.53177353,152.973315,Ficus microcarpa,Small-fruited fig,Moraceae,24,22,770,,NALL-CV-2257;NALL-SNV-881,No
+SHW-0602,Sherwood Arboretum,602,-27.5317705,152.972955,Corymbia tessellaris,Moreton Bay ash,Myrtaceae,20,10,290,,NALL-CV-2257;NALL-SNV-881,No
+SHW-0603,Sherwood Arboretum,603,-27.53176988,152.9761682,Eucalyptus grandis,Flooded gum,Myrtaceae,14,16,570,,NALL-CV-2257,No
+SHW-0604,Sherwood Arboretum,604,-27.53176958,152.9773951,Corymbia tessellaris,Moreton Bay ash,Myrtaceae,24,18,800,,NALL-CV-2257,No
+SHW-0605,Sherwood Arboretum,605,-27.53176675,152.9722373,Ficus macrophylla forma macrophylla,Moreton Bay fig,Moraceae,12,16,940,,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-0606,Sherwood Arboretum,606,-27.53175822,152.9724904,Eucalyptus resinifera,Red stringybark,Myrtaceae,12,10,370,,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-0607,Sherwood Arboretum,607,-27.53175822,152.9718186,Acacia maidenii,Maiden's wattle,Mimosaceae,6,5,120,,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-0608,Sherwood Arboretum,608,-27.53175392,152.9727295,Eucalyptus propinqua,Small-fruited grey gum,Myrtaceae,6,3,100,,NALL-CV-2257;NALL-SNV-881,No
+SHW-0609,Sherwood Arboretum,609,-27.53174811,152.9719068,Eucalyptus tereticornis subsp. tereticornis,Forest red gum,Myrtaceae,20,9,320,,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-0610,Sherwood Arboretum,610,-27.5317475,152.9765903,Brachychiton rupestris,Narrow-leaved bottle tree,Sterculiaceae,5,4,410,,NALL-CV-2257,No
+SHW-0611,Sherwood Arboretum,611,-27.53174493,152.9730309,Eucalyptus resinifera,Red stringybark,Myrtaceae,21,18,590,,NALL-CV-2257;NALL-SNV-881,No
+SHW-0612,Sherwood Arboretum,612,-27.53174464,152.9773403,Brachychiton discolor,Lacebark tree,Sterculiaceae,10,5,220,,NALL-CV-2257,No
+SHW-0613,Sherwood Arboretum,613,-27.53173873,152.9726439,Corymbia tessellaris,Moreton Bay ash,Myrtaceae,5,2,60,,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-0614,Sherwood Arboretum,614,-27.53174344,152.9764875,Araucaria cunninghamii var. cunninghamii,Hoop Pine,Araucariaceae,18,9,350,,NALL-CV-2257,No
+SHW-0615,Sherwood Arboretum,615,-27.53174054,152.9721018,Ficus macrophylla forma macrophylla,Moreton Bay fig,Moraceae,14,16,640,,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-0616,Sherwood Arboretum,616,-27.53173887,152.9727492,Corymbia tessellaris,Moreton Bay ash,Myrtaceae,6,2,80,,NALL-CV-2257;NALL-SNV-881,No
+SHW-0617,Sherwood Arboretum,617,-27.53173649,152.9728804,Eucalyptus pellita,Large-fruited red mahogany,Myrtaceae,9,5,290,,NALL-CV-2257;NALL-SNV-881,No
+SHW-0618,Sherwood Arboretum,618,-27.5317326,152.9760133,Araucaria cunninghamii var. cunninghamii,Hoop Pine,Araucariaceae,18,9,350,,NALL-CV-2257,No
+SHW-0619,Sherwood Arboretum,619,-27.53173117,152.9763694,Araucaria cunninghamii var. cunninghamii,Hoop Pine,Araucariaceae,16,8,290,,NALL-CV-2257,No
+SHW-0620,Sherwood Arboretum,620,-27.53162963,152.9764618,Jacaranda mimosifolia,Jacaranda,Bignoniaceae	,14,14,490,,NALL-CV-2257,No
+SHW-0621,Sherwood Arboretum,621,-27.53172708,152.9728028,Eucalyptus siderophloia,Northern grey ironbark,Myrtaceae,11,5,180,,NALL-CV-2257;NALL-SNV-881,No
+SHW-0622,Sherwood Arboretum,622,-27.53172628,152.9717041,Eucalyptus tereticornis subsp. tereticornis,Forest red gum,Myrtaceae,26,20,900,,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-0623,Sherwood Arboretum,623,-27.53173328,152.9741603,Glochidion ferdinandi,Cheese tree,Phyllanthaceae,6,7,310,,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-0624,Sherwood Arboretum,624,-27.53172317,152.9726477,Eucalyptus seeana,Narrow-leaved red gum,Myrtaceae,9,5,120,2015,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-0625,Sherwood Arboretum,625,-27.53172223,152.9732366,Ficus microcarpa,Small-fruited fig,Moraceae,22,20,770,,NALL-CV-2257;NALL-SNV-881,No
+SHW-0626,Sherwood Arboretum,626,-27.53171541,152.9772874,Libidibia ferrea,Leopard tree,Fabaceae,16,19,520,,NALL-CV-2257,No
+SHW-0627,Sherwood Arboretum,627,-27.53171365,152.9762925,Araucaria cunninghamii var. cunninghamii,Hoop Pine,Araucariaceae,17,8,300,,NALL-CV-2257,No
+SHW-0629,Sherwood Arboretum,629,-27.53170119,152.9717856,Eucalyptus propinqua,Small-fruited grey gum,Myrtaceae,7,6,160,,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-0630,Sherwood Arboretum,630,-27.53169341,152.9761533,Araucaria cunninghamii var. cunninghamii,Hoop Pine,Araucariaceae,18,9,400,,NALL-CV-2257,No
+SHW-0631,Sherwood Arboretum,631,-27.53169243,152.9718731,Melaleuca bracteata,Black tea tree,Myrtaceae,7,6,150,,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-0634,Sherwood Arboretum,634,-27.53168909,152.9730233,Pleiogynium timoriense,Burdekin plum,Ancardiaceae,9,8,280,,NALL-CV-2257;NALL-SNV-881,No
+SHW-0635,Sherwood Arboretum,635,-27.53168614,152.9731139,Pleiogynium timoriense,Burdekin plum,Ancardiaceae,9,9,310,,NALL-CV-2257;NALL-SNV-881,No
+SHW-0636,Sherwood Arboretum,636,-27.53169619,152.9728493,Eucalyptus carnea,White mahogany,Myrtaceae,6,4,80,,NALL-CV-2257;NALL-SNV-881,No
+SHW-0637,Sherwood Arboretum,637,-27.53168051,152.9766072,Lophostemon confertus,Brush Box,Myrtaceae,15,7,390,,NALL-CV-2257,No
+SHW-0638,Sherwood Arboretum,638,-27.53167652,152.9764259,Lophostemon suaveolens,Swamp Box,Myrtaceae,12,6,280,,NALL-CV-2257,No
+SHW-0639,Sherwood Arboretum,639,-27.53167605,152.9766917,Corymbia tessellaris,Moreton Bay ash,Myrtaceae,20,15,510,,NALL-CV-2257,No
+SHW-0640,Sherwood Arboretum,640,-27.53167514,152.9725861,Eucalyptus sp.,Eucalyptus sp.,Myrtaceae,8,6,120,,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-0641,Sherwood Arboretum,641,-27.531668,152.9758535,Araucaria cunninghamii var. cunninghamii,Hoop Pine,Araucariaceae,17,6,330,,NALL-CV-2257,No
+SHW-0642,Sherwood Arboretum,642,-27.53166494,152.9723961,Ficus watkinsiana,Strangler fig,Moraceae,7,6,180,2015,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-0643,Sherwood Arboretum,643,-27.53166386,152.9769932,Grevillea robusta,Silky oak,Proteaceae,28,12,800,,NALL-CV-2257,No
+SHW-0644,Sherwood Arboretum,644,-27.53166271,152.9718076,Acacia disparrima subsp. disparrima,Hickory wattle,Mimosaceae,13,7,340,,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-0645,Sherwood Arboretum,645,-27.53161844,152.9761672,Araucaria cunninghamii var. cunninghamii,Hoop Pine,Araucariaceae,7,4,110,,NALL-CV-2257,No
+SHW-0646,Sherwood Arboretum,646,-27.53164136,152.9719599,Eucalyptus tereticornis subsp. tereticornis,Forest red gum,Myrtaceae,20,8,390,,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-0647,Sherwood Arboretum,647,-27.53163182,152.9735903,Corymbia citriodora subsp. citriodora,Spotted gum,Myrtaceae,22,15,570,1929,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-0648,Sherwood Arboretum,648,-27.53162217,152.9719025,Eucalyptus tereticornis subsp. tereticornis,Forest red gum,Myrtaceae,7,4,100,2015,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-0649,Sherwood Arboretum,649,-27.53162068,152.9760637,Araucaria cunninghamii var. cunninghamii,Hoop Pine,Araucariaceae,18,9,440,,NALL-CV-2257,No
+SHW-0650,Sherwood Arboretum,650,-27.53161962,152.9728337,Eucalyptus tereticornis subsp. tereticornis,Forest red gum,Myrtaceae,6,4,100,2017,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-0651,Sherwood Arboretum,651,-27.5316181,152.972128,Ficus rubiginosa,"Port Jackson fig, rusty fig",Moraceae,3.5,4,90,2017,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-0652,Sherwood Arboretum,652,-27.53161285,152.9722693,Ficus watkinsiana,Strangler fig,Moraceae,6,4,140,2015,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-0653,Sherwood Arboretum,653,-27.53161245,152.9725051,Eucalyptus microcorys,Tallowwood,Myrtaceae,19,15,985,,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-0654,Sherwood Arboretum,654,-27.53161073,152.9762265,Araucaria cunninghamii var. cunninghamii,Hoop Pine,Araucariaceae,13,7,270,,NALL-CV-2257,No
+SHW-0655,Sherwood Arboretum,655,-27.53159287,152.9758073,Araucaria cunninghamii var. cunninghamii,Hoop Pine,Araucariaceae,16,9,390,,NALL-CV-2257,No
+SHW-0656,Sherwood Arboretum,656,-27.53159126,152.9725867,Eucalyptus microcorys,Tallowwood,Myrtaceae,22,14,610,,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-0657,Sherwood Arboretum,657,-27.53157931,152.9719675,Eucalyptus raveretiana,Black ironbox,Myrtaceae,9,3,130,,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-0658,Sherwood Arboretum,658,-27.53157327,152.9736748,Corymbia citriodora subsp. citriodora,Spotted gum,Myrtaceae,22,15,570,1929,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-0659,Sherwood Arboretum,659,-27.53157311,152.9731692,Ficus obliqua,Small-leaved fig,Moraceae,8,7,170,2015,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-0660,Sherwood Arboretum,660,-27.53156752,152.9720548,Eucalyptus raveretiana,Black ironbox,Myrtaceae,9,4,120,,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-0661,Sherwood Arboretum,661,-27.53154418,152.9718024,Acacia maidenii,Maiden's wattle,Mimosaceae,11,7,280,,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-0662,Sherwood Arboretum,662,-27.53154419,152.97305,Ficus platypoda,Desert fig,Moraceae,8,4,150,2016,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-0663,Sherwood Arboretum,663,-27.53154405,152.9760217,Jagera pseudorhus var. pseudorhus,Foambark,Sapindaceae,16,7,380,,NALL-CV-2257,No
+SHW-0665,Sherwood Arboretum,665,-27.5315383,152.9733896,Ficus platypoda,Desert fig,Moraceae,3,2,40,2008,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-0666,Sherwood Arboretum,666,-27.53153096,152.9729218,Ficus racemosa,Cluster fig,Moraceae,6,6,280,2015,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-0667,Sherwood Arboretum,667,-27.53153059,152.9760195,Jagera pseudorhus var. pseudorhus,Foambark,Sapindaceae,14,14,540,,NALL-CV-2257,No
+SHW-0668,Sherwood Arboretum,668,-27.53152658,152.9723922,Ficus rubiginosa,"Port Jackson fig, rusty fig",Moraceae,4,4,70,2015,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-0669,Sherwood Arboretum,669,-27.53152173,152.9740647,Macaranga tanarius,Bullocks heart,Euphorbiaceae,6,7,400,,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-0670,Sherwood Arboretum,670,-27.53151702,152.9727106,Ficus rubiginosa forma glabrescens,"Port Jackson fig, rusty fig",Moraceae,6,5,210,2015,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-0671,Sherwood Arboretum,671,-27.53150028,152.9721054,Eucalyptus raveretiana,Black ironbox,Myrtaceae,9,5,130,,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-0672,Sherwood Arboretum,672,-27.53150873,152.9718316,Acacia maidenii,Maiden's wattle,Mimosaceae,7,6,150,,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-0673,Sherwood Arboretum,673,-27.53149664,152.9734279,Syncarpia hillii,Satinay,Myrtaceae,15,10,700,1929,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-0674,Sherwood Arboretum,674,-27.53149099,152.9756904,Mangifera indica,Mango,Ancardiaceae,9,9,450,,NALL-CV-2257,No
+SHW-0677,Sherwood Arboretum,677,-27.53147522,152.9756108,Melaleuca viminalis subsp. viminalis,Weeping bottlebrush,Myrtaceae,8,8,390,,NALL-CV-2257;NALL-WWV-2529,No
+SHW-0678,Sherwood Arboretum,678,-27.53147433,152.9732927,Ficus obliqua,Small-leaved fig,Moraceae,2.5,2,40,2015,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-0679,Sherwood Arboretum,679,-27.53147289,152.9724764,Ficus septica,None recorded,Moraceae,4,5,120,2019,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-0680,Sherwood Arboretum,680,-27.53146843,152.9719651,Eucalyptus tereticornis subsp. tereticornis,Forest red gum,Myrtaceae,35,25,1020,,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-0681,Sherwood Arboretum,681,-27.53146493,152.9735205,Syncarpia glomulifera subsp. glomulifera,Turpentine tree,Myrtaceae,13,11,960,1929,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-0682,Sherwood Arboretum,682,-27.53145864,152.9731743,Syncarpia glomulifera subsp. glomulifera,Turpentine tree,Myrtaceae,12,10,620,,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-0684,Sherwood Arboretum,684,-27.53144604,152.9722919,Harpullia hillii,Blunt-leaved tulip or oblong-leaved tulip,Sapindaceae,5,5,100,,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-0685,Sherwood Arboretum,685,-27.5314415,152.9729675,Ficus watkinsiana,Strangler fig,Moraceae,5,6,190,2015,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-0686,Sherwood Arboretum,686,-27.53143449,152.9719617,Eucalyptus tereticornis subsp. tereticornis,Forest red gum,Myrtaceae,37,20,1000,,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-0687,Sherwood Arboretum,687,-27.53143425,152.9728214,Elaeocarpus obovatus,Hard quandong,Elaeocarpaceae,13,10,450,,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-0688,Sherwood Arboretum,688,-27.5314181,152.9752545,Glochidion ferdinandi,Cheese tree,Phyllanthaceae,5,8,280,,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-0689,Sherwood Arboretum,689,-27.53142676,152.972881,Pleiogynium timoriense,Burdekin plum,Ancardiaceae,8,9,205,,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-0690,Sherwood Arboretum,690,-27.53142637,152.9725493,Ficus virens,White Fig,Moraceae,7,6,160,2015,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-0691,Sherwood Arboretum,691,-27.53142581,152.9721139,Eucalyptus microcorys,Tallowwood,Myrtaceae,9,7,180,,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-0692,Sherwood Arboretum,692,-27.53142304,152.9755621,Melaleuca viminalis subsp. viminalis,Weeping bottlebrush,Myrtaceae,8,8,430,,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-0693,Sherwood Arboretum,693,-27.5314035,152.9723864,Flindersia schottiana,"Bumpy ash, cudgerie",Rutaceae	,22,16,690,,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-0694,Sherwood Arboretum,694,-27.53140972,152.971885,Cupaniopsis parvifolia,Small-leaved tuckeroo,Sapindaceae,5,4,70,,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-0695,Sherwood Arboretum,695,-27.53140766,152.9732393,Eucalyptus tereticornis subsp. tereticornis,Forest red gum,Myrtaceae,16,8,380,,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-0696,Sherwood Arboretum,696,-27.53140199,152.9726556,Ficus rubiginosa forma glabrescens,"Port Jackson fig, rusty fig",Moraceae,5,4,140,2015,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-0697,Sherwood Arboretum,697,-27.53139054,152.9755594,Melaleuca viminalis subsp. viminalis,Weeping bottlebrush,Myrtaceae,8,6,350,,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-0698,Sherwood Arboretum,698,-27.53138924,152.9728184,Corymbia citriodora subsp. variegata,Spotted gum,Myrtaceae,22,10,340,,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-0700,Sherwood Arboretum,700,-27.53137777,152.9719878,Eucalyptus tereticornis subsp. tereticornis,Forest red gum,Myrtaceae,37,18,780,,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-0701,Sherwood Arboretum,701,-27.53137067,152.9727642,Elaeocarpus reticulatus,Blueberry ash,Elaeocarpaceae,9,5,200,,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-0702,Sherwood Arboretum,702,-27.53136829,152.972786,Eucalyptus moluccana,Gum-topped box,Myrtaceae,18,9,290,,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-0703,Sherwood Arboretum,703,-27.53136805,152.9721546,Lophostemon confertus,Brush Box,Myrtaceae,6,7,140,,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-0704,Sherwood Arboretum,704,-27.53136345,152.9744476,Melaleuca viminalis subsp. viminalis,Weeping bottlebrush,Myrtaceae,5,4,130,,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-0704-B,Sherwood Arboretum,704,-27.53132374,152.9742006,Melaleuca viminalis subsp. viminalis,Weeping bottlebrush,Myrtaceae,5,4,90,,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-0705,Sherwood Arboretum,705,-27.53135565,152.9744051,Melaleuca viminalis subsp. viminalis,Weeping bottlebrush,Myrtaceae,7,4,140,,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-0706,Sherwood Arboretum,706,-27.53134941,152.9724874,Flindersia collina,Leopard ash,Rutaceae	,8,6,190,,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-0707,Sherwood Arboretum,707,-27.53134623,152.974359,Melaleuca viminalis subsp. viminalis,Weeping bottlebrush,Myrtaceae,9,6,320,,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-0708,Sherwood Arboretum,708,-27.53133714,152.9727737,Eucalyptus moluccana,Gum-topped box,Myrtaceae,20,7,290,,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-0709,Sherwood Arboretum,709,-27.53133666,152.9719789,Eucalyptus tereticornis subsp. tereticornis,Forest red gum,Myrtaceae,20,16,390,,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-0710,Sherwood Arboretum,710,-27.53133548,152.9734789,Millettia pinnata,Pongamia,Fabaceae,13,11,450,1949,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-0711,Sherwood Arboretum,711,-27.53133363,152.9725797,Diploglottis campbellii,Small-leaved tamarind,Sapindaceae,6,4,120,,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-0712,Sherwood Arboretum,712,-27.53132416,152.9733845,Ficus virens,White Fig,Moraceae,4,3,90,2018,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-0713,Sherwood Arboretum,713,-27.53131746,152.972764,Acacia concurrens,"Black wattle, Curracabah",Mimosaceae,7,3,90,,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-0714,Sherwood Arboretum,714,-27.53131029,152.972395,Flindersia australis,Crows Ash,Rutaceae	,25,16,650,,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-0715,Sherwood Arboretum,715,-27.53129454,152.9755047,Melaleuca viminalis subsp. viminalis,Weeping bottlebrush,Myrtaceae,8,11,440,,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-0716,Sherwood Arboretum,716,-27.53129157,152.97276,Corymbia intermedia,Pink bloodwood,Myrtaceae,10,11,240,,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-0717,Sherwood Arboretum,717,-27.53128712,152.9735396,Millettia pinnata,Pongamia,Fabaceae,17,12,750,1949,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-0718,Sherwood Arboretum,718,-27.53127446,152.9732442,Jagera pseudorhus var. pseudorhus,Foambark,Sapindaceae,10,11,310,,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-0720,Sherwood Arboretum,720,-27.53126752,152.9725467,Flindersia schottiana,"Bumpy ash, cudgerie",Rutaceae	,17,16,480,,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-0721,Sherwood Arboretum,721,-27.53126585,152.9733329,Auranticarpa rhombifolia,Diamond leaf pittosporum,Pittosporaceae,12,5,240,,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-0723,Sherwood Arboretum,723,-27.53125924,152.9734871,Millettia pinnata,Pongamia,Fabaceae,13,15,800,1949,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-0724,Sherwood Arboretum,724,-27.53125063,152.9729949,Backhousia myrtifolia,Grey Myrtle,Myrtaceae,2,2,50,,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-0725,Sherwood Arboretum,725,-27.53124904,152.9726408,Neisosperma kilneri,None recorded,Apocynaceae,4,3,80,2016,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-0726,Sherwood Arboretum,726,-27.53124824,152.9719818,Eucalyptus tereticornis subsp. tereticornis,Forest red gum,Myrtaceae,34,18,860,,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-0727,Sherwood Arboretum,727,-27.53122578,152.9727524,Diploglottis australis,Native tamarind,Sapindaceae,8,3,110,,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-0728,Sherwood Arboretum,728,-27.53122737,152.9727188,Ficus congesta,Red-leaf fig,Moraceae,1.5,3,25,,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-0731,Sherwood Arboretum,731,-27.53121519,152.9732785,Guioa semiglauca,Guioa or wild quince,Sapindaceae,7,5,170,,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-0732,Sherwood Arboretum,732,-27.53121183,152.9728105,Corymbia citriodora subsp. variegata,Spotted gum,Myrtaceae,20,8,320,,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-0733,Sherwood Arboretum,733,-27.53119822,152.9732256,Syzygium francisii,Giant water gum,Myrtaceae,8,5,210,,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-0734,Sherwood Arboretum,734,-27.53119335,152.9730883,Eucalyptus tereticornis subsp. tereticornis,Forest red gum,Myrtaceae,36,25,1100,1929,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-0735,Sherwood Arboretum,735,-27.53118356,152.9727718,Melicope rubra,Little evodia,Rutaceae	,8,8,180,,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-0736,Sherwood Arboretum,736,-27.53116922,152.9727496,Cupaniopsis anacardioides,Tuckeroo,Sapindaceae,11,11,330,,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-0737,Sherwood Arboretum,737,-27.5311677,152.9730884,Eucalyptus tereticornis subsp. tereticornis,Forest red gum,Myrtaceae,35,20,980,1929,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-0738,Sherwood Arboretum,738,-27.53116165,152.9725784,Ficus virens,White Fig,Moraceae,7,7,200,,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-0739,Sherwood Arboretum,739,-27.53115663,152.9724408,Pleiogynium timoriense,Burdekin plum,Ancardiaceae,11,14,330,,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-0740,Sherwood Arboretum,740,-27.53115504,152.9721583,Eucalyptus tereticornis subsp. tereticornis,Forest red gum,Myrtaceae,30,32,2000,,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-0741,Sherwood Arboretum,741,-27.53114748,152.9733732,Harpullia pendula,Tulipwood,Sapindaceae,12,9,310,,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-0742,Sherwood Arboretum,742,-27.53113108,152.975489,Melaleuca viminalis subsp. viminalis,Weeping bottlebrush,Myrtaceae,8,11,750,,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-0743,Sherwood Arboretum,743,-27.53112572,152.9718694,Aegiceras corniculatum,"Black mangrove, River mangrove",Primulaceae,9,6,200,,NALL-WWV-2529,No
+SHW-0744,Sherwood Arboretum,744,-27.53111696,152.9731131,Eucalyptus tereticornis subsp. tereticornis,Forest red gum,Myrtaceae,32,20,1250,1929,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-0745,Sherwood Arboretum,745,-27.53111609,152.9733178,Alectryon connatus,Grey birdseye,Sapindaceae,6,3,100,,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-0747,Sherwood Arboretum,747,-27.53111061,152.9754766,Melaleuca viminalis subsp. viminalis,Weeping bottlebrush,Myrtaceae,11,9,380,,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-0748,Sherwood Arboretum,748,-27.53110971,152.9720298,Eucalyptus tereticornis subsp. tereticornis,Forest red gum,Myrtaceae,28,16,1600,,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-0749,Sherwood Arboretum,749,-27.5310929,152.9718638,Avicennia marina,Grey mangrove or white mangrove,Acanthaceae,8,1,200,,NALL-WWV-2529,No
+SHW-0750,Sherwood Arboretum,750,-27.53109196,152.973547,Melaleuca viminalis subsp. viminalis,Weeping bottlebrush,Myrtaceae,9,12,450,1929,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-0752,Sherwood Arboretum,752,-27.53108852,152.9729985,Eucalyptus tereticornis subsp. tereticornis,Forest red gum,Myrtaceae,27,12,940,1929,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-0754,Sherwood Arboretum,754,-27.53108613,152.9725443,Cassia brewsteri,"Brewster's cassia, Leichhardt bean",Fabaceae,2,1,25,2018,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-0757,Sherwood Arboretum,757,-27.53107621,152.9723742,Pararchidendron pruinosum,Snow wood,Mimosaceae,3,2,40,2020,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-0758,Sherwood Arboretum,758,-27.53107697,152.9730531,Macaranga tanarius,Bullocks heart,Euphorbiaceae,13,9,200,,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-0763,Sherwood Arboretum,763,-27.53105873,152.972774,Syzygium sp.,Syzygium sp.,Myrtaceae,2.2,1,40,2016,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-0764,Sherwood Arboretum,764,-27.53105849,152.9724785,Pararchidendron pruinosum,Snow wood,Mimosaceae,4,3,45,2020,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-0765,Sherwood Arboretum,765,-27.53105794,152.973345,Alectryon tomentosus,Woolly Rambutan,Sapindaceae,11,13,510,,NALL-CV-2257;NALL-SNV-881,No
+SHW-0766,Sherwood Arboretum,766,-27.53104997,152.9718568,Aegiceras corniculatum,"Black mangrove, River mangrove",Primulaceae,5,5,90,,NALL-WWV-2529,No
+SHW-0767,Sherwood Arboretum,767,-27.5310475,152.973213,Gmelina fasciculiflora,Northern white beech,Lamiaceae,12,11,270,,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-0768,Sherwood Arboretum,768,-27.53104718,152.9729901,Eucalyptus tereticornis subsp. tereticornis,Forest red gum,Myrtaceae,27,12,710,1929,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-0769,Sherwood Arboretum,769,-27.53104407,152.9726353,Gmelina fasciculiflora,Northern white beech,Lamiaceae,16,16,800,,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-0770,Sherwood Arboretum,770,-27.53104297,152.9734742,Melaleuca viminalis subsp. viminalis,Weeping bottlebrush,Myrtaceae,13,14,800,1929,NALL-CV-2257;NALL-SNV-881,No
+SHW-0771,Sherwood Arboretum,771,-27.53104025,152.9720602,Eucalyptus tereticornis subsp. tereticornis,Forest red gum,Myrtaceae,30,12,740,,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-0772,Sherwood Arboretum,772,-27.53103571,152.9723338,Cryptocarya obovata,"Pepperberry tree, white walnut",Lauraceae,14,7,540,,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-0774,Sherwood Arboretum,774,-27.53103364,152.9718662,Aegiceras corniculatum,"Black mangrove, River mangrove",Primulaceae,5,3,100,,NALL-WWV-2529,No
+SHW-0776,Sherwood Arboretum,776,-27.53102671,152.9731521,Eucalyptus tereticornis subsp. tereticornis,Forest red gum,Myrtaceae,32,28,1300,1929,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-0777,Sherwood Arboretum,777,-27.5310132,152.9735201,Toechima tenax,Brush teak,Sapindaceae,7,5,180,,NALL-CV-2257;NALL-SNV-881,No
+SHW-0778,Sherwood Arboretum,778,-27.53100807,152.9729739,Melia azedarach,White cedar,Meliaceae,13,10,400,,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-0779,Sherwood Arboretum,779,-27.53100616,152.9718915,Aegiceras corniculatum,"Black mangrove, River mangrove",Primulaceae,4,3,80,,NALL-CV-2257;NALL-WWV-2529,No
+SHW-0780,Sherwood Arboretum,780,-27.53100018,152.9730785,Jagera pseudorhus var. pseudorhus,Foambark,Sapindaceae,11,12,340,,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-0781,Sherwood Arboretum,781,-27.53098561,152.9735783,Elaeodendron australe,Red olive plum,Celastraceae,5,4,190,,NALL-CV-2257;NALL-SNV-881,No
+SHW-0782,Sherwood Arboretum,782,-27.53098759,152.9718945,Aegiceras corniculatum,"Black mangrove, River mangrove",Primulaceae,3,2,50,,NALL-CV-2257;NALL-WWV-2529,No
+SHW-0783,Sherwood Arboretum,783,-27.53098305,152.9728232,Syzygium bungadinnia,Satinash,Myrtaceae,2.2,1,20,2020,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-0784,Sherwood Arboretum,784,-27.5309817,152.9724162,Cassia brewsteri,"Brewster's cassia, Leichhardt bean",Fabaceae,9,7,870,,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-0785,Sherwood Arboretum,785,-27.53098003,152.9725823,Gmelina leichhardtii,White Beech,Lamiaceae,13,7,280,,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-0788,Sherwood Arboretum,788,-27.53095159,152.972895,Cananga odorata,Ylang-ylang,Annonaceae,5,5,100,2017,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-0789,Sherwood Arboretum,789,-27.53095015,152.9729735,Macaranga tanarius,Bullocks heart,Phyllanthaceae,9,5,130,,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-0790,Sherwood Arboretum,790,-27.53093534,152.9726554,Gmelina fasciculiflora,Northern white beech,Lamiaceae,18,16,900,,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-0791,Sherwood Arboretum,791,-27.53093495,152.973428,Alectryon tomentosus,Woolly Rambutan,Sapindaceae,11,15,750,,NALL-CV-2257;NALL-SNV-881,No
+SHW-0792,Sherwood Arboretum,792,-27.53092985,152.9743067,Macaranga tanarius,Bullocks heart,Euphorbiaceae,0,1,0,,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-0793,Sherwood Arboretum,793,-27.53092578,152.9725199,Olea paniculata,Native olive,Oleaceae	,15,18,110,,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-0794,Sherwood Arboretum,794,-27.53092189,152.9740262,Pandanus brookei,Swamp Pandan,Pandanaceae,3,3,,2017,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-0795,Sherwood Arboretum,795,-27.53091694,152.9729745,Waterhousea floribunda,Weeping Lillypilly,Myrtaceae,7,4,80,,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-0796,Sherwood Arboretum,796,-27.53090787,152.9740604,Pandanus brookei,Swamp Pandan,Pandanaceae,4,3,,2017,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-0797,Sherwood Arboretum,797,-27.53090555,152.9731785,Eucalyptus camaldulensis,River red gum,Myrtaceae,7,6,140,2017,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-0798,Sherwood Arboretum,798,-27.53090228,152.9729662,Waterhousea floribunda,Weeping Lillypilly,Myrtaceae,8,5,150,,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-0799,Sherwood Arboretum,799,-27.53090213,152.9735168,Pleiogynium timoriense,Burdekin plum,Ancardiaceae,11,12,380,,NALL-CV-2257;NALL-SNV-881,No
+SHW-0800,Sherwood Arboretum,800,-27.53090062,152.9742988,Macaranga tanarius,Bullocks heart,Euphorbiaceae,0,1,0,,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-0801,Sherwood Arboretum,801,-27.53089455,152.9729579,Waterhousea floribunda,Weeping Lillypilly,Myrtaceae,5,4,80,,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-0802,Sherwood Arboretum,802,-27.53089415,152.9731081,Eucalyptus tereticornis subsp. tereticornis,Forest red gum,Myrtaceae,4,3,70,2016,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-0803,Sherwood Arboretum,803,-27.53088953,152.9727716,Corynocarpus rupestris subsp. arborescens,Glenugie karaka,Corynocarpaceae,3,2,80,2016,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-0804,Sherwood Arboretum,804,-27.53088316,152.9730216,Jagera pseudorhus var. pseudorhus,Foambark,Sapindaceae,11,8,240,,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-0806,Sherwood Arboretum,806,-27.53087815,152.9740416,Pandanus brookei,Swamp Pandan,Pandanaceae,3,4,,2017,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-0807,Sherwood Arboretum,807,-27.53086221,152.9730141,Corymbia tessellaris,Moreton Bay ash,Myrtaceae,18,8,320,,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-0808,Sherwood Arboretum,808,-27.53085432,152.9729153,Agathis robusta,Queensland kauri pine,Araucariaceae,20,7,480,,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-0809,Sherwood Arboretum,809,-27.53085123,152.9739772,Melaleuca viridiflora,Broad-leaved paperbark,Myrtaceae,8,7,330,2011,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-0810,Sherwood Arboretum,810,-27.53083895,152.9728239,Glochidion ferdinandi,Cheese tree,Phyllanthaceae,4,3,70,2016,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-0811,Sherwood Arboretum,811,-27.53084311,152.9729059,Alectryon tomentosus,Woolly Rambutan,Sapindaceae,9,8,230,2015,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-0812,Sherwood Arboretum,812,-27.53083353,152.9724052,Olea paniculata,Native olive,Oleaceae	,15,10,550,,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-0813,Sherwood Arboretum,813,-27.53083291,152.9743129,Macaranga tanarius,Bullocks heart,Euphorbiaceae,0,1,0,,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-0814,Sherwood Arboretum,814,-27.53082215,152.9740866,Castanospermum australe,Black Bean,Fabaceae,10,10,320,1984,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-0815,Sherwood Arboretum,815,-27.53081975,152.9728662,Acacia fimbriata,"Brisbane golden wattle, Fringed wattle",Mimosaceae,7,5,90,,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-0816,Sherwood Arboretum,816,-27.53081426,152.9729653,Agathis robusta,Queensland kauri pine,Araucariaceae,18,7,470,,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-0817,Sherwood Arboretum,817,-27.53077838,152.9729636,Acacia fimbriata,"Brisbane golden wattle, Fringed wattle",Mimosaceae,6,4,110,2015,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-0818,Sherwood Arboretum,818,-27.53080518,152.9728502,Stenocarpus sinuatus,Firewheel tree,Proteaceae,1.5,1,15,2019,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-0819,Sherwood Arboretum,819,-27.53079309,152.9730978,Melia azedarach,White cedar,Meliaceae,9,8,400,1995,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-0820,Sherwood Arboretum,820,-27.53078583,152.9729767,Stenocarpus sinuatus,Firewheel tree,Proteaceae,1.5,1,10,2019,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-0821,Sherwood Arboretum,821,-27.53079584,152.9727448,Davidsonia johnsonii,Davidson's plum,Cunoniaceae,2,2,45,2016,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-0823,Sherwood Arboretum,823,-27.53079522,152.9728836,Jagera pseudorhus var. pseudorhus,Foambark,Sapindaceae,1,1,8,,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-0824,Sherwood Arboretum,824,-27.53076638,152.9729606,Flindersia schottiana,"Bumpy ash, cudgerie",Rutaceae	,1.5,1,10,2019,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-0825,Sherwood Arboretum,825,-27.53078638,152.9728807,Pouteria australis,Black apple,Sapotaceae,1.5,1,10,2019,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-0826,Sherwood Arboretum,826,-27.53078271,152.9728177,Castanospermum australe,Black Bean,Fabaceae,1.8,1,10,2019,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-0827,Sherwood Arboretum,827,-27.53077483,152.9740346,Syzygium australe,Brush cherry,Myrtaceae,3,2,50,2012,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-0828,Sherwood Arboretum,828,-27.53077124,152.9728806,Syzygium moorei,Coolamon,Myrtaceae,0.5,1,10,2019,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-0829,Sherwood Arboretum,829,-27.53075753,152.9729669,Brachychiton sp. Ormeau,Ormeau bottle tree,Sterculiaceae,2,1,20,2019,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-0830,Sherwood Arboretum,830,-27.53076391,152.9726462,Acronychia wilcoxiana,Silver Aspen,Rutaceae	,2.5,2,30,2020,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-0831,Sherwood Arboretum,831,-27.53075162,152.9729882,Syzygium moorei,Coolamon,Myrtaceae,3,2,35,2017,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-0833,Sherwood Arboretum,833,-27.53074823,152.974106,Castanospermum australe,Black Bean,Fabaceae,6,5,170,1984,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-0834,Sherwood Arboretum,834,-27.53073149,152.9729478,Agathis robusta,Queensland kauri pine,Araucariaceae,14,6,40,,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-0835,Sherwood Arboretum,835,-27.53072599,152.972493,Sterculia quadrifida,Peanut tree,Malvaceae,9,10,360,,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-0836,Sherwood Arboretum,836,-27.53071994,152.9729276,Brachychiton acerifolius,Illawarra flame tree,Sterculiaceae,4.5,2,60,,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-0838,Sherwood Arboretum,838,-27.53071428,152.9725926,Acmena ingens,Red apple,Myrtaceae,4.5,3,70,,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-0839,Sherwood Arboretum,839,-27.53070544,152.9727963,Chionanthus ramiflora,Northern native olive,Oleaceae	,15,7,170,,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-0840,Sherwood Arboretum,840,-27.53067151,152.972412,Flindersia australis,Crows Ash,Rutaceae	,6,3,100,,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-0841,Sherwood Arboretum,841,-27.53068066,152.9723405,Blepharocarya involucrigera,North Queensland bollygum,Anacardiaceae,5,2,55,2017,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-0842,Sherwood Arboretum,842,-27.53067152,152.973542,Argyrodendron actinophyllum subsp. diversifolium,Black booyong / Mackay tulip oak,Malvaceae,3,1,50,2019,NALL-CV-2257;NALL-SNV-881,No
+SHW-0843,Sherwood Arboretum,843,-27.53067152,152.9736266,Argyrodendron actinophyllum subsp. actinophyllum,Black booyong,Malvaceae,4.5,4,90,2016,NALL-CV-2257;NALL-SNV-881,No
+SHW-0844,Sherwood Arboretum,844,-27.53066912,152.9741182,Castanospermum australe,Black Bean,Fabaceae,6,7,250,1984,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-0845,Sherwood Arboretum,845,-27.53066608,152.972475,Cassia brewsteri,"Brewster's cassia, Leichhardt bean",Fabaceae,12,7,780,,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-0846,Sherwood Arboretum,846,-27.53066074,152.9728441,Harpullia pendula,Tulipwood,Sapindaceae,15,9,260,,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-0847,Sherwood Arboretum,847,-27.53065729,152.9729777,Backhousia citriodora,Lemon-Scented Myrtle,Myrtaceae,3.5,2,50,2016,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-0848,Sherwood Arboretum,848,-27.53064759,152.9730643,Buckinghamia celsissima,Ivory curl tree,Proteaceae,4,4,85,2016,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-0849,Sherwood Arboretum,849,-27.53064784,152.9726773,Petalostigma triloculare,Bitter bark,Picrodendraceae,6,5,110,,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-0850,Sherwood Arboretum,850,-27.53063565,152.9725212,Brachychiton australis,Broad-leaved Bottle Tree,Sterculiaceae,15,7,550,,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-0851,Sherwood Arboretum,851,-27.53061797,152.9725791,Mallotus philippensis,Red kamala,Euphorbiaceae,7,6,200,,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-0852,Sherwood Arboretum,852,-27.53061669,152.9723893,Anthocarapa nitidula,Incense cedar,Meliaceae,1.8,1,25,2020,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-0853,Sherwood Arboretum,853,-27.53061463,152.9735799,Elaeocarpus obovatus,Hard quandong,Elaeocarpaceae,8,2,180,2016,NALL-CV-2257;NALL-SNV-881,No
+SHW-0854,Sherwood Arboretum,854,-27.53060992,152.9722899,Cryptocarya triplinervis,Three veined laurel,Lauraceae,13,7,300,,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-0855,Sherwood Arboretum,855,-27.53060777,152.9728428,Flindersia schottiana,"Bumpy ash, cudgerie",Rutaceae	,8,6,100,,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-0856,Sherwood Arboretum,856,-27.53060722,152.9741444,Castanospermum australe,Black Bean,Fabaceae,8,7,210,1984,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-0857,Sherwood Arboretum,857,-27.53058477,152.9730866,Brachychiton sp. Ormeau,Ormeau bottle tree,Sterculiaceae,5,3,120,2018,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-0858,Sherwood Arboretum,858,-27.53058323,152.9729363,Ficus macrophylla,Moreton Bay fig,Moraceae,6,5,110,2015,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-0859,Sherwood Arboretum,859,-27.53058205,152.9740823,Eucalyptus tereticornis subsp. tereticornis,Forest red gum,Myrtaceae,10,6,210,2011,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-0860,Sherwood Arboretum,860,-27.53056069,152.9728436,Harpullia pendula,Tulipwood,Sapindaceae,15,9,220,,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-0861,Sherwood Arboretum,861,-27.5305386,152.973599,Flindersia brayleyana,Queensland maple,Rutaceae	,7,4,90,2016,NALL-CV-2257;NALL-SNV-881,No
+SHW-0862,Sherwood Arboretum,862,-27.53054071,152.9735286,Argyrodendron perlatum,Red tulip oak,Malvaceae,1.8,1,30,2019,NALL-CV-2257;NALL-SNV-881,No
+SHW-0863,Sherwood Arboretum,863,-27.53054038,152.9724118,Cryptocarya obovata,"Pepperberry tree, white walnut",Lauraceae,19,15,560,1929,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-0864,Sherwood Arboretum,864,-27.53053536,152.9726008,Akania bidwillii,Turnipwood,Akaniaceae,8,5,90,2017,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-0865,Sherwood Arboretum,865,-27.53053482,152.9751326,Lagunaria patersonii,Norfolk Island hibiscus,Malvaceae,10,7,800,,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-0866,Sherwood Arboretum,866,-27.5305321,152.9741772,Castanospermum australe,Black Bean,Fabaceae,9,8,410,1984,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-0867,Sherwood Arboretum,867,-27.53053018,152.9725335,Cryptocarya obovata,"Pepperberry tree, white walnut",Lauraceae,19,13,500,1929,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-0868,Sherwood Arboretum,868,-27.53051484,152.9729521,Cupaniopsis anacardioides,Tuckeroo,Sapindaceae,4.5,2,70,2016,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-0869,Sherwood Arboretum,869,-27.53051489,152.9728805,Elaeocarpus eumundi,Eumundi quandong,Elaeocarpaceae,5,3,60,2019,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-0870,Sherwood Arboretum,870,-27.53050343,152.9740844,Livistona australis,Cabbage-tree palm,Arecaceae,2.4,3,220,2018,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-0871,Sherwood Arboretum,871,-27.53049757,152.9730313,Brachychiton rupestris,Narrow-leaved bottle tree,Sterculiaceae,4,2,130,2016,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-0872,Sherwood Arboretum,872,-27.53050126,152.9723125,Aphananthe philippinensis,Native elm,Cannabaceae,11,8,300,,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-0873,Sherwood Arboretum,873,-27.53049314,152.9723245,Eucalyptus microcorys,Tallowwood,Myrtaceae,18,8,280,,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-0874,Sherwood Arboretum,874,-27.53048562,152.9723257,Cupaniopsis parvifolia,Small-leaved tuckeroo,Sapindaceae,9,4,180,,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-0875,Sherwood Arboretum,875,-27.53048899,152.9723136,Eucalyptus microcorys,Tallowwood,Myrtaceae,16,7,210,,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-0876,Sherwood Arboretum,876,-27.53048565,152.9723029,Elaeocarpus obovatus,Hard quandong,Elaeocarpaceae,4,2,45,,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-0877,Sherwood Arboretum,877,-27.53048415,152.9741258,Livistona australis,Cabbage-tree palm,Arecaceae,7,5,400,2011,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-0878,Sherwood Arboretum,878,-27.53047647,152.9735642,Planchonella australis,Black apple,Sapotaceae,2.5,2,50,2016,NALL-CV-2257;NALL-SNV-881,No
+SHW-0879,Sherwood Arboretum,879,-27.53045853,152.9728384,Podocarpus elatus,Brown Pine,Podocarpaceae	,3,1,25,,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-0880,Sherwood Arboretum,880,-27.53046304,152.9740872,Livistona australis,Cabbage-tree palm,Arecaceae,2.5,3,180,2018,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-0881,Sherwood Arboretum,881,-27.53046032,152.9729121,Planchonella australis,Black apple,Sapotaceae,5.5,2,60,,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-0882,Sherwood Arboretum,882,-27.5304569,152.9742104,Mallotus philippensis,Red kamala,Euphorbiaceae,3.5,3,200,,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-0883,Sherwood Arboretum,883,-27.53045363,152.9728643,Brachychiton acerifolius,Illawarra flame tree,Sterculiaceae,12,6,270,,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-0884,Sherwood Arboretum,884,-27.53045156,152.9723549,Lophostemon confertus,Brush Box,Myrtaceae,11,4,150,,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-0886,Sherwood Arboretum,886,-27.53044034,152.9741461,Eucalyptus tereticornis subsp. tereticornis,Forest red gum,Myrtaceae,15,9,340,,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-0887,Sherwood Arboretum,887,-27.53043825,152.9726649,Rhodosphaera rhodanthema,Deep yellowwood,Ancardiaceae,6,2,40,,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-0888,Sherwood Arboretum,888,-27.53043124,152.9729108,Backhousia myrtifolia,Grey Myrtle,Myrtaceae,3,3,60,,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-0889,Sherwood Arboretum,889,-27.53042325,152.9734863,Cryptocarya hypospodia,Glossy laurel,Lauraceae,5,3,100,2018,NALL-CV-2257;NALL-SNV-881,No
+SHW-0890,Sherwood Arboretum,890,-27.53042504,152.9739464,Podocarpus elatus,Brown Pine,Podocarpaceae	,12,9,480,,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-0891,Sherwood Arboretum,891,-27.53042463,152.9724867,Olea paniculata,Native olive,Oleaceae	,17,10,360,,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-0892,Sherwood Arboretum,892,-27.53042407,152.973019,Flindersia bennettii,Bennett's ash,Rutaceae	,8,6,130,2016,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-0893,Sherwood Arboretum,893,-27.53042257,152.9738849,Elaeocarpus obovatus,Hard quandong,Elaeocarpaceae,12,9,450,,NALL-CV-2257;NALL-SNV-881,No
+SHW-0894,Sherwood Arboretum,894,-27.53041914,152.9725684,Flindersia schottiana,"Bumpy ash, cudgerie",Rutaceae	,7,4,80,,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-0895,Sherwood Arboretum,895,-27.53043518,152.9729,Hymenosporum flavum,Native frangipani,Pittosporaceae,12,5,120,,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-0896,Sherwood Arboretum,896,-27.53041118,152.9742815,Castanospermum australe,Black Bean,Fabaceae,11,10,390,1984,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-0897,Sherwood Arboretum,897,-27.53040027,152.9735827,Toona ciliata,Red Cedar,Meliaceae,9,6,160,2016,NALL-CV-2257;NALL-SNV-881,No
+SHW-0898,Sherwood Arboretum,898,-27.53039795,152.973113,Elaeocarpus eumundi,Eumundi quandong,Elaeocarpaceae,5,3,70,2019,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-0899,Sherwood Arboretum,899,-27.53039388,152.9729583,Flindersia schottiana,"Bumpy ash, cudgerie",Rutaceae	,7,5,90,,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-0900,Sherwood Arboretum,900,-27.53038687,152.9725252,Ficus sp.,Ficus sp.,Moraceae,1.5,1,8,,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-0901,Sherwood Arboretum,901,-27.53038313,152.9729387,Rhodosphaera rhodanthema,Deep yellowwood,Ancardiaceae,8,6,170,,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-0902,Sherwood Arboretum,902,-27.53038298,152.9741051,Eucalyptus robusta x tereticornis,Forest red gum,Myrtaceae,6,4,100,2019,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-0903,Sherwood Arboretum,903,-27.53038107,152.9741989,Eucalyptus seeana,Narrow-leaved red gum,Myrtaceae,13,7,360,,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-0904,Sherwood Arboretum,904,-27.53036624,152.9729726,Sterculia quadrifida,Peanut tree,Malvaceae,0,1,0,,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-0905,Sherwood Arboretum,905,-27.53035676,152.9726071,Agathis robusta,Queensland kauri pine,Araucariaceae,1.2,1,8,,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-0906,Sherwood Arboretum,906,-27.53035636,152.9725117,Argyrodendron actinophyllum subsp. actinophyllum,Black booyong,Malvaceae,6,2,40,2018,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-0907,Sherwood Arboretum,907,-27.53035414,152.9739517,Petalostigma triloculare,Bitter bark,Picrodendraceae,8,9,250,,NALL-CV-2257;NALL-SNV-881,No
+SHW-0908,Sherwood Arboretum,908,-27.53035334,152.9723799,Aphananthe philippinensis,Native elm,Cannabaceae,13,7,330,,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-0909,Sherwood Arboretum,909,-27.53035206,152.9730212,Stenocarpus sinuatus,Firewheel tree,Proteaceae,6,3,100,,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-0910,Sherwood Arboretum,910,-27.53034649,152.9735271,Falcataria toona,Mackay cedar,Fabaceae,8,5,140,2016,NALL-CV-2257;NALL-SNV-881,No
+SHW-0911,Sherwood Arboretum,911,-27.53033718,152.9739872,Podocarpus elatus,Brown Pine,Podocarpaceae	,15,10,460,,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-0912,Sherwood Arboretum,912,-27.53033526,152.9742221,Melaleuca quinquenervia,Broad-leaved paperbark,Myrtaceae,8,5,150,,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-0913,Sherwood Arboretum,913,-27.53033463,152.9743462,Castanospermum australe,Black Bean,Fabaceae,10,10,300,1984,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-0914,Sherwood Arboretum,914,-27.53033358,152.9724362,Argyrodendron polyandrum,Brown tulip oak,Malvaceae,4,2,40,2018,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-0915,Sherwood Arboretum,915,-27.5303304,152.972885,Araucaria cunninghamii var. cunninghamii,Hoop Pine,Araucariaceae,20,6,340,,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-0916,Sherwood Arboretum,916,-27.53032593,152.9723943,Aphananthe philippinensis,Native elm,Cannabaceae,8,5,220,,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-0917,Sherwood Arboretum,917,-27.53032547,152.9740615,Eucalyptus robusta x tereticornis,Forest red gum,Myrtaceae,5,3,60,2018,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-0918,Sherwood Arboretum,918,-27.53032171,152.9731934,Backhousia citriodora,Lemon-Scented Myrtle,Myrtaceae,3.5,2,45,2019,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-0919,Sherwood Arboretum,919,-27.53031916,152.9730794,Vitex melicopea,Northern vitex,Lamiaceae,4.5,3,80,2018,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-0920,Sherwood Arboretum,920,-27.53031463,152.9741478,Eucalyptus robusta x tereticornis,Forest red gum,Myrtaceae,9,6,160,2018,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-0921,Sherwood Arboretum,921,-27.53031303,152.9724153,Capparis arborea,Caper bush,Capparaceae,0,1,0,,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-0922,Sherwood Arboretum,922,-27.53030944,152.9730267,Acronychia oblongifolia,White aspen,Rutaceae	,0,1,0,,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-0924,Sherwood Arboretum,924,-27.53028037,152.9724324,Aphananthe philippinensis,Native elm,Cannabaceae,12,7,200,,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-0925,Sherwood Arboretum,925,-27.53027863,152.9739872,Atalaya hemiglauca,Whitewood,Sapindaceae,16,7,310,1929,NALL-CV-2257;NALL-SNV-881,No
+SHW-0926,Sherwood Arboretum,926,-27.53027425,152.9742392,Eucalyptus robusta,"Swamp mahogany, swamp messmate",Myrtaceae,15,8,370,,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-0927,Sherwood Arboretum,927,-27.53027401,152.9744002,Castanospermum australe,Black Bean,Fabaceae,8,7,220,1984,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-0928,Sherwood Arboretum,928,-27.53024124,152.9730752,Podocarpus elatus,Brown Pine,Podocarpaceae	,4,2,35,,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-0929,Sherwood Arboretum,929,-27.53025806,152.9724834,Mallotus claoxyloides,"Green kamala, odour bush, and smell of the bush",Euphorbiaceae,4,3,85,,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-0930,Sherwood Arboretum,930,-27.53026863,152.9730589,Dysoxylum rufum,Hairy Rosewood,Meliaceae,1.8,2,20,,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-0931,Sherwood Arboretum,931,-27.53025496,152.9731294,Eucalyptus microcorys,Tallowwood,Myrtaceae,14,10,290,,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-0932,Sherwood Arboretum,932,-27.53024644,152.9735901,Alectryon connatus,Grey birdseye,Sapindaceae,6,6,300,2007,NALL-CV-2257;NALL-SNV-881,No
+SHW-0933,Sherwood Arboretum,933,-27.53024357,152.9730537,Olea paniculata,Native olive,Oleaceae	,12,5,170,,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-0934,Sherwood Arboretum,934,-27.53024094,152.9722153,Excoecaria agallocha,Milky mangrove,Euphorbiaceae,9,5,220,,NALL-CV-2257;NALL-WWV-2529,No
+SHW-0935,Sherwood Arboretum,935,-27.53023934,152.9730417,Polyscias elegans,Celery wood,Araliaceae,10,8,230,,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-0936,Sherwood Arboretum,936,-27.53027344,152.9748229,Cupaniopsis anacardioides,Tuckeroo,Sapindaceae,10,12,560,1949,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-0937,Sherwood Arboretum,937,-27.53023744,152.9740016,Atalaya hemiglauca,Whitewood,Sapindaceae,16,9,450,1929,NALL-CV-2257;NALL-SNV-881,No
+SHW-0938,Sherwood Arboretum,938,-27.530236,152.9730622,Hymenosporum flavum,Native frangipani,Pittosporaceae,5,4,70,,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-0939,Sherwood Arboretum,939,-27.5302352,152.9730685,Acronychia pauciflora,Soft acronychia,Rutaceae	,6,5,40,,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-0940,Sherwood Arboretum,940,-27.53023409,152.9732152,Streblus brunonianus,Whalebone tree,Moraceae,2.5,3,55,2018,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-0942,Sherwood Arboretum,942,-27.53023909,152.9747441,Cupaniopsis anacardioides,Tuckeroo,Sapindaceae,13,11,580,1929,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-0943,Sherwood Arboretum,943,-27.53022071,152.9741535,Syzygium luehmannii,Small-leaved lilly pilly,Myrtaceae,3,2,90,2018,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-0944,Sherwood Arboretum,944,-27.53021911,152.9727262,Glochidion ferdinandi,Cheese tree,Phyllanthaceae,9,5,100,,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-0945,Sherwood Arboretum,945,-27.53021211,152.9748778,Cupaniopsis anacardioides,Tuckeroo,Sapindaceae,13,9,570,1949,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-0946,Sherwood Arboretum,946,-27.53020868,152.9725327,Ficus virens,White Fig,Moraceae,11,8,180,,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-0947,Sherwood Arboretum,947,-27.53020565,152.9735221,Araucaria cunninghamii var. cunninghamii,Hoop Pine,Araucariaceae,10,5,170,2016,NALL-CV-2257;NALL-SNV-881,No
+SHW-0948,Sherwood Arboretum,948,-27.53020295,152.9743729,Syzygium francisii,Giant water gum,Myrtaceae,10,7,380,,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-0949,Sherwood Arboretum,949,-27.53019674,152.9748277,Cupaniopsis anacardioides,Tuckeroo,Sapindaceae,13,11,460,1949,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-0950,Sherwood Arboretum,950,-27.5301902,152.9742431,Melaleuca linariifolia,Snow in Summer,Myrtaceae,6,9,200,,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-0951,Sherwood Arboretum,951,-27.53018287,152.9726847,Elaeocarpus angustifolius,Blue quandong,Elaeocarpaceae,0,1,0,,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-0952,Sherwood Arboretum,952,-27.53017235,152.97265,Grevillea baileyana,White oak,Proteaceae,0,1,0,,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-0953,Sherwood Arboretum,953,-27.53017227,152.9725688,Rhodamnia argentea,"Malletwood, white myrtle",Myrtaceae,8,3,100,,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-0954,Sherwood Arboretum,954,-27.5301632,152.9743418,Syzygium francisii,Giant water gum,Myrtaceae,11,8,330,,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-0955,Sherwood Arboretum,955,-27.53016208,152.9748821,Cupaniopsis anacardioides,Tuckeroo,Sapindaceae,11,10,460,1929,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-0956,Sherwood Arboretum,956,-27.53016032,152.9731227,Euroschinus falcatus var. falcatus,Ribbonwood,Ancardiaceae,8,9,510,,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-0957,Sherwood Arboretum,957,-27.53015498,152.9732358,Rhodosphaera rhodanthema,Deep yellowwood,Ancardiaceae,7,5,130,2015,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-0958,Sherwood Arboretum,958,-27.53014989,152.9730351,Streblus brunonianus,Whalebone tree,Moraceae,5,4,65,,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-0959,Sherwood Arboretum,959,-27.53014838,152.9742984,Macaranga tanarius,Bullocks heart,Euphorbiaceae,9,8,290,,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-0961,Sherwood Arboretum,961,-27.53013237,152.97453,Allocasuarina littoralis ,Black she-oak,Casuarinaceae,10,5,120,,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-0962,Sherwood Arboretum,962,-27.53013085,152.9730149,Stenocarpus sinuatus,Firewheel tree,Proteaceae,17,8,290,,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-0963,Sherwood Arboretum,963,-27.53012224,152.9727327,Breynia oblongifolia,Coffee bush,Phyllanthaceae,4,3,40,,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-0964,Sherwood Arboretum,964,-27.53011762,152.9733717,Grevillea hilliana,White yiel yiel,Proteaceae,4.5,3,60,2019,NALL-CV-2257;NALL-SNV-881,No
+SHW-0965,Sherwood Arboretum,965,-27.53010002,152.9730062,Alectryon tomentosus,Woolly Rambutan,Sapindaceae,17,10,250,,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-0966,Sherwood Arboretum,966,-27.53009971,152.973936,Alstonia scholaris,Milky Pine,Apocynaceae,4,5,140,2019,NALL-CV-2257;NALL-SNV-881,No
+SHW-0967,Sherwood Arboretum,967,-27.5300946,152.9731745,Rhodosphaera rhodanthema,Deep yellowwood,Ancardiaceae,8,5,150,,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-0968,Sherwood Arboretum,968,-27.53008823,152.9730638,Grevillea robusta,Silky oak,Proteaceae,17,10,260,,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-0969,Sherwood Arboretum,969,-27.53008592,152.9725198,Argyrodendron trifoliolatum,White booyong,Malvaceae,15,7,180,,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-0970,Sherwood Arboretum,970,-27.53008273,152.973013,Pittosporum multiflorum,Orange thorn,Pittosporaceae,1.5,2,25,,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-0971,Sherwood Arboretum,971,-27.53008249,152.9723506,Mallotus philippensis,Red kamala,Euphorbiaceae,9,6,80,,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-0972,Sherwood Arboretum,972,-27.5300809,152.9723267,Mallotus claoxyloides,"Green kamala, odour bush, and smell of the bush",Euphorbiaceae,0,1,0,,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-0973,Sherwood Arboretum,973,-27.53007996,152.9741946,Melaleuca linariifolia,Snow in Summer,Myrtaceae,7,9,480,,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-0974,Sherwood Arboretum,974,-27.53007822,152.9734488,Grevillea hilliana,White yiel yiel,Proteaceae,6,4,70,2019,NALL-CV-2257;NALL-SNV-881,No
+SHW-0975,Sherwood Arboretum,975,-27.53007923,152.972345,Commersonia bartramia,Brown Kurrajong,Malvaceae,12,6,260,,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-0976,Sherwood Arboretum,976,-27.53007908,152.9740647,Melaleuca linariifolia,Snow in Summer,Myrtaceae,5.5,4,120,2014,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-0977,Sherwood Arboretum,977,-27.53007819,152.9730053,Chionanthus ramiflora,Northern native olive,Oleaceae	,14,13,310,,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-0979,Sherwood Arboretum,979,-27.53007525,152.9732794,Rhodosphaera rhodanthema,Deep yellowwood,Ancardiaceae,14,12,590,1929,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-0980,Sherwood Arboretum,980,-27.5300684,152.9739842,Cupaniopsis anacardioides,Tuckeroo,Sapindaceae,2.5,3,45,2018,NALL-CV-2257;NALL-SNV-881,No
+SHW-0981,Sherwood Arboretum,981,-27.53006569,152.972375,Guioa semiglauca,Guioa or wild quince,Sapindaceae,7,3,90,,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-0982,Sherwood Arboretum,982,-27.530039,152.972928,Diploglottis campbellii,Small-leaved tamarind,Sapindaceae,10,4,130,,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-0983,Sherwood Arboretum,983,-27.53006035,152.972383,Cryptocarya triplinervis,Three veined laurel,Lauraceae,6,4,90,,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-0984,Sherwood Arboretum,984,-27.53005565,152.973378,Cryptocarya triplinervis,Three veined laurel,Lauraceae,6,4,90,2018,NALL-CV-2257;NALL-SNV-881,No
+SHW-0986,Sherwood Arboretum,986,-27.53004553,152.9729624,Eucalyptus saligna subsp. saligna,Sydney blue gum,Myrtaceae,26,20,620,,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-0988,Sherwood Arboretum,988,-27.53004482,152.9723834,Denhamia disperma,"Orange bush, orange boxwood",Celastraceae,6,3,100,,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-0989,Sherwood Arboretum,989,-27.53007908,152.9744132,Ficus coronata,Sandpaper fig,Moraceae,7,4,90,,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-0991,Sherwood Arboretum,991,-27.53003334,152.9724656,Olea paniculata,Native olive,Oleaceae	,8,5,110,,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-0992,Sherwood Arboretum,992,-27.53003444,152.973515,Alectryon subcinereus,Wild Quince,Sapindaceae,6,4,140,2018,NALL-CV-2257;NALL-SNV-881,No
+SHW-0993,Sherwood Arboretum,993,-27.53003143,152.9729068,Dysoxylum fraserianum,"Rosewood, Australian rose mahogany",Meliaceae,0,1,0,,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-0994,Sherwood Arboretum,994,-27.53002753,152.9732605,Rhodosphaera rhodanthema,Deep yellowwood,Ancardiaceae,13,10,290,1929,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-0995,Sherwood Arboretum,995,-27.53002332,152.9740471,Callitris columellaris,White cypress pine,Cupressaceae,10,6,340,1949,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-0997,Sherwood Arboretum,997,-27.53001093,152.9743823,Ficus coronata,Sandpaper fig,Moraceae,6,5,55,,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-0998,Sherwood Arboretum,998,-27.53001207,152.9730124,Corymbia citriodora subsp. variegata,Spotted gum,Myrtaceae,26,12,370,,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-0999,Sherwood Arboretum,999,-27.52997652,152.9729524,Grevillea robusta,Silky oak,Proteaceae,20,6,360,,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-1001,Sherwood Arboretum,1001,-27.52998579,152.9742938,Waterhousea floribunda,Weeping Lillypilly,Myrtaceae,17,13,640,,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-1002,Sherwood Arboretum,1002,-27.53001107,152.9734413,Cryptocarya mackinnoniana,"Mackinnon's walnut, Rusty laurel",Lauraceae,4,2,45,2018,NALL-CV-2257;NALL-SNV-881,No
+SHW-1003,Sherwood Arboretum,1003,-27.53000578,152.9729487,Eucalyptus tereticornis subsp. tereticornis,Forest red gum,Myrtaceae,25,15,420,,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-1004,Sherwood Arboretum,1004,-27.5300046,152.9743944,Ficus coronata,Sandpaper fig,Moraceae,7,6,110,,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-1007,Sherwood Arboretum,1007,-27.52999057,152.973028,Corymbia torelliana,"Cadaghi, cadaga",Myrtaceae,20,12,560,,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-1008,Sherwood Arboretum,1008,-27.52998803,152.9739322,Fraxinus angustifolia subsp. syriaca,Syrian Ash-tree,Oleaceae	,13,13,520,,NALL-CV-2257;NALL-SNV-881,No
+SHW-1009,Sherwood Arboretum,1009,-27.52998674,152.9733675,Grevillea robusta,Silky oak,Proteaceae,14,15,530,1929,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-1010,Sherwood Arboretum,1010,-27.52998069,152.9739986,Callitris columellaris,White cypress pine,Cupressaceae,14,7,520,1949,NALL-CV-2257;NALL-SNV-881,No
+SHW-1011,Sherwood Arboretum,1011,-27.52997782,152.9741195,Melaleuca linariifolia,Snow in Summer,Myrtaceae,8,10,480,,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-1012,Sherwood Arboretum,1012,-27.52997232,152.9744057,Ficus coronata,Sandpaper fig,Moraceae,8,5,50,,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-1013,Sherwood Arboretum,1013,-27.52997144,152.9730119,Lysiphyllum hookeri,Pegunny,Caesalpiniaceae,13,9,320,,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-1014,Sherwood Arboretum,1014,-27.52995468,152.9734859,Diploglottis campbellii,Small-leaved tamarind,Sapindaceae,4,2,80,2018,NALL-CV-2257;NALL-SNV-881,No
+SHW-1015,Sherwood Arboretum,1015,-27.52995184,152.9733149,Flindersia australis,Crows Ash,Rutaceae	,18,12,380,1949,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-1016,Sherwood Arboretum,1016,-27.52994651,152.9738544,Callitris columellaris,White cypress pine,Cupressaceae,17,11,890,1929,NALL-CV-2257;NALL-SNV-881,No
+SHW-1017,Sherwood Arboretum,1017,-27.52994404,152.9727737,Terminalia sp.,Terminalia,Combretaceae,9,4,150,,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-1018,Sherwood Arboretum,1018,-27.52992713,152.9734288,Flindersia australis,Crows Ash,Rutaceae	,4,2,50,2020,NALL-CV-2257;NALL-SNV-881,No
+SHW-1019,Sherwood Arboretum,1019,-27.52993894,152.973061,Geijera parviflora,Wilga,Rutaceae	,16,15,280,1949,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-1020,Sherwood Arboretum,1020,-27.52993624,152.974493,Casuarina cunninghamiana,River she-oak,Casuarinaceae,10,5,150,,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-1021,Sherwood Arboretum,1021,-27.52992348,152.9731219,Geijera parviflora,Wilga,Rutaceae	,17,19,490,1949,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-1022,Sherwood Arboretum,1022,-27.52992157,152.9735287,Buckinghamia celsissima,Ivory curl tree,Proteaceae,9,6,230,1949,NALL-CV-2257;NALL-SNV-881,No
+SHW-1023,Sherwood Arboretum,1023,-27.52991648,152.9740727,Araucaria bidwillii,Bunya Pine,Araucariaceae,20,7,500,1949,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-1025,Sherwood Arboretum,1025,-27.52991059,152.9739835,Araucaria bidwillii,Bunya Pine,Araucariaceae,24,10,720,1929,NALL-CV-2257;NALL-SNV-881,No
+SHW-1026,Sherwood Arboretum,1026,-27.52989974,152.9727885,Harpullia pendula,Tulipwood,Sapindaceae,12,7,240,,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-1027,Sherwood Arboretum,1027,-27.52989904,152.974776,Araucaria cunninghamii var. cunninghamii,Hoop Pine,Araucariaceae,34,20,1120,1929,NALL-CV-2257;NALL-SNV-881,No
+SHW-1028,Sherwood Arboretum,1028,-27.52989824,152.9744972,Casuarina cunninghamiana,River she-oak,Casuarinaceae,9,4,90,,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-1029,Sherwood Arboretum,1029,-27.52989504,152.9732513,Stenocarpus sinuatus,Firewheel tree,Proteaceae,4,1,30,2018,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-1030,Sherwood Arboretum,1030,-27.52988947,152.9730196,Geijera parviflora,Wilga,Rutaceae	,15,15,370,1949,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-1031,Sherwood Arboretum,1031,-27.52988486,152.9746838,Castanospermum australe,Black Bean,Fabaceae,8,6,240,,NALL-CV-2257;NALL-SNV-881,No
+SHW-1032,Sherwood Arboretum,1032,-27.52988055,152.9733414,Grevillea robusta,Silky oak,Proteaceae,20,10,550,1929,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-1033,Sherwood Arboretum,1033,-27.52987019,152.9731747,Flindersia xanthoxyla,Long jack or Yellowwood,Rutaceae	,25,11,380,1929,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-1034,Sherwood Arboretum,1034,-27.52986047,152.9729304,Melaleuca bracteata,Black tea tree,Myrtaceae,16,12,750,,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-1035,Sherwood Arboretum,1035,-27.52985706,152.9744989,Alphitonia excelsa,Red Ash,Rhamnaceae,9,6,150,,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-1036,Sherwood Arboretum,1036,-27.52985586,152.9743677,Melaleuca viminalis subsp. viminalis,Weeping bottlebrush,Myrtaceae,7,5,140,,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-1037,Sherwood Arboretum,1037,-27.52983984,152.9732912,Harpullia pendula,Tulipwood,Sapindaceae,13,16,550,1949,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-1038,Sherwood Arboretum,1038,-27.52983881,152.9745036,Alphitonia excelsa,Red Ash,Rhamnaceae,9,4,90,,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-1039,Sherwood Arboretum,1039,-27.52983785,152.9732089,Flindersia xanthoxyla,Long jack or Yellowwood,Rutaceae	,25,18,520,1929,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-1040,Sherwood Arboretum,1040,-27.52982177,152.9738417,Corymbia intermedia,Pink bloodwood,Myrtaceae,9,5,160,2013,NALL-CV-2257;NALL-SNV-881,No
+SHW-1041,Sherwood Arboretum,1041,-27.52982144,152.9734001,Harpullia pendula,Tulipwood,Sapindaceae,15,18,585,1949,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-1042,Sherwood Arboretum,1042,-27.52982065,152.9745077,Alphitonia excelsa,Red Ash,Rhamnaceae,9,8,180,,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-1043,Sherwood Arboretum,1043,-27.52981817,152.973019,Macadamia integrifolia,"Macadamia, Queensland Nut",Proteaceae,10,6,190,,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-1044,Sherwood Arboretum,1044,-27.52981762,152.973517,Macadamia integrifolia,"Macadamia, Queensland Nut",Proteaceae,10,9,290,1929,NALL-CV-2257;NALL-SNV-881,No
+SHW-1045,Sherwood Arboretum,1045,-27.5298114,152.972801,Cadellia pentastylis,Ooline,Surianaceae,1.2,2,20,,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-1048,Sherwood Arboretum,1048,-27.52979986,152.9742672,Melaleuca quinquenervia,Broad-leaved paperbark,Myrtaceae,15,14,520,,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-1049,Sherwood Arboretum,1049,-27.52979978,152.974327,Melaleuca bracteata,Black tea tree,Myrtaceae,16,13,620,1929,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-1050,Sherwood Arboretum,1050,-27.52979675,152.9743664,Alphitonia excelsa,Red Ash,Rhamnaceae,9,3,55,,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-1051,Sherwood Arboretum,1051,-27.5297911,152.9745008,Alphitonia excelsa,Red Ash,Rhamnaceae,9,6,110,,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-1052,Sherwood Arboretum,1052,-27.52978981,152.972954,Brachychiton rupestris,Narrow-leaved bottle tree,Sterculiaceae,18,18,1420,,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-1053,Sherwood Arboretum,1053,-27.52978779,152.973943,Araucaria bidwillii,Bunya Pine,Araucariaceae,21,10,750,1929,NALL-CV-2257;NALL-SNV-881,No
+SHW-1054,Sherwood Arboretum,1054,-27.52978257,152.974473,Araucaria cunninghamii var. cunninghamii,Hoop Pine,Araucariaceae,18,6,460,,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-1055,Sherwood Arboretum,1055,-27.52977935,152.974147,Melaleuca quinquenervia,Broad-leaved paperbark,Myrtaceae,12,9,300,,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-1056,Sherwood Arboretum,1056,-27.52977841,152.9740443,Allocasuarina torulosa,Forest Oak,Casuarinaceae,9,4,290,2009,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-1058,Sherwood Arboretum,1058,-27.5297707,152.9731582,Macadamia integrifolia,"Macadamia, Queensland Nut",Proteaceae,9,6,200,,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-1059,Sherwood Arboretum,1059,-27.52977038,152.9730176,Macadamia integrifolia,"Macadamia, Queensland Nut",Proteaceae,16,15,370,,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-1060,Sherwood Arboretum,1060,-27.52976847,152.9733989,Harpullia pendula,Tulipwood,Sapindaceae,15,16,420,1949,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-1061,Sherwood Arboretum,1061,-27.52975978,152.973281,Macadamia integrifolia,"Macadamia, Queensland Nut",Proteaceae,9,6,200,,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-1062,Sherwood Arboretum,1062,-27.52974856,152.973857,Casuarina glauca,Swamp oak,Casuarinaceae,8,5,170,2011,NALL-CV-2257;NALL-SNV-881,No
+SHW-1063,Sherwood Arboretum,1063,-27.52974775,152.9730597,Macadamia integrifolia,"Macadamia, Queensland Nut",Proteaceae,11,10,310,,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-1064,Sherwood Arboretum,1064,-27.52974313,152.9727736,Ficus rubiginosa,"Port Jackson fig, rusty fig",Moraceae,5,4,140,,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-1065,Sherwood Arboretum,1065,-27.52974019,152.9725752,Hibiscus heterophyllus,Native rosella,Malvaceae,6,4,140,,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-1066,Sherwood Arboretum,1066,-27.52972776,152.9728763,Pleiogynium timoriense,Burdekin plum,Ancardiaceae,8,7,240,,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-1067,Sherwood Arboretum,1067,-27.5297272,152.9726676,Sterculia quadrifida,Peanut tree,Malvaceae,5,3,70,,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-1068,Sherwood Arboretum,1068,-27.5297221,152.9734825,Macadamia ternifolia,Gympie nut,Proteaceae,12,9,300,1929,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-1069,Sherwood Arboretum,1069,-27.52971661,152.9729476,Pleiogynium timoriense,Burdekin plum,Ancardiaceae,7,8,240,,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-1070,Sherwood Arboretum,1070,-27.52970397,152.9738184,Banksia integrifolia subsp. integrifolia,Coast banksia,Proteaceae,5,2,45,2015,NALL-CV-2257;NALL-SNV-881,No
+SHW-1071,Sherwood Arboretum,1071,-27.52969638,152.9744897,Araucaria bidwillii,Bunya Pine,Araucariaceae,18,9,500,,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-1072,Sherwood Arboretum,1072,-27.52969551,152.974357,Casuarina glauca,Swamp oak,Casuarinaceae,15,5,240,,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-1073,Sherwood Arboretum,1073,-27.52969406,152.9728578,Flindersia collina,Leopard ash,Rutaceae	,12,7,260,,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-1074,Sherwood Arboretum,1074,-27.52968164,152.9733304,Pleiogynium timoriense,Burdekin plum,Ancardiaceae,15,25,710,,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-1075,Sherwood Arboretum,1075,-27.52968077,152.9739784,Brachychiton compactus,Whitsunday bottle tree,Sterculiaceae,3,2,200,2020,NALL-CV-2257;NALL-SNV-881,No
+SHW-1076,Sherwood Arboretum,1076,-27.52967032,152.9730906,Lepiderema sp. (Impulse Creek),None recorded,Sapindaceae,4.8,2,70,2017,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-1077,Sherwood Arboretum,1077,-27.52967255,152.9734018,Pterospermum acerifolium,Bayur Tree,Malvaceae,23,18,750,1939,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-1078,Sherwood Arboretum,1078,-27.52965599,152.9730306,Brachychiton discolor,Lacebark tree,Sterculiaceae,1.5,1,20,2017,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-1079,Sherwood Arboretum,1079,-27.52965297,152.9740748,Barringtonia acutangula,Freshwater mangrove,Elaeocarpaceae,4,5,100,2017,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-1080,Sherwood Arboretum,1080,-27.52964682,152.9726785,Alectryon tomentosus,Woolly Rambutan,Sapindaceae,4.5,4,30,,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-1081,Sherwood Arboretum,1081,-27.52964205,152.9738992,Terminalia arenicola,Tropical Almond,Combretaceae,5,6,90,2017,NALL-CV-2257;NALL-SNV-881,No
+SHW-1082,Sherwood Arboretum,1082,-27.52963711,152.9731663,Cupaniopsis tomentella,Boonah tuckeroo,Sapindaceae,3.5,1,40,2020,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-1084,Sherwood Arboretum,1084,-27.52963193,152.9738094,Ochrosia elliptica,Bloodhorn,Apocynaceae,3.5,3,40,2018,NALL-CV-2257;NALL-SNV-881,No
+SHW-1088,Sherwood Arboretum,1088,-27.52962372,152.9727992,Pleiogynium timoriense,Burdekin plum,Ancardiaceae,9,13,340,,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-1089,Sherwood Arboretum,1089,-27.5296172,152.974289,Casuarina glauca,Swamp oak,Casuarinaceae,15,9,360,1929,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-1090,Sherwood Arboretum,1090,-27.52961704,152.9744411,Corymbia tessellaris,Moreton Bay ash,Myrtaceae,11,5,120,,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-1091,Sherwood Arboretum,1091,-27.5296129,152.9742846,Casuarina glauca,Swamp oak,Casuarinaceae,12,7,230,1929,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-1093,Sherwood Arboretum,1093,-27.52960962,152.9729043,Pleiogynium timoriense,Burdekin plum,Ancardiaceae,14,16,420,,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-1094,Sherwood Arboretum,1094,-27.52960468,152.9731108,Diploglottis diphyllostegia,Native tamarind,Sapindaceae,4.5,4,95,2017,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-1097,Sherwood Arboretum,1097,-27.52959656,152.9732843,Acacia maidenii,Maiden's wattle,Mimosaceae,9,6,190,,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-1099,Sherwood Arboretum,1099,-27.52960487,152.9746288,Citrus X sinensis,Orange,Rutaceae	,6,6,250,,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-1100,Sherwood Arboretum,1100,-27.52957243,152.9746166,Grevillea robusta,Silky oak,Proteaceae,18,7,360,,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-1101,Sherwood Arboretum,1101,-27.52956542,152.97444,Casuarina glauca,Swamp oak,Casuarinaceae,17,7,640,,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-1102,Sherwood Arboretum,1102,-27.52956414,152.9729858,Grevillea robusta,Silky oak,Proteaceae,7,5,130,2015,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-1103,Sherwood Arboretum,1103,-27.5295635,152.972761,Pleiogynium timoriense,Burdekin plum,Ancardiaceae,16,18,560,,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-1104,Sherwood Arboretum,1104,-27.52955856,152.9733746,Pterospermum acerifolium,Bayur Tree,Malvaceae,22,20,1400,1939,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-1105,Sherwood Arboretum,1105,-27.52955776,152.9730487,Brachychiton rupestris,Narrow-leaved bottle tree,Sterculiaceae,3.5,2,120,2015,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-1106,Sherwood Arboretum,1106,-27.52955545,152.9728838,Sterculia quadrifida,Peanut tree,Malvaceae,7,4,130,,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-1107,Sherwood Arboretum,1107,-27.52954295,152.9731591,Vitex lignum-vitae,Yellow hollywood,Lamiaceae,4,2,50,2018,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-1108,Sherwood Arboretum,1108,-27.52952169,152.9743211,Rhus taitensis,Sumac,Ancardiaceae,6,7,110,2017,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-1109,Sherwood Arboretum,1109,-27.52951961,152.9730178,Acacia maidenii,Maiden's wattle,Mimosaceae,10,7,200,2015,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-1110,Sherwood Arboretum,1110,-27.52951483,152.9729556,Harpullia hillii,Blunt-leaved tulip or oblong-leaved tulip,Sapindaceae,4,1,40,2018,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-1111,Sherwood Arboretum,1111,-27.52956241,152.9745282,Waterhousea floribunda,Weeping Lillypilly,Myrtaceae,16,18,780,,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-1112,Sherwood Arboretum,1112,-27.52950719,152.9744399,Syzygium oleosum,Blue lilly pilly,Myrtaceae,12,8,270,,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-1113,Sherwood Arboretum,1113,-27.52950225,152.9738948,Agathis robusta,Queensland kauri pine,Araucariaceae,19,8,460,,NALL-CV-2257;NALL-SNV-881,No
+SHW-1114,Sherwood Arboretum,1114,-27.52950097,152.9731054,Brachychiton rupestris,Narrow-leaved bottle tree,Sterculiaceae,3,1,50,2018,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-1116,Sherwood Arboretum,1116,-27.52939687,152.9740136,Agathis robusta,Queensland kauri pine,Araucariaceae,13,5,350,,NALL-CV-2257;NALL-SNV-881,No
+SHW-1117,Sherwood Arboretum,1117,-27.52948138,152.9740634,Pleiogynium timoriense,Burdekin plum,Ancardiaceae,6,9,390,,NALL-CV-2257;NALL-SNV-881,No
+SHW-1118,Sherwood Arboretum,1118,-27.52947644,152.9744509,Syzygium oleosum,Blue lilly pilly,Myrtaceae,12,8,260,,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-1119,Sherwood Arboretum,1119,-27.52947229,152.9730274,Brachychiton discolor,Lacebark tree,Sterculiaceae,5.5,4,110,2015,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-1120,Sherwood Arboretum,1120,-27.5294707,152.973762,Agathis robusta,Queensland kauri pine,Araucariaceae,2.5,1,30,,NALL-CV-2257;NALL-SNV-881,No
+SHW-1121,Sherwood Arboretum,1121,-27.52945541,152.9744038,Agathis robusta,Queensland kauri pine,Araucariaceae,20,8,470,,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-1122,Sherwood Arboretum,1122,-27.52945484,152.9727878,Pentaceras australe,"Penta Ash, Black Teak",Rutaceae	,7,3,50,2017,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-1123,Sherwood Arboretum,1123,-27.52945262,152.974182,Harpullia pendula,Tulipwood,Sapindaceae,10,7,340,,NALL-CV-2257;NALL-SNV-881,No
+SHW-1124,Sherwood Arboretum,1124,-27.5294437,152.974236,Harpullia pendula,Tulipwood,Sapindaceae,10,8,290,,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-1125,Sherwood Arboretum,1125,-27.52943947,152.9738219,Agathis robusta,Queensland kauri pine,Araucariaceae,17,8,370,,NALL-CV-2257;NALL-SNV-881,No
+SHW-1126,Sherwood Arboretum,1126,-27.52943478,152.974323,Harpullia pendula,Tulipwood,Sapindaceae,10,12,330,,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-1128,Sherwood Arboretum,1128,-27.52943413,152.9733766,Araucaria bidwillii,Bunya Pine,Araucariaceae,9,5,190,2012,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-1130,Sherwood Arboretum,1130,-27.52943215,152.9744088,Grevillea robusta,Silky oak,Proteaceae,14,4,220,,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-1131,Sherwood Arboretum,1131,-27.52943159,152.9744743,Syzygium oleosum,Blue lilly pilly,Myrtaceae,11,8,270,,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-1132,Sherwood Arboretum,1132,-27.52942991,152.9739625,Pleiogynium timoriense,Burdekin plum,Ancardiaceae,7,8,300,,NALL-CV-2257;NALL-SNV-881,No
+SHW-1133,Sherwood Arboretum,1133,-27.52942497,152.9731651,Brachychiton australis,Broad-leaved Bottle Tree,Sterculiaceae,12,15,700,1929,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-1134,Sherwood Arboretum,1134,-27.52941501,152.9738891,Pleiogynium timoriense,Burdekin plum,Ancardiaceae,7,6,170,,NALL-CV-2257;NALL-SNV-881,No
+SHW-1135,Sherwood Arboretum,1135,-27.52940913,152.9742109,Araucaria cunninghamii var. cunninghamii,Hoop Pine,Araucariaceae,26,10,680,,NALL-CV-2257;NALL-SNV-881,No
+SHW-1136,Sherwood Arboretum,1136,-27.52940577,152.9728303,Brachychiton australis,Broad-leaved Bottle Tree,Sterculiaceae,4.5,2,55,,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-1137,Sherwood Arboretum,1137,-27.5294049,152.9730095,Brachychiton australis,Broad-leaved Bottle Tree,Sterculiaceae,4,2,75,2017,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-1138,Sherwood Arboretum,1138,-27.52939399,152.9740947,Melaleuca decora/ melaleuca linariifolia,White feather honeymyrtle,Myrtaceae,11,10,460,,NALL-CV-2257;NALL-SNV-881,No
+SHW-1139,Sherwood Arboretum,1139,-27.52938578,152.9737652,Agathis robusta,Queensland kauri pine,Araucariaceae,22,10,470,,NALL-CV-2257;NALL-SNV-881,No
+SHW-1140,Sherwood Arboretum,1140,-27.52938488,152.9729496,Acacia maidenii,Maiden's wattle,Mimosaceae,8,6,180,,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-1141,Sherwood Arboretum,1141,-27.52936865,152.9738889,Agathis robusta,Queensland kauri pine,Araucariaceae,22,9,570,,NALL-CV-2257;NALL-SNV-881,No
+SHW-1142,Sherwood Arboretum,1142,-27.52936706,152.9728686,Atalaya salicifolia,Brush whitewood,Sapindaceae,14,7,240,,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-1143,Sherwood Arboretum,1143,-27.52936157,152.9744587,Syzygium francisii,Giant water gum,Myrtaceae,11,7,380,,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-1144,Sherwood Arboretum,1144,-27.52935304,152.9730056,Brachychiton acerifolius,Illawarra flame tree,Sterculiaceae,8,6,170,,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-1145,Sherwood Arboretum,1145,-27.529352,152.9731206,Pararchidendron pruinosum,Snow wood,Mimosaceae,2.5,2,60,2017,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-1146,Sherwood Arboretum,1146,-27.52935081,152.97371,Agathis microstachya,Bull Kauri,Araucariaceae,20,8,480,,NALL-CV-2257;NALL-SNV-881,No
+SHW-1147,Sherwood Arboretum,1147,-27.52934667,152.9739392,Agathis robusta,Queensland kauri pine,Araucariaceae,16,4,270,,NALL-CV-2257;NALL-SNV-881,No
+SHW-1148,Sherwood Arboretum,1148,-27.52934428,152.9744938,Pinus taeda,Loblolly pine,Pinaceae	,21,10,640,,NALL-WWV-2529,No
+SHW-1149,Sherwood Arboretum,1149,-27.52933385,152.974441,Syzygium francisii,Giant water gum,Myrtaceae,14,8,280,,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-1150,Sherwood Arboretum,1150,-27.52933377,152.974367,Eucalyptus pellita,Large-fruited red mahogany,Myrtaceae,13,7,320,,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-1151,Sherwood Arboretum,1151,-27.52932187,152.9739941,Araucaria cunninghamii var. cunninghamii,Hoop Pine,Araucariaceae,8,4,120,,NALL-CV-2257;NALL-SNV-881,No
+SHW-1152,Sherwood Arboretum,1152,-27.5293262,152.9742514,Grevillea robusta,Silky oak,Proteaceae,18,7,280,,NALL-CV-2257;NALL-SNV-881,No
+SHW-1153,Sherwood Arboretum,1153,-27.52932349,152.9744818,Pinus taeda,Loblolly pine,Pinaceae	,20,9,450,,NALL-WWV-2529,No
+SHW-1154,Sherwood Arboretum,1154,-27.52931824,152.9741669,Melaleuca decora,White feather honeymyrtle,Myrtaceae,13,9,530,,NALL-CV-2257;NALL-SNV-881,No
+SHW-1155,Sherwood Arboretum,1155,-27.52931743,152.9728642,Brachychiton acerifolius,Illawarra flame tree,Sterculiaceae,7,6,150,,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-1156,Sherwood Arboretum,1156,-27.52931687,152.9729785,Nauclea orientalis,Leichardt Tree,Rubiaceae,16,16,480,,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-1157,Sherwood Arboretum,1157,-27.52930906,152.9730841,Araucaria cunninghamii var. cunninghamii,Hoop Pine,Araucariaceae,12,4,180,,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-1159,Sherwood Arboretum,1159,-27.52930102,152.973396,Davidsonia pruriens,Davidson's plum,Cunoniaceae,10,6,330,1929,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-1160,Sherwood Arboretum,1160,-27.52929758,152.9731889,Davidsonia johnsonii,Davidson's plum,Cunoniaceae,2.5,1,40,,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-1161,Sherwood Arboretum,1161,-27.52929281,152.9738091,Agathis microstachya,Bull Kauri,Araucariaceae,21,12,570,,NALL-CV-2257;NALL-SNV-881,No
+SHW-1162,Sherwood Arboretum,1162,-27.52929113,152.973941,Agathis robusta,Queensland kauri pine,Araucariaceae,28,12,770,,NALL-CV-2257;NALL-SNV-881,No
+SHW-1163,Sherwood Arboretum,1163,-27.52929082,152.9740529,Agathis robusta,Queensland kauri pine,Araucariaceae,2.4,1,25,,NALL-CV-2257;NALL-SNV-881,No
+SHW-1164,Sherwood Arboretum,1164,-27.52928484,152.9730372,Gyrocarpus americanus,Coolamon tree,Sterculiaceae,7,3,160,,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-1165,Sherwood Arboretum,1165,-27.52928125,152.9733071,Pleiogynium timoriense,Burdekin plum,Ancardiaceae,12,16,670,1929,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-1166,Sherwood Arboretum,1166,-27.52926398,152.9743928,Syzygium oleosum,Blue lilly pilly,Myrtaceae,10,7,260,,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-1167,Sherwood Arboretum,1167,-27.52924549,152.9738758,Agathis robusta,Queensland kauri pine,Araucariaceae,17,4,240,,NALL-CV-2257;NALL-SNV-881,No
+SHW-1168,Sherwood Arboretum,1168,-27.5292372,152.973984,Agathis robusta,Queensland kauri pine,Araucariaceae,22,10,560,,NALL-CV-2257;NALL-SNV-881,No
+SHW-1169,Sherwood Arboretum,1169,-27.52922653,152.9739222,Agathis robusta,Queensland kauri pine,Araucariaceae,30,15,870,,NALL-CV-2257;NALL-SNV-881,No
+SHW-1170,Sherwood Arboretum,1170,-27.52922246,152.9729525,Brachychiton australis,Broad-leaved Bottle Tree,Sterculiaceae,14,15,680,,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-1171,Sherwood Arboretum,1171,-27.52921848,152.9728568,Flindersia schottiana,"Bumpy ash, cudgerie",Rutaceae	,15,6,160,,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-1173,Sherwood Arboretum,1173,-27.52921394,152.9731276,Brachychiton discolor,Lacebark tree,Sterculiaceae,14,15,750,,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-1175,Sherwood Arboretum,1175,-27.52920143,152.973358,Davidsonia pruriens,Davidson's plum,Cunoniaceae,9,8,275,1929,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-1176,Sherwood Arboretum,1176,-27.52920072,152.9737976,Agathis microstachya,Bull Kauri,Araucariaceae,24,14,750,,NALL-CV-2257;NALL-SNV-881,No
+SHW-1178,Sherwood Arboretum,1178,-27.52918686,152.9728852,Brachychiton acerifolius,Illawarra flame tree,Sterculiaceae,6,5,150,,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-1179,Sherwood Arboretum,1179,-27.52918375,152.9732736,Pleiogynium timoriense,Burdekin plum,Ancardiaceae,12,20,1060,1929,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-1180,Sherwood Arboretum,1180,-27.52917929,152.9729727,Grevillea robusta,Silky oak,Proteaceae,17,5,410,,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-1181,Sherwood Arboretum,1181,-27.52915412,152.9729995,Argyrodendron trifoliolatum,White booyong,Malvaceae,17,6,280,,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-1182,Sherwood Arboretum,1182,-27.52915069,152.9729216,Argyrodendron trifoliolatum,White booyong,Malvaceae,9,5,190,,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-1183,Sherwood Arboretum,1183,-27.529106,152.9731099,Davidsonia jerseyana,Mullumbimby Plum,Cunoniaceae,1.8,1,35,2018,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-1184,Sherwood Arboretum,1184,-27.52906936,152.9731748,Agathis robusta,Queensland kauri pine,Araucariaceae,28,10,540,,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-1185,Sherwood Arboretum,1185,-27.52952554,152.9741642,Araucaria cunninghamii var. cunninghamii,Hoop Pine,Araucariaceae,5,4,60,2020,NALL-CV-2257;NALL-SNV-881,No
+SHW-1186,Sherwood Arboretum,1186,-27.5295548,152.9740861,Araucaria cunninghamii var. cunninghamii,Hoop Pine,Araucariaceae,3,2,40,2020,NALL-CV-2257;NALL-SNV-881,No
+SHW-1187,Sherwood Arboretum,1187,-27.52953185,152.9739993,Araucaria cunninghamii var. cunninghamii,Hoop Pine,Araucariaceae,6,3,70,2020,NALL-CV-2257;NALL-SNV-881,No
+SHW-1188,Sherwood Arboretum,1188,-27.53022342,152.9743101,Eucalyptus robusta,"Swamp mahogany, swamp messmate",Myrtaceae,12,5,200,,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-1189,Sherwood Arboretum,1189,-27.52905833,152.9726879,Eucalyptus tereticornis subsp. tereticornis,Forest red gum,Myrtaceae,29,40,1840,,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-1190,Sherwood Arboretum,1190,-27.53270989,152.9728038,Angophora leiocarpa,Rusty gum,Myrtaceae,7,2,40,2020,NALL-CV-2257;NALL-SNV-881,No
+SHW-1191,Sherwood Arboretum,1191,-27.53278429,152.9727566,Angophora leiocarpa,Rusty gum,Myrtaceae,7,2,130,2020,NALL-CV-2257;NALL-SNV-881,No
+SHW-1193,Sherwood Arboretum,1193,-27.5329557,152.9736761,Syzygium luehmannii,Small-leaved lilly pilly,Myrtaceae,1.5,1,40,2020,NALL-CV-2257;NALL-SNV-881,No
+SHW-1194,Sherwood Arboretum,1194,-27.53295987,152.9737024,Syzygium luehmannii,Small-leaved lilly pilly,Myrtaceae,1.5,1,40,2020,NALL-CV-2257;NALL-SNV-881,No
+SHW-1196,Sherwood Arboretum,1196,-27.53260656,152.9747738,Corymbia tessellaris,Moreton Bay ash,Myrtaceae,5,1,75,2020,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-1197,Sherwood Arboretum,1197,-27.53264693,152.9753996,Flindersia schottiana,"Bumpy ash, cudgerie",Rutaceae	,4.5,3,60,2020,NALL-WWV-2529,No
+SHW-1198,Sherwood Arboretum,1198,-27.5327241,152.9753795,Flindersia schottiana,"Bumpy ash, cudgerie",Rutaceae	,5.5,3,50,2020,NALL-WWV-2529,No
+SHW-1199,Sherwood Arboretum,1199,-27.53280077,152.9753698,Flindersia schottiana,"Bumpy ash, cudgerie",Rutaceae	,4.5,2,50,2020,NALL-WWV-2529,No
+SHW-1200,Sherwood Arboretum,1200,-27.53168461,152.9754963,Syzygium francisii,Giant water gum,Myrtaceae,2.2,1,40,2020,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-1201,Sherwood Arboretum,1201,-27.53178977,152.9755077,Syzygium francisii,Giant water gum,Myrtaceae,2,1,40,2020,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-1202,Sherwood Arboretum,1202,-27.53230298,152.9754511,Syzygium francisii,Giant water gum,Myrtaceae,2,1,35,2020,NALL-CV-2257;NALL-WWV-2529,No
+SHW-1203,Sherwood Arboretum,1203,-27.53152265,152.9754046,Lophostemon suaveolens,Swamp Box,Myrtaceae,6,3,100,2020,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-1204,Sherwood Arboretum,1204,-27.53154652,152.9754321,Lophostemon suaveolens,Swamp Box,Myrtaceae,6,2,85,2020,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-1205,Sherwood Arboretum,1205,-27.53152367,152.9754401,Lophostemon suaveolens,Swamp Box,Myrtaceae,6,3,110,2020,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-1206,Sherwood Arboretum,1206,-27.53139929,152.9753546,Lophostemon suaveolens,Swamp Box,Myrtaceae,6,3,90,2020,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-1207,Sherwood Arboretum,1207,-27.53137338,152.9753443,Lophostemon suaveolens,Swamp Box,Myrtaceae,6,3,100,2020,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-1208,Sherwood Arboretum,1208,-27.53142366,152.9753151,Lophostemon suaveolens,Swamp Box,Myrtaceae,6,3,90,2020,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-1209,Sherwood Arboretum,1209,-27.53025945,152.9746388,Syzygium francisii,Giant water gum,Myrtaceae,3,1,55,2020,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-1210,Sherwood Arboretum,1210,-27.53037124,152.9748386,Syzygium francisii,Giant water gum,Myrtaceae,2.5,1,45,2020,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-1211,Sherwood Arboretum,1211,-27.53047531,152.9749829,Syzygium francisii,Giant water gum,Myrtaceae,3.5,1,60,2020,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-1212,Sherwood Arboretum,1212,-27.53156631,152.974124,Eucalyptus robusta,"Swamp mahogany, swamp messmate",Myrtaceae,4.5,2,70,2020,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-1213,Sherwood Arboretum,1213,-27.53177382,152.9741785,Eucalyptus robusta,"Swamp mahogany, swamp messmate",Myrtaceae,2,1,25,2020,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-1214,Sherwood Arboretum,1214,-27.53187485,152.9742615,Eucalyptus robusta,"Swamp mahogany, swamp messmate",Myrtaceae,5,3,40,2020,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-1215,Sherwood Arboretum,1215,-27.53192156,152.9743428,Eucalyptus robusta,"Swamp mahogany, swamp messmate",Myrtaceae,4,2,45,2020,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-1216,Sherwood Arboretum,1216,-27.53194352,152.9743895,Melaleuca quinquenervia,Broad-leaved paperbark,Myrtaceae,4.5,1,40,2020,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-1217,Sherwood Arboretum,1217,-27.53196992,152.9744244,Melaleuca quinquenervia,Broad-leaved paperbark,Myrtaceae,4,1,30,2020,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-1218,Sherwood Arboretum,1218,-27.53199835,152.9744588,Melaleuca quinquenervia,Broad-leaved paperbark,Myrtaceae,4,1,45,2020,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-1219,Sherwood Arboretum,1219,-27.53211411,152.9745842,Melaleuca quinquenervia,Broad-leaved paperbark,Myrtaceae,4,1,45,2020,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-1220,Sherwood Arboretum,1220,-27.53214356,152.9746111,Melaleuca quinquenervia,Broad-leaved paperbark,Myrtaceae,4,2,45,2020,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-1221,Sherwood Arboretum,1221,-27.5321796,152.974646,Melaleuca quinquenervia,Broad-leaved paperbark,Myrtaceae,3,1,40,2020,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-1222,Sherwood Arboretum,1222,-27.53214556,152.972602,Eucalyptus fibrosa,Red ironbark,Myrtaceae,4,2,20,2020,NALL-CV-2257;NALL-SNV-881,No
+SHW-1223,Sherwood Arboretum,1223,-27.53211398,152.9725291,Eucalyptus fibrosa,Red ironbark,Myrtaceae,4,3,45,2020,NALL-CV-2257;NALL-SNV-881,No
+SHW-1224,Sherwood Arboretum,1224,-27.53211225,152.9724593,Eucalyptus fibrosa,Red ironbark,Myrtaceae,4,2,50,2020,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-1225,Sherwood Arboretum,1225,-27.5307496,152.9735772,Argyrodendron sp. Kin kin,None recorded,Malvaceae,3,2,35,2020,NALL-CV-2257;NALL-SNV-881,No
+SHW-1226,Sherwood Arboretum,1226,-27.53048827,152.9734817,Acacia bakeri,Marblewood,Mimosaceae,3,2,52,2020,NALL-CV-2257;NALL-SNV-881,No
+SHW-1227,Sherwood Arboretum,1227,-27.53027866,152.9733243,Syzygium forte,White Apple,Myrtaceae,1.8,2,30,2020,NALL-CV-2257;NALL-SNV-881,No
+SHW-1228,Sherwood Arboretum,1228,-27.53037664,152.9731699,Elaeocarpus bancroftii,Kuranda quandong,Elaeocarpaceae,4,2,50,2020,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-1229,Sherwood Arboretum,1229,-27.53046251,152.9729657,Brachychiton sp. Ormeau,Ormeau bottle tree,Sterculiaceae,4,3,110,2020,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-1230,Sherwood Arboretum,1230,-27.53071663,152.9730323,Syzygium moorei,Coolamon,Myrtaceae,3,1,50,2020,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-1233,Sherwood Arboretum,1233,-27.53145003,152.9721963,Eucalyptus grandis,Flooded gum,Myrtaceae,6,4,80,2021,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-1234,Sherwood Arboretum,1234,-27.53152856,152.9721905,Eucalyptus grandis,Flooded gum,Myrtaceae,5,4,50,2021,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-1235,Sherwood Arboretum,1235,-27.53152248,152.9722812,Eucalyptus grandis,Flooded gum,Myrtaceae,3.5,3,40,2021,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-1236,Sherwood Arboretum,1236,-27.53177405,152.9719997,Grevillea robusta,Silky oak,Proteaceae,5,2,45,2021,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-1237,Sherwood Arboretum,1237,-27.52922647,152.9728924,Agryodendron trifoliate,White booyong,Sterculiaceae,12,5,170,,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-1238,Sherwood Arboretum,1238,-27.53256706,152.9753403,Jacaranda mimosifolia,Jacaranda,Bignoniaceae	,7,8,420,,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-1239,Sherwood Arboretum,1239,-27.53175704,152.97263,Casuarina glauca,Swamp oak,Casuarinaceae,5.5,4,60,,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-1240,Sherwood Arboretum,1240,-27.53176049,152.9726126,Corymbia tessellaris,Moreton Bay ash,Myrtaceae,3,2,40,,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-1241,Sherwood Arboretum,1241,-27.53171273,152.9727949,Corymbia tessellaris,Moreton Bay ash,Myrtaceae,5,2,40,,NALL-CV-2257;NALL-SNV-881,No
+SHW-1243,Sherwood Arboretum,1243,-27.53133175,152.9742358,Melaleuca bracteata,Black tea tree,Myrtaceae,7,4,180,,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-1243-B,Sherwood Arboretum,1243,-27.53128928,152.9742939,Melaleuca bracteata,Black tea tree,Myrtaceae,4,4,100,,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-1244,Sherwood Arboretum,1244,-27.5299117,152.9743977,Ficus coronata,Sandpaper fig,Moraceae,8,6,95,,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-1245,Sherwood Arboretum,1245,-27.53229921,152.9728369,Eucalyptus populnea,Poplar box,Myrtaceae,3.5,2,40,,NALL-CV-2257;NALL-SNV-881,No
+SHW-1246,Sherwood Arboretum,1246,-27.53229138,152.9728789,Eucalyptus sp.,Eucalyptus sp.,Myrtaceae,5,5,100,,NALL-CV-2257;NALL-SNV-881,No
+SHW-1248,Sherwood Arboretum,1248,-27.53121752,152.9728112,Macaranga tanarius,Bullocks heart,Phyllanthaceae,11,8,260,,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-1249,Sherwood Arboretum,1249,-27.5302385,152.9739484,Atalaya sp.,,Sapindaceae,2.5,1,30,,NALL-CV-2257;NALL-SNV-881,No
+SHW-1252,Sherwood Arboretum,1252,-27.53019908,152.9744821,Ficus macrophylla,Moreton Bay fig,Moraceae,13,9,420,,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-1253,Sherwood Arboretum,1253,-27.53176858,152.9755025,Acacia maidenii,Maiden's wattle,Mimosaceae,4,3,60,,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-1254,Sherwood Arboretum,1254,-27.53190542,152.9755517,Macaranga tanarius,Bullocks heart,Phyllanthaceae,8,9,240,,NALL-CV-2257;NALL-WWV-2529,No
+SHW-1255,Sherwood Arboretum,1255,-27.53223429,152.9761848,Acacia disparrima subsp. disparrima,Hickory wattle,Mimosaceae,10,6,280,,NALL-CV-2257,No
+SHW-1256,Sherwood Arboretum,1256,-27.53206859,152.9755259,Banksia robur ,Swamp Banksia,Proteaceae,2,3,85,,NALL-CV-2257;NALL-WWV-2529,No
+SHW-1257,Sherwood Arboretum,1257,-27.53215291,152.9755198,Glochidion ferdinandi,Cheese tree,Phyllanthaceae,6,6,140,,NALL-CV-2257;NALL-WWV-2529,No
+SHW-1258,Sherwood Arboretum,1258,-27.53141342,152.9747788,Casuarina glauca,Swamp oak,Casuarinaceae,5,4,90,,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-1259,Sherwood Arboretum,1259,-27.53141999,152.9748454,Casuarina glauca,Swamp oak,Casuarinaceae,10,8,200,,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-1260,Sherwood Arboretum,1260,-27.53144794,152.9749889,Glochidion ferdinandi,Cheese tree,Phyllanthaceae,2,1,40,,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-1261,Sherwood Arboretum,1261,-27.53145581,152.9751256,Casuarina glauca,Swamp oak,Casuarinaceae,6,3,90,,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-1262,Sherwood Arboretum,1262,-27.5314299,152.9752129,Glochidion ferdinandi,Cheese tree,Phyllanthaceae,3,2,100,,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-1263,Sherwood Arboretum,1263,-27.53216548,152.9764595,Corymbia tessellaris,Moreton Bay ash,Myrtaceae,4,1,40,,NALL-CV-2257,No
+SHW-1264,Sherwood Arboretum,1264,-27.53300585,152.9747645,Melaleuca viminalis subsp. viminalis,Weeping bottlebrush,Myrtaceae,5,4,190,,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-1265,Sherwood Arboretum,1265,-27.53177167,152.9735173,Flindersia schottiana,"Bumpy ash, cudgerie",Rutaceae	,3,2,40,2023,NALL-CV-2257;NALL-SNV-881,No
+SHW-1266,Sherwood Arboretum,1266,-27.53184435,152.9735078,Flindersia schottiana,"Bumpy ash, cudgerie",Rutaceae	,3,2,40,2023,NALL-CV-2257;NALL-SNV-881,No
+SHW-1267,Sherwood Arboretum,1267,-27.53190808,152.9735202,Flindersia schottiana,"Bumpy ash, cudgerie",Rutaceae	,3.5,2,40,2023,NALL-CV-2257;NALL-SNV-881,No
+SHW-1268,Sherwood Arboretum,1268,-27.53219406,152.9735963,Tristaniopsis laurina luscious,Water Gum,Myrtaceae,2.5,2,40,2023,NALL-CV-2257;NALL-SNV-881,No
+SHW-1269,Sherwood Arboretum,1269,-27.53224936,152.9736337,Tristaniopsis laurina luscious,Water Gum,Myrtaceae,2.5,1,40,2023,NALL-CV-2257;NALL-SNV-881,No
+SHW-1270,Sherwood Arboretum,1270,-27.53230361,152.9736574,Tristaniopsis laurina luscious,Water Gum,Myrtaceae,2.5,2,40,2023,NALL-CV-2257;NALL-SNV-881,No
+SHW-1271,Sherwood Arboretum,1271,-27.5325938,152.9737745,Elaeocarpus eumundi,Eumundi quandong,Elaeocarpaceae,2.1,1,35,2023,NALL-CV-2257;NALL-SNV-881,No
+SHW-1272,Sherwood Arboretum,1272,-27.53264647,152.9738386,Elaeocarpus eumundi,Eumundi quandong,Elaeocarpaceae,2.4,1,35,2023,NALL-CV-2257;NALL-SNV-881,No
+SHW-1273,Sherwood Arboretum,1273,-27.53265911,152.9739562,Elaeocarpus eumundi,Eumundi quandong,Elaeocarpaceae,2.2,1,30,2023,NALL-CV-2257;NALL-SNV-881,No
+SHW-1274,Sherwood Arboretum,1274,-27.5321722,152.9734475,Alloxylon flammeum,Queensland tree waratah,Proteaceae,2,1,15,2023,NALL-CV-2257;NALL-SNV-881,No
+SHW-1275,Sherwood Arboretum,1275,-27.53221381,152.9734416,Alloxylon flammeum,Queensland tree waratah,Proteaceae,2.2,1,25,2023,NALL-CV-2257;NALL-SNV-881,No
+SHW-1276,Sherwood Arboretum,1276,-27.53226622,152.9735099,Alloxylon flammeum,Queensland tree waratah,Proteaceae,2,1,25,2023,NALL-CV-2257;NALL-SNV-881,No
+SHW-1277,Sherwood Arboretum,1277,-27.53272758,152.973506,Syzygium luehmannii,Small-leaved lilly pilly,Myrtaceae,3,2,40,2023,NALL-CV-2257;NALL-SNV-881,No
+SHW-1278,Sherwood Arboretum,1278,-27.53284081,152.9735986,Syzygium luehmannii,Small-leaved lilly pilly,Myrtaceae,2.4,1,25,2023,NALL-CV-2257;NALL-SNV-881,No
+SHW-1279,Sherwood Arboretum,1279,-27.53282764,152.9735208,Syzygium luehmannii,Small-leaved lilly pilly,Myrtaceae,2.4,2,30,2023,NALL-CV-2257;NALL-SNV-881,No
+SHW-1280,Sherwood Arboretum,1280,-27.53238735,152.9722356,Ficus pleurocarpa,Banana Fig,Moraceae,1,1,15,2023,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-1281,Sherwood Arboretum,1281,-27.53183803,152.9724731,Eucalyptus racemosa,Narrow-leaved scribbly gum,Myrtaceae,2,1,20,2023,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-1282,Sherwood Arboretum,1282,-27.53187385,152.9724761,Eucalyptus planchoniana,Needlebark stringybark,Myrtaceae,1.8,1,20,2023,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-1283,Sherwood Arboretum,1283,-27.53191809,152.9724726,Corymbia maculata,Spotted gum,Myrtaceae,2.2,1,25,2023,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-1284,Sherwood Arboretum,1284,-27.53185989,152.9725826,Eucalyptus fibrosa,Red ironbark,Myrtaceae,0.5,1,5,2023,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-1285,Sherwood Arboretum,1285,-27.53184251,152.9726026,Eucalyptus racemosa,Narrow-leaved scribbly gum,Myrtaceae,2.2,1,20,2023,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-1286,Sherwood Arboretum,1286,-27.53196628,152.9724657,Eucalyptus acmenoides,White mahogany,Myrtaceae,1.8,1,20,2023,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-1287,Sherwood Arboretum,1287,-27.5320042,152.9724574,Corymbia maculata,Spotted gum,Myrtaceae,3,2,30,2023,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-1288,Sherwood Arboretum,1288,-27.5320674,152.9724414,Eucalyptus acmenoides,White mahogany,Myrtaceae,3,2,40,2023,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-1289,Sherwood Arboretum,1289,-27.53188816,152.9725087,Eucalyptus fibrosa,Red ironbark,Myrtaceae,0.5,1,5,2023,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-1292,Sherwood Arboretum,1292,-27.5295869,152.9741946,Acacia disparrima subsp. disparrima,Hickory wattle,Mimosaceae,9,6,140,,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-1293,Sherwood Arboretum,1293,-27.53226049,152.9724297,Corymbia sp.,,Myrtaceae,2.2,2,15,,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-1294,Sherwood Arboretum,1294,-27.53015087,152.9734241,Sarcopteryx martyana ,None,Sapindaceae,1.2,1,8,2023,NALL-CV-2257;NALL-SNV-881,No
+SHW-1295,Sherwood Arboretum,1295,-27.53230616,152.97243,Corymbia sp.,,Myrtaceae,4,2,30,,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-1296,Sherwood Arboretum,1296,-27.53027023,152.9726557,Eucalyptus siderophloia,Northern grey ironbark,Myrtaceae,20,8,290,,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-1297,Sherwood Arboretum,1297,-27.53215095,152.9724397,Eucalyptus sp.,Eucalyptus sp.,Myrtaceae,6,2,50,,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-1298,Sherwood Arboretum,1298,-27.53220275,152.9754963,Eucalyptus sp.,Eucalyptus sp.,Myrtaceae,9,7,190,,NALL-CV-2257;NALL-WWV-2529,No
+SHW-1299,Sherwood Arboretum,1299,-27.53170202,152.9761928,Ficus sp.,Ficus sp.,Moraceae,13,8,340,,NALL-CV-2257,No
+SHW-1300,Sherwood Arboretum,1300,-27.531709,152.9754828,Glochidion ferdinandi,Cheese tree,Phyllanthaceae,4,3,90,,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-1301,Sherwood Arboretum,1301,-27.53185657,152.9764914,Melaleuca leucadendra,Weeping paperbark,Myrtaceae,20,9,690,,NALL-CV-2257,No
+SHW-1302,Sherwood Arboretum,1302,-27.53184549,152.9766449,Melaleuca quinquenervia,Broad-leaved paperbark,Myrtaceae,17,6,340,,NALL-CV-2257,No
+SHW-1303,Sherwood Arboretum,1303,-27.52962948,152.9746336,Prunus sp.,None,Rosaceae,4.5,4,45,,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-1304,Sherwood Arboretum,1304,-27.5292603,152.9744301,Syzygium luehmannii,Small-leaved lilly pilly,Myrtaceae,6,3,100,,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-1305,Sherwood Arboretum,1305,-27.5304828,152.9732103,Bombax ceiba,Red Silk Cotton Tree,Malvaceae,1.5,1,5,,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No
+SHW-1306,Sherwood Arboretum,1306,-27.5305351,152.9731948,Brachychiton sp. Ormeau,Ormeau bottle tree,Sterculiaceae,1.5,1,5,,NALL-CV-2257;NALL-SNV-881;NALL-WWV-2529,No

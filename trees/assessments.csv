@@ -1,0 +1,2 @@
+assessment_id,tree_id,assessment_date,assessor,condition,issue_type,risk_rating,recommended_outcome,council_request_ref,notes
+HA-0001,SHW-0661,2026-10-28,EXAMPLE,Fair,Fallen or broken branches,Medium,Pruning,,EXAMPLE row: replace or delete

@@ -1,0 +1,2 @@
+repair_id,defect_id,repair_date,repair_type,status,crew,notes
+RP-0001,DF-0001,2026-10-30,Pothole fill,Scheduled,,EXAMPLE row: replace or delete

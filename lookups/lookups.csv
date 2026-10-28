@@ -1,0 +1,73 @@
+list,value,rank,source
+tree_condition,Dead,1,Assumption: placeholder scale; Council publishes none
+tree_condition,Poor,2,Assumption: placeholder scale; Council publishes none
+tree_condition,Fair,3,Assumption: placeholder scale; Council publishes none
+tree_condition,Good,4,Assumption: placeholder scale; Council publishes none
+tree_condition,Unknown,5,Assumption: placeholder scale; Council publishes none
+tree_issue_type,None observed,,Added for routine inspections
+tree_issue_type,Damaged or split,,Council tree removal request reasons
+tree_issue_type,Leaning,,Council tree removal request reasons
+tree_issue_type,Dead or dying,,Council tree removal request reasons
+tree_issue_type,Diseased or unhealthy,,Council tree maintenance request reasons
+tree_issue_type,Fallen or broken branches,,Council tree maintenance request reasons
+tree_issue_type,"Obstructing footpath, road or sign",,Council tree maintenance request reasons
+tree_issue_type,Imminent risk,,Council tree maintenance request reasons
+tree_issue_type,Pests,,Added
+tree_issue_type,Storm damage,,Added
+tree_issue_type,Other,,Added
+tree_risk_rating,Extreme,1,Assumption: placeholder scale; replace with your own (e.g. QTRA or TRAQ based)
+tree_risk_rating,High,2,Assumption: placeholder scale; replace with your own (e.g. QTRA or TRAQ based)
+tree_risk_rating,Medium,3,Assumption: placeholder scale; replace with your own (e.g. QTRA or TRAQ based)
+tree_risk_rating,Low,4,Assumption: placeholder scale; replace with your own (e.g. QTRA or TRAQ based)
+tree_outcome,No action,,Council assessment outcomes (Brisbane trees page)
+tree_outcome,Pruning,,Council assessment outcomes (Brisbane trees page)
+tree_outcome,Health management (tree rehabilitation),,Council assessment outcomes (Brisbane trees page)
+tree_outcome,Removal and replacement planting,,Council assessment outcomes (Brisbane trees page)
+tree_work_type,Structural pruning (young tree),,Council standard maintenance (Brisbane trees page)
+tree_work_type,Clearance pruning,,Council standard maintenance (Brisbane trees page)
+tree_work_type,Dead or diseased wood removal,,Council standard maintenance (Brisbane trees page)
+tree_work_type,Pest and disease management,,Council standard maintenance (Brisbane trees page)
+tree_work_type,Storm damage clean-up,,Council standard maintenance (Brisbane trees page)
+tree_work_type,Health management (rehabilitation),,Council assessment outcomes (Brisbane trees page)
+tree_work_type,Removal,,Council assessment outcomes (Brisbane trees page)
+tree_work_type,Stump grinding,,Council replacement process (Brisbane trees page)
+tree_work_type,Replacement planting,,Council replacement process (Brisbane trees page)
+tree_work_type,Inspection only,,Added
+tree_clearance_context,Verge or footpath,2.4,Council minimum low-branch clearance in metres (Brisbane trees page)
+tree_clearance_context,Residential or industrial road,4.5,Council minimum low-branch clearance in metres (Brisbane trees page)
+tree_clearance_context,Bikeway,4.5,Council minimum low-branch clearance in metres (Brisbane trees page)
+tree_clearance_context,Arterial road,5.0,Council minimum low-branch clearance in metres (Brisbane trees page)
+tree_clearance_context,Not applicable,,
+work_status,Requested,,
+work_status,Scheduled,,
+work_status,In progress,,
+work_status,Completed,,
+work_status,Cancelled,,
+road_class,Motorway,1,Council City Plan 2014 road hierarchy; rank is this dataset's priority order
+road_class,Motorway Tunnel,1,Council City Plan 2014 road hierarchy; rank is this dataset's priority order
+road_class,Arterial,2,Council City Plan 2014 road hierarchy; rank is this dataset's priority order
+road_class,Arterial Tunnel,2,Council City Plan 2014 road hierarchy; rank is this dataset's priority order
+road_class,District,3,Council City Plan 2014 road hierarchy; rank is this dataset's priority order
+road_class,Suburban,4,Council City Plan 2014 road hierarchy; rank is this dataset's priority order
+road_class,Neighbourhood / local,5,Council City Plan 2014 road hierarchy; rank is this dataset's priority order
+road_defect_type,Pothole,,Council potholes and road damage page
+road_defect_type,Rut,,Council potholes and road damage page
+road_defect_type,Crack,,Council potholes and road damage page
+road_defect_type,Edge failure,,Council potholes and road damage page
+road_defect_type,Other,,Council potholes and road damage page
+road_defect_status,Open,,Reported; not yet investigated
+road_defect_status,Investigating,,
+road_defect_status,Repair scheduled,,
+road_defect_status,Repaired,,
+road_defect_status,Closed,,No repair needed or referred elsewhere
+road_repair_type,Make safe (temporary),,
+road_repair_type,Pothole fill,,
+road_repair_type,Patch,,
+road_repair_type,Crack seal,,
+road_repair_type,Edge repair,,
+road_repair_type,Resurface,,
+road_repair_type,Inspection only,,
+road_response_target,Urgent,1,Council: urgent requests investigated within 24 hours (rank = calendar days)
+road_response_target,Non-urgent,7,Council: non-urgent requests investigated within 7 working days (rank = working days)
+yes_no,Yes,,
+yes_no,No,,

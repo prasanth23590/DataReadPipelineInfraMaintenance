@@ -1,0 +1,2 @@
+defect_id,segment_id,reported_date,latitude,longitude,defect_type,traffic_swerving,public_safety_concern,status,council_request_ref,notes
+DF-0001,RD-000001,2026-10-28,-27.3775877,153.0201129,Pothole,Yes,No,Open,,EXAMPLE row: replace or delete

@@ -1,0 +1,2 @@
+work_id,tree_id,assessment_id,work_date,work_type,clearance_context,status,crew,council_request_ref,notes
+WK-0001,SHW-0661,HA-0001,2026-11-04,Clearance pruning,Verge or footpath,Scheduled,,,EXAMPLE row: replace or delete
